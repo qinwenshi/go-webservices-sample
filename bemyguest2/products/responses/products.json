@@ -1,0 +1,247 @@
+{
+  "data": [
+    {
+      "uuid": "987081b3-2965-5300-bf35-8baa682ed969",
+      "updatedAt": "2018-01-30 10:32:14",
+      "title": "Kuala Lumpur Hop-on, Hop-off E-voucher",
+      "titleTranslated": "Kuala Lumpur Hop-on, Hop-off E-voucher",
+      "validFrom": null,
+      "validThrough": null,
+      "basePrice": 15.48,
+      "typeName": "Attraction",
+      "typeUuid": "d3c54653-dd05-598f-b193-f6683d1064ab",
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/products/987081b3-2965-5300-bf35-8baa682ed969"
+        },
+        {
+          "method": "GET",
+          "rel": "productTypes",
+          "href": "/v2/products/987081b3-2965-5300-bf35-8baa682ed969/product-types"
+        }
+      ]
+    },
+    {
+      "uuid": "007b281f-9e75-54dd-b40d-d6bd8c3edca5",
+      "updatedAt": "2018-01-30 10:27:31",
+      "title": "One-day Sky Hop on and Hop Off Sightseeing Bus",
+      "titleTranslated": "One-day Sky Hop on and Hop Off Sightseeing Bus",
+      "validFrom": null,
+      "validThrough": null,
+      "basePrice": 39.61,
+      "typeName": "Attraction",
+      "typeUuid": "d3c54653-dd05-598f-b193-f6683d1064ab",
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/products/007b281f-9e75-54dd-b40d-d6bd8c3edca5"
+        },
+        {
+          "method": "GET",
+          "rel": "productTypes",
+          "href": "/v2/products/007b281f-9e75-54dd-b40d-d6bd8c3edca5/product-types"
+        }
+      ]
+    },
+    {
+      "uuid": "d3bfa3e1-edd4-5c24-a051-4d6c56aae621",
+      "updatedAt": "2018-06-12 16:40:55",
+      "title": "Everland Admission Ticket",
+      "titleTranslated": "Everland Admission Ticket",
+      "validFrom": null,
+      "validThrough": null,
+      "basePrice": 36.3,
+      "typeName": "Attraction",
+      "typeUuid": "d3c54653-dd05-598f-b193-f6683d1064ab",
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/products/d3bfa3e1-edd4-5c24-a051-4d6c56aae621"
+        },
+        {
+          "method": "GET",
+          "rel": "productTypes",
+          "href": "/v2/products/d3bfa3e1-edd4-5c24-a051-4d6c56aae621/product-types"
+        }
+      ]
+    },
+    {
+      "uuid": "1f4d1c22-e432-5897-8ff2-56b05b6de2a2",
+      "updatedAt": "2018-04-06 11:59:13",
+      "title": "Adventure Cove Waterpark E-ticket",
+      "titleTranslated": "Adventure Cove Waterpark E-ticket",
+      "validFrom": null,
+      "validThrough": null,
+      "basePrice": 21.57,
+      "typeName": "Attraction",
+      "typeUuid": "d3c54653-dd05-598f-b193-f6683d1064ab",
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/products/1f4d1c22-e432-5897-8ff2-56b05b6de2a2"
+        },
+        {
+          "method": "GET",
+          "rel": "productTypes",
+          "href": "/v2/products/1f4d1c22-e432-5897-8ff2-56b05b6de2a2/product-types"
+        }
+      ]
+    },
+    {
+      "uuid": "90264dc9-703d-59d7-9dad-8812b704d005",
+      "updatedAt": "2018-04-13 14:36:11",
+      "title": "River Safari Admission with Two Boat Rides",
+      "titleTranslated": "River Safari Admission with Two Boat Rides",
+      "validFrom": null,
+      "validThrough": null,
+      "basePrice": 0,
+      "typeName": "Attraction",
+      "typeUuid": "d3c54653-dd05-598f-b193-f6683d1064ab",
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/products/90264dc9-703d-59d7-9dad-8812b704d005"
+        },
+        {
+          "method": "GET",
+          "rel": "productTypes",
+          "href": "/v2/products/90264dc9-703d-59d7-9dad-8812b704d005/product-types"
+        }
+      ]
+    },
+    {
+      "uuid": "36c8dae4-c0cf-50e6-a871-6b73b94fb16a",
+      "updatedAt": "2018-06-12 16:47:37",
+      "title": "Universal Studios Singapore Adult One-day Ticket with SGD 5 Meal Voucher and SGD 5 Retail Voucher",
+      "titleTranslated": "Universal Studios Singapore Adult One-day Ticket with SGD 5 Meal Voucher and SGD 5 Retail Voucher",
+      "validFrom": null,
+      "validThrough": null,
+      "basePrice": 0,
+      "typeName": "Attraction",
+      "typeUuid": "d3c54653-dd05-598f-b193-f6683d1064ab",
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/products/36c8dae4-c0cf-50e6-a871-6b73b94fb16a"
+        },
+        {
+          "method": "GET",
+          "rel": "productTypes",
+          "href": "/v2/products/36c8dae4-c0cf-50e6-a871-6b73b94fb16a/product-types"
+        }
+      ]
+    },
+    {
+      "uuid": "0a44057a-78af-5fd1-a6b0-3cf9ce03d0c1",
+      "updatedAt": "2018-01-30 11:04:13",
+      "title": "Bali Bird Park E-voucher",
+      "titleTranslated": "Bali Bird Park E-voucher",
+      "validFrom": null,
+      "validThrough": null,
+      "basePrice": 9.39,
+      "typeName": "Attraction",
+      "typeUuid": "d3c54653-dd05-598f-b193-f6683d1064ab",
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/products/0a44057a-78af-5fd1-a6b0-3cf9ce03d0c1"
+        },
+        {
+          "method": "GET",
+          "rel": "productTypes",
+          "href": "/v2/products/0a44057a-78af-5fd1-a6b0-3cf9ce03d0c1/product-types"
+        }
+      ]
+    },
+    {
+      "uuid": "b32945ad-29db-570f-96a1-0ff058f35481",
+      "updatedAt": "2018-06-14 11:40:45",
+      "title": "Burj Khalifa 'At the Top' Entrance Ticket",
+      "titleTranslated": "Burj Khalifa 'At the Top' Entrance Ticket",
+      "validFrom": null,
+      "validThrough": null,
+      "basePrice": 74.58,
+      "typeName": "Attraction",
+      "typeUuid": "d3c54653-dd05-598f-b193-f6683d1064ab",
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/products/b32945ad-29db-570f-96a1-0ff058f35481"
+        },
+        {
+          "method": "GET",
+          "rel": "productTypes",
+          "href": "/v2/products/b32945ad-29db-570f-96a1-0ff058f35481/product-types"
+        }
+      ]
+    },
+    {
+      "uuid": "ec380cf6-64a6-5e09-b737-5a02fd954978",
+      "updatedAt": "2018-06-12 18:00:06",
+      "title": "Universal Studios Singapore E-Ticket (Senior Category)",
+      "titleTranslated": "Universal Studios Singapore E-Ticket (Senior Category)",
+      "validFrom": null,
+      "validThrough": null,
+      "basePrice": 41.42,
+      "typeName": "Attraction",
+      "typeUuid": "d3c54653-dd05-598f-b193-f6683d1064ab",
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/products/ec380cf6-64a6-5e09-b737-5a02fd954978"
+        },
+        {
+          "method": "GET",
+          "rel": "productTypes",
+          "href": "/v2/products/ec380cf6-64a6-5e09-b737-5a02fd954978/product-types"
+        }
+      ]
+    },
+    {
+      "uuid": "ec1897a3-86fb-525c-914b-bfe39a4d5396",
+      "updatedAt": "2018-06-12 13:01:20",
+      "title": "Jurong Bird Park and Tram E-ticket",
+      "titleTranslated": "Jurong Bird Park and Tram E-ticket",
+      "validFrom": null,
+      "validThrough": null,
+      "basePrice": 19.3,
+      "typeName": "Attraction",
+      "typeUuid": "d3c54653-dd05-598f-b193-f6683d1064ab",
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/products/ec1897a3-86fb-525c-914b-bfe39a4d5396"
+        },
+        {
+          "method": "GET",
+          "rel": "productTypes",
+          "href": "/v2/products/ec1897a3-86fb-525c-914b-bfe39a4d5396/product-types"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "total": 70,
+      "count": 10,
+      "per_page": 10,
+      "current_page": 2,
+      "total_pages": 7,
+      "links": {
+        "previous": "/v2/products?per_page=10&currency=10&page=1",
+        "next": "/v2/products?per_page=10&currency=10&page=3"
+      }
+    }
+  }
+}

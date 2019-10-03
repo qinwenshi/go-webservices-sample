@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "uuid": "0c7491a2-355f-5b4d-82c9-c1b86236653f",
+      "title": "One-hour Rental",
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        },
+        {
+          "method": "GET",
+          "rel": "priceLists",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists"
+        }
+      ]
+    },
+    {
+      "uuid": "ed3a52b1-72ed-5188-990d-8cb574a8b48a",
+      "title": "Two-hour Rental",
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/ed3a52b1-72ed-5188-990d-8cb574a8b48a"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        },
+        {
+          "method": "GET",
+          "rel": "priceLists",
+          "href": "/v2/product-types/ed3a52b1-72ed-5188-990d-8cb574a8b48a/price-lists"
+        }
+      ]
+    }
+  ]
+}

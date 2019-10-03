@@ -1,0 +1,2974 @@
+{
+  "data": [
+    {
+      "date": "2018-06-19",
+      "weekday": "Tuesday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-06-19"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-20",
+      "weekday": "Wednesday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-06-20"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-21",
+      "weekday": "Thursday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-06-21"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-22",
+      "weekday": "Friday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-06-22"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-23",
+      "weekday": "Saturday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-06-23"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-24",
+      "weekday": "Sunday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-06-24"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-25",
+      "weekday": "Monday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-06-25"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-26",
+      "weekday": "Tuesday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-06-26"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-27",
+      "weekday": "Wednesday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-06-27"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-28",
+      "weekday": "Thursday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-06-28"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-29",
+      "weekday": "Friday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-06-29"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-06-30",
+      "weekday": "Saturday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-06-30"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-01",
+      "weekday": "Sunday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-01"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-02",
+      "weekday": "Monday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-02"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-03",
+      "weekday": "Tuesday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-03"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-04",
+      "weekday": "Wednesday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-04"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-05",
+      "weekday": "Thursday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-05"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-06",
+      "weekday": "Friday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-06"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-07",
+      "weekday": "Saturday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-07"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-08",
+      "weekday": "Sunday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-08"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-09",
+      "weekday": "Monday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-09"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-10",
+      "weekday": "Tuesday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-10"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-11",
+      "weekday": "Wednesday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-11"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-12",
+      "weekday": "Thursday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-12"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-13",
+      "weekday": "Friday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-13"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-14",
+      "weekday": "Saturday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-14"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-15",
+      "weekday": "Sunday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-15"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-16",
+      "weekday": "Monday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-16"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-17",
+      "weekday": "Tuesday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-17"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    },
+    {
+      "date": "2018-07-18",
+      "weekday": "Wednesday",
+      "available": true,
+      "currency": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "prices": {
+        "adults": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22
+        },
+        "children": {
+          "1": 10.22,
+          "2": 10.22,
+          "3": 10.22,
+          "4": 10.22,
+          "5": 10.22,
+          "6": 10.22,
+          "7": 10.22,
+          "8": 10.22,
+          "9": 10.22,
+          "10": 10.22,
+          "11": 10.22,
+          "12": 10.22,
+          "13": 10.22,
+          "14": 10.22,
+          "15": 10.22,
+          "16": 10.22,
+          "17": 10.22,
+          "18": 10.22,
+          "19": 10.22,
+          "20": 10.22
+        },
+        "seniors": [],
+        "cancellationPolicy": []
+      },
+      "timeslots": [],
+      "options": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "required": true,
+          "price": 0
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "required": true,
+          "price": 0
+        }
+      ],
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists/2018-07-18"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+        }
+      ]
+    }
+  ]
+}

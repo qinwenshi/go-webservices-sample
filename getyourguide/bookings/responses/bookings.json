@@ -1,0 +1,525 @@
+{
+  "_metadata": {
+    "descriptor": "GetYourGuide AG",
+    "method": "getBookingsByQueryAction",
+    "date": "2018-03-08T04:34:14Z",
+    "status": "OK",
+    "query": "cnt_language=en&currency=USD",
+    "availableLanguages": [],
+    "exchange": {
+      "rate": 0.807528317,
+      "currency": "USD"
+    },
+    "totalCount": 94,
+    "limit": 10,
+    "offset": 0
+  },
+  "data": {
+    "bookings": [
+      {
+        "booking_id": 27896428,
+        "booking_hash": "CEMW0PQLTJSA9DTA6SUSQO5IPS9PNER5",
+        "booking_status": "confirmed",
+        "shopping_cart_id": 45942234,
+        "shopping_cart_hash": "N88KBADWV0NL61OCBMIK4GZTKY9W5TM0",
+        "bookable": {
+          "tour_id": 65852,
+          "option_id": 92704,
+          "datetime": "2018-03-09T07:30:00",
+          "datetime_utc": "2018-03-08T20:30:00Z",
+          "datetime_type": "datetime",
+          "price": 109.52,
+          "categories": [
+            {
+              "category_id": 237459,
+              "name": "Adults",
+              "number_of_participants": 1
+            }
+          ],
+          "booking_parameters": [
+            {
+              "name": "language",
+              "value_1": "language_live",
+              "value_2": "en"
+            }
+          ],
+          "valid_until": "2018-03-09T23:59:59",
+          "cancellation_policy_text": "Please note that your activity's cancellation and rescheduling deadline has passed."
+        },
+        "ticket": {
+          "booking_reference": "GYG27896428",
+          "external_reference_id": "7049467-775-2",
+          "supplier_booking_codes": [
+            {
+              "ticket_hash": "CEMW0PQLTJSA9DTA6SUSQO5IPS9PNER5-1",
+              "label": "Ticket #1 (ADULT)",
+              "type": "qr_code",
+              "code": "CEMW0PQLTJSA9DTA6SUSQO5IPS9PNER5-GJWK8"
+            }
+          ],
+          "voucher_information": "Please arrive 10 minutes before your pick-up time.",
+          "emergency_phone_number": "+61293180853",
+          "emergency_email": "bookings@colourfultrips.com",
+          "ticket_url": "https://www-getyourguide-com.partner.gygtest.com/ticket.php?CEMW0PQLTJSA9DTA6SUSQO5IPS9PNER5",
+          "ticket_hash": "CEMW0PQLTJSA9DTA6SUSQO5IPS9PNER5"
+        }
+      },
+      {
+        "booking_id": 27896427,
+        "booking_hash": "HBBKD7XDUK8J296QF3NENH04AX4OEIC1",
+        "booking_status": "confirmed",
+        "shopping_cart_id": 45942233,
+        "shopping_cart_hash": "K01I49OYO4DK3J8VG86F666DK0DFTJGS",
+        "bookable": {
+          "tour_id": 65852,
+          "option_id": 92704,
+          "datetime": "2018-03-09T07:30:00",
+          "datetime_utc": "2018-03-08T20:30:00Z",
+          "datetime_type": "datetime",
+          "price": 109.52,
+          "categories": [
+            {
+              "category_id": 237459,
+              "name": "Adults",
+              "number_of_participants": 1
+            }
+          ],
+          "booking_parameters": [
+            {
+              "name": "language",
+              "value_1": "language_live",
+              "value_2": "en"
+            }
+          ],
+          "valid_until": "2018-03-09T23:59:59",
+          "cancellation_policy_text": "Please note that your activity's cancellation and rescheduling deadline has passed."
+        },
+        "ticket": {
+          "booking_reference": "GYG27896427",
+          "external_reference_id": "7049471-775-2",
+          "supplier_booking_codes": [
+            {
+              "ticket_hash": "HBBKD7XDUK8J296QF3NENH04AX4OEIC1-1",
+              "label": "Ticket #1 (ADULT)",
+              "type": "qr_code",
+              "code": "HBBKD7XDUK8J296QF3NENH04AX4OEIC1-28F8E"
+            }
+          ],
+          "voucher_information": "Please arrive 10 minutes before your pick-up time.",
+          "emergency_phone_number": "+61293180853",
+          "emergency_email": "bookings@colourfultrips.com",
+          "ticket_url": "https://www-getyourguide-com.partner.gygtest.com/ticket.php?HBBKD7XDUK8J296QF3NENH04AX4OEIC1",
+          "ticket_hash": "HBBKD7XDUK8J296QF3NENH04AX4OEIC1"
+        }
+      },
+      {
+        "booking_id": 27896426,
+        "booking_hash": "93F2GIYNKL5K9CJE4PT6822XPBY07YM7",
+        "booking_status": "confirmed",
+        "shopping_cart_id": 45942232,
+        "shopping_cart_hash": "P1S71RSBWOA59GISTLNUBPSAKG6GJAVP",
+        "bookable": {
+          "tour_id": 65852,
+          "option_id": 92704,
+          "datetime": "2018-03-09T07:30:00",
+          "datetime_utc": "2018-03-08T20:30:00Z",
+          "datetime_type": "datetime",
+          "price": 109.52,
+          "categories": [
+            {
+              "category_id": 237459,
+              "name": "Adults",
+              "number_of_participants": 1
+            }
+          ],
+          "booking_parameters": [
+            {
+              "name": "language",
+              "value_1": "language_live",
+              "value_2": "en"
+            }
+          ],
+          "valid_until": "2018-03-09T23:59:59",
+          "cancellation_policy_text": "Please note that your activity's cancellation and rescheduling deadline has passed."
+        },
+        "ticket": {
+          "booking_reference": "GYG27896426",
+          "external_reference_id": "7049468-775-2",
+          "supplier_booking_codes": [
+            {
+              "ticket_hash": "93F2GIYNKL5K9CJE4PT6822XPBY07YM7-1",
+              "label": "Ticket #1 (ADULT)",
+              "type": "qr_code",
+              "code": "93F2GIYNKL5K9CJE4PT6822XPBY07YM7-GTTUZ"
+            }
+          ],
+          "voucher_information": "Please arrive 10 minutes before your pick-up time.",
+          "emergency_phone_number": "+61293180853",
+          "emergency_email": "bookings@colourfultrips.com",
+          "ticket_url": "https://www-getyourguide-com.partner.gygtest.com/ticket.php?93F2GIYNKL5K9CJE4PT6822XPBY07YM7",
+          "ticket_hash": "93F2GIYNKL5K9CJE4PT6822XPBY07YM7"
+        }
+      },
+      {
+        "booking_id": 27896423,
+        "booking_hash": "BBY4TLYX1G052OLK2F5UODWUKK0TI5D2",
+        "booking_status": "confirmed",
+        "shopping_cart_id": 45942229,
+        "shopping_cart_hash": "NYXWMU6H23ADTD9C6XDNUTOLRZTOSWTM",
+        "bookable": {
+          "tour_id": 65852,
+          "option_id": 92704,
+          "datetime": "2018-03-09T07:30:00",
+          "datetime_utc": "2018-03-08T20:30:00Z",
+          "datetime_type": "datetime",
+          "price": 219.04,
+          "categories": [
+            {
+              "category_id": 237459,
+              "name": "Adults",
+              "number_of_participants": 2
+            }
+          ],
+          "booking_parameters": [
+            {
+              "name": "language",
+              "value_1": "language_live",
+              "value_2": "en"
+            }
+          ],
+          "valid_until": "2018-03-09T23:59:59",
+          "cancellation_policy_text": "Please note that your activity's cancellation and rescheduling deadline has passed."
+        },
+        "ticket": {
+          "booking_reference": "GYG27896423",
+          "external_reference_id": "7049212-775-4",
+          "supplier_booking_codes": [
+            {
+              "ticket_hash": "BBY4TLYX1G052OLK2F5UODWUKK0TI5D2-1",
+              "label": "Ticket #1 (ADULT)",
+              "type": "qr_code",
+              "code": "BBY4TLYX1G052OLK2F5UODWUKK0TI5D2-HXWJP"
+            },
+            {
+              "ticket_hash": "BBY4TLYX1G052OLK2F5UODWUKK0TI5D2-2",
+              "label": "Ticket #2 (ADULT)",
+              "type": "qr_code",
+              "code": "BBY4TLYX1G052OLK2F5UODWUKK0TI5D2-JQ38Y"
+            }
+          ],
+          "voucher_information": "Please arrive 10 minutes before your pick-up time.",
+          "emergency_phone_number": "+61293180853",
+          "emergency_email": "bookings@colourfultrips.com",
+          "ticket_url": "https://www-getyourguide-com.partner.gygtest.com/ticket.php?BBY4TLYX1G052OLK2F5UODWUKK0TI5D2",
+          "ticket_hash": "BBY4TLYX1G052OLK2F5UODWUKK0TI5D2"
+        }
+      },
+      {
+        "booking_id": 27896422,
+        "booking_hash": "M5MB4H0M5KY8AC9WX7HDGLA5SVWAR95E",
+        "booking_status": "confirmed",
+        "shopping_cart_id": 45942228,
+        "shopping_cart_hash": "TM29BD7BH2NJ8WY0HCACTPU8OG529IKQ",
+        "bookable": {
+          "tour_id": 65852,
+          "option_id": 92704,
+          "datetime": "2018-03-08T07:30:00",
+          "datetime_utc": "2018-03-07T20:30:00Z",
+          "datetime_type": "datetime",
+          "price": 219.04,
+          "categories": [
+            {
+              "category_id": 237459,
+              "name": "Adults",
+              "number_of_participants": 2
+            }
+          ],
+          "booking_parameters": [
+            {
+              "name": "language",
+              "value_1": "language_live",
+              "value_2": "en"
+            }
+          ],
+          "valid_until": "2018-03-08T23:59:59",
+          "cancellation_policy_text": "Please note that your activity's cancellation and rescheduling deadline has passed."
+        },
+        "ticket": {
+          "booking_reference": "GYG27896422",
+          "external_reference_id": "7049213-775-4",
+          "supplier_booking_codes": [
+            {
+              "ticket_hash": "M5MB4H0M5KY8AC9WX7HDGLA5SVWAR95E-1",
+              "label": "Ticket #1 (ADULT)",
+              "type": "qr_code",
+              "code": "M5MB4H0M5KY8AC9WX7HDGLA5SVWAR95E-L0U42"
+            },
+            {
+              "ticket_hash": "M5MB4H0M5KY8AC9WX7HDGLA5SVWAR95E-2",
+              "label": "Ticket #2 (ADULT)",
+              "type": "qr_code",
+              "code": "M5MB4H0M5KY8AC9WX7HDGLA5SVWAR95E-7AEC2"
+            }
+          ],
+          "voucher_information": "Please arrive 10 minutes before your pick-up time.",
+          "emergency_phone_number": "+61293180853",
+          "emergency_email": "bookings@colourfultrips.com",
+          "ticket_url": "https://www-getyourguide-com.partner.gygtest.com/ticket.php?M5MB4H0M5KY8AC9WX7HDGLA5SVWAR95E",
+          "ticket_hash": "M5MB4H0M5KY8AC9WX7HDGLA5SVWAR95E"
+        }
+      },
+      {
+        "booking_id": 27896417,
+        "booking_hash": "9X98CFFCIZIPHQGIE59VYO5I1L8UOP5V",
+        "booking_status": "confirmed",
+        "shopping_cart_id": 45942223,
+        "shopping_cart_hash": "6UUSYQ1JHCTC3M78ENP0DY5VCWGX5GQ3",
+        "bookable": {
+          "tour_id": 65852,
+          "option_id": 92704,
+          "datetime": "2018-03-13T07:30:00",
+          "datetime_utc": "2018-03-12T20:30:00Z",
+          "datetime_type": "datetime",
+          "price": 109.52,
+          "categories": [
+            {
+              "category_id": 237459,
+              "name": "Adults",
+              "number_of_participants": 1
+            }
+          ],
+          "booking_parameters": [
+            {
+              "name": "language",
+              "value_1": "language_live",
+              "value_2": "en"
+            }
+          ],
+          "valid_until": "2018-03-13T23:59:59",
+          "cancellation_policy_text": "Cancel your activity for free any time up until March 11, 2018 7:30 AM"
+        },
+        "ticket": {
+          "booking_reference": "GYG27896417",
+          "external_reference_id": "7049229-775-2",
+          "supplier_booking_codes": [
+            {
+              "ticket_hash": "9X98CFFCIZIPHQGIE59VYO5I1L8UOP5V-1",
+              "label": "Ticket #1 (ADULT)",
+              "type": "qr_code",
+              "code": "9X98CFFCIZIPHQGIE59VYO5I1L8UOP5V-S5Z4M"
+            }
+          ],
+          "voucher_information": "Please arrive 10 minutes before your pick-up time.",
+          "emergency_phone_number": "+61293180853",
+          "emergency_email": "bookings@colourfultrips.com",
+          "ticket_url": "https://www-getyourguide-com.partner.gygtest.com/ticket.php?9X98CFFCIZIPHQGIE59VYO5I1L8UOP5V",
+          "ticket_hash": "9X98CFFCIZIPHQGIE59VYO5I1L8UOP5V"
+        }
+      },
+      {
+        "booking_id": 27896402,
+        "booking_hash": "5VRKSECD4X64TQ58ZJT1LZBHAPHNXF2L",
+        "booking_status": "confirmed",
+        "shopping_cart_id": 45942205,
+        "shopping_cart_hash": "SHOOPPDQTLAJ3F848TPJ8MVPB77JCWY8",
+        "bookable": {
+          "tour_id": 65852,
+          "option_id": 92704,
+          "datetime": "2018-03-01T07:30:00",
+          "datetime_utc": "2018-02-28T20:30:00Z",
+          "datetime_type": "datetime",
+          "price": 109.52,
+          "categories": [
+            {
+              "category_id": 237459,
+              "name": "Adults",
+              "number_of_participants": 1
+            }
+          ],
+          "booking_parameters": [
+            {
+              "name": "language",
+              "value_1": "language_live",
+              "value_2": "en"
+            }
+          ],
+          "valid_until": "2018-03-01T23:59:59",
+          "cancellation_policy_text": "Please note that your activity's cancellation and rescheduling deadline has passed."
+        },
+        "ticket": {
+          "booking_reference": "GYG27896402",
+          "external_reference_id": "7048646-775-2",
+          "supplier_booking_codes": [
+            {
+              "ticket_hash": "5VRKSECD4X64TQ58ZJT1LZBHAPHNXF2L-1",
+              "label": "Ticket #1 (ADULT)",
+              "type": "qr_code",
+              "code": "5VRKSECD4X64TQ58ZJT1LZBHAPHNXF2L-D4AKF"
+            }
+          ],
+          "voucher_information": "Please arrive 10 minutes before your pick-up time.",
+          "emergency_phone_number": "+61293180853",
+          "emergency_email": "bookings@colourfultrips.com",
+          "ticket_url": "https://www-getyourguide-com.partner.gygtest.com/ticket.php?5VRKSECD4X64TQ58ZJT1LZBHAPHNXF2L",
+          "ticket_hash": "5VRKSECD4X64TQ58ZJT1LZBHAPHNXF2L"
+        }
+      },
+      {
+        "booking_id": 27896401,
+        "booking_hash": "1E3DKSW1MCCILNB3DDHJ76MQCBWDYZZQ",
+        "booking_status": "confirmed",
+        "shopping_cart_id": 45942204,
+        "shopping_cart_hash": "F1Q5BYZ8CGLY28QV9CCGUYL9HHQ43YZT",
+        "bookable": {
+          "tour_id": 65852,
+          "option_id": 92704,
+          "datetime": "2018-02-28T07:30:00",
+          "datetime_utc": "2018-02-27T20:30:00Z",
+          "datetime_type": "datetime",
+          "price": 219.04,
+          "categories": [
+            {
+              "category_id": 237459,
+              "name": "Adults",
+              "number_of_participants": 2
+            }
+          ],
+          "booking_parameters": [
+            {
+              "name": "language",
+              "value_1": "language_live",
+              "value_2": "en"
+            }
+          ],
+          "valid_until": "2018-02-28T23:59:59",
+          "cancellation_policy_text": "Please note that your activity's cancellation and rescheduling deadline has passed."
+        },
+        "ticket": {
+          "booking_reference": "GYG27896401",
+          "external_reference_id": "7048646-775-1",
+          "supplier_booking_codes": [
+            {
+              "ticket_hash": "1E3DKSW1MCCILNB3DDHJ76MQCBWDYZZQ-1",
+              "label": "Ticket #1 (ADULT)",
+              "type": "qr_code",
+              "code": "1E3DKSW1MCCILNB3DDHJ76MQCBWDYZZQ-W6HUJ"
+            },
+            {
+              "ticket_hash": "1E3DKSW1MCCILNB3DDHJ76MQCBWDYZZQ-2",
+              "label": "Ticket #2 (ADULT)",
+              "type": "qr_code",
+              "code": "1E3DKSW1MCCILNB3DDHJ76MQCBWDYZZQ-RW846"
+            }
+          ],
+          "voucher_information": "Please arrive 10 minutes before your pick-up time.",
+          "emergency_phone_number": "+61293180853",
+          "emergency_email": "bookings@colourfultrips.com",
+          "ticket_url": "https://www-getyourguide-com.partner.gygtest.com/ticket.php?1E3DKSW1MCCILNB3DDHJ76MQCBWDYZZQ",
+          "ticket_hash": "1E3DKSW1MCCILNB3DDHJ76MQCBWDYZZQ"
+        }
+      },
+      {
+        "booking_id": 27896373,
+        "booking_hash": "0D1D7PF6JYE0VFP8M20QIX9HDVPSK9MK",
+        "booking_status": "confirmed",
+        "shopping_cart_id": 45942174,
+        "shopping_cart_hash": "SJENSPHVB3UNUC87264JK07Z0FY03TGG",
+        "bookable": {
+          "tour_id": 65852,
+          "option_id": 92704,
+          "datetime": "2018-02-15T07:30:00",
+          "datetime_utc": "2018-02-14T20:30:00Z",
+          "datetime_type": "datetime",
+          "price": 219.6,
+          "categories": [
+            {
+              "category_id": 237459,
+              "name": "Adults",
+              "number_of_participants": 2
+            }
+          ],
+          "booking_parameters": [
+            {
+              "name": "language",
+              "value_1": "language_live",
+              "value_2": "en"
+            }
+          ],
+          "valid_until": "2018-02-15T23:59:59",
+          "cancellation_policy_text": "Please note that your activity's cancellation and rescheduling deadline has passed."
+        },
+        "ticket": {
+          "booking_reference": "GYG27896373",
+          "external_reference_id": "7045745-775-1",
+          "supplier_booking_codes": [
+            {
+              "ticket_hash": "0D1D7PF6JYE0VFP8M20QIX9HDVPSK9MK-1",
+              "label": "Ticket #1 (ADULT)",
+              "type": "qr_code",
+              "code": "0D1D7PF6JYE0VFP8M20QIX9HDVPSK9MK-FYV3L"
+            },
+            {
+              "ticket_hash": "0D1D7PF6JYE0VFP8M20QIX9HDVPSK9MK-2",
+              "label": "Ticket #2 (ADULT)",
+              "type": "qr_code",
+              "code": "0D1D7PF6JYE0VFP8M20QIX9HDVPSK9MK-7EPT0"
+            }
+          ],
+          "voucher_information": "Please arrive 10 minutes before your pick-up time.",
+          "emergency_phone_number": "+61293180853",
+          "emergency_email": "bookings@colourfultrips.com",
+          "ticket_url": "https://www-getyourguide-com.partner.gygtest.com/ticket.php?0D1D7PF6JYE0VFP8M20QIX9HDVPSK9MK",
+          "ticket_hash": "0D1D7PF6JYE0VFP8M20QIX9HDVPSK9MK"
+        }
+      },
+      {
+        "booking_id": 22909610,
+        "booking_hash": "D6RLZFCNXA3T65ZZAFX523F4ENTUSAU9",
+        "booking_status": "confirmed",
+        "shopping_cart_id": 41152052,
+        "shopping_cart_hash": "P1RRNQJ5HZ35OO9UVMI4YO4L8JB4NCYL",
+        "bookable": {
+          "tour_id": 65852,
+          "option_id": 92704,
+          "datetime": "2018-02-02T07:30:00",
+          "datetime_utc": "2018-02-01T20:30:00Z",
+          "datetime_type": "datetime",
+          "price": 108,
+          "categories": [
+            {
+              "category_id": 237459,
+              "name": "Adults",
+              "number_of_participants": 1
+            }
+          ],
+          "booking_parameters": [
+            {
+              "name": "language",
+              "value_1": "language_live",
+              "value_2": "en"
+            }
+          ],
+          "valid_until": "2018-02-02T23:59:59",
+          "cancellation_policy_text": "Please note that your activity's cancellation and rescheduling deadline has passed."
+        },
+        "ticket": {
+          "booking_reference": "GYG22909610",
+          "external_reference_id": "7044166-775-2",
+          "supplier_booking_codes": [
+            {
+              "ticket_hash": "D6RLZFCNXA3T65ZZAFX523F4ENTUSAU9-1",
+              "label": "Ticket #1 (ADULT)",
+              "type": "qr_code",
+              "code": "D6RLZFCNXA3T65ZZAFX523F4ENTUSAU9-3ETP5"
+            }
+          ],
+          "voucher_information": "Please arrive 10 minutes before your pick-up time.",
+          "emergency_phone_number": "+61293180853",
+          "emergency_email": "bookings@colourfultrips.com",
+          "ticket_url": "https://www-getyourguide-com.partner.gygtest.com/ticket.php?D6RLZFCNXA3T65ZZAFX523F4ENTUSAU9",
+          "ticket_hash": "D6RLZFCNXA3T65ZZAFX523F4ENTUSAU9"
+        }
+      }
+    ]
+  }
+}

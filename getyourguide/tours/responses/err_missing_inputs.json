@@ -1,0 +1,22 @@
+{
+  "descriptor": "GetYourGuide AG",
+  "apiVersion": "1",
+  "method": "getTourByQueryAction",
+  "date": "2018-03-07T06:50:58Z",
+  "status": "ERROR",
+  "errors": [
+    {
+      "errorCode": 15,
+      "errorMessage": "cnt_language: This value is missing."
+    },
+    {
+      "errorCode": 17,
+      "errorMessage": "currency: This value is missing."
+    },
+    {
+      "errorCode": 24,
+      "errorMessage": "You need to set either a valid q, location, categories, or coordinates."
+    }
+  ],
+  "helpURL": "/doc"
+}

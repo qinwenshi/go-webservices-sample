@@ -1,0 +1,88 @@
+{
+  "_metadata": {
+    "descriptor": "GetYourGuide AG",
+    "method": "getTourByIdAction",
+    "date": "2018-03-07T07:27:25Z",
+    "status": "OK",
+    "query": "cnt_language=en&currency=USD",
+    "availableLanguages": [
+      "en"
+    ],
+    "exchange": {
+      "rate": 0.807528317,
+      "currency": "USD"
+    },
+    "totalCount": 1,
+    "limit": 10,
+    "offset": 0
+  },
+  "data": {
+    "tours": [
+      {
+        "tour_id": 121665,
+        "tour_code": "China Town on Cyclo",
+        "cond_language": [
+          "en"
+        ],
+        "title": "Ho Chi Minh City: Half-Day Cyclo Private Tour",
+        "abstract": "The cyclo is a three-wheel bicycle taxi that appeared in Vietnam during the French colonial period after a failed attempt to introduce rickshaws. A double seat is supported by the two front wheels with the driver sitting behind.",
+        "bestseller": false,
+        "certified": true,
+        "overall_rating": 0,
+        "number_of_ratings": 0,
+        "pictures": [
+          {
+            "id": 835146,
+            "url": "https://img-getyourguide-com.partner.gygtest.com/img/tour_img-835146-[format_id].jpg",
+            "ssl_url": "https://img-getyourguide-com.partner.gygtest.com/img/tour_img-835146-[format_id].jpg",
+            "verified": false
+          }
+        ],
+        "coordinates": {
+          "lat": 10.7737135,
+          "long": 106.6971443
+        },
+        "price": {
+          "values": {
+            "amount": 89
+          },
+          "description": "individual"
+        },
+        "categories": [
+          {
+            "category_id": 21,
+            "name": "Local Flavor & Neighborhood Tours",
+            "parent_id": 18
+          }
+        ],
+        "locations": [
+          {
+            "location_id": 272,
+            "type": "CITY",
+            "name": "Ho Chi Minh City",
+            "english_name": "Ho Chi Minh City",
+            "city": "Ho Chi Minh City",
+            "country": "VN",
+            "coordinates": {
+              "lat": 10.75918,
+              "long": 106.662498
+            },
+            "viewport": {
+              "sw_lat": 10.73265,
+              "sw_long": 106.620651,
+              "ne_lat": 10.8422,
+              "ne_long": 106.725327
+            }
+          }
+        ],
+        "url": "https://www-getyourguide-com.partner.gygtest.com/ho-chi-minh-city-l272/ho-chi-minh-city-half-day-cyclo-private-tour-t121665/?partner_id=3P890C2&psrc=partner_api&currency=USD",
+        "durations": [
+          {
+            "duration": 4,
+            "unit": "hour"
+          }
+        ]
+      }
+    ]
+  }
+}

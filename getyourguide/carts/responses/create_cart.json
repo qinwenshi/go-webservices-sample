@@ -1,0 +1,100 @@
+{
+  "_metadata": {
+    "descriptor": "GetYourGuide AG",
+    "method": "confirmShoppingCartAction",
+    "date": "2018-03-08T07:41:37Z",
+    "status": "OK",
+    "availableLanguages": [],
+    "exchange": {
+      "rate": 1.134106636,
+      "currency": "gbp"
+    },
+    "totalCount": 10,
+    "limit": 10,
+    "offset": 0
+  },
+  "data": {
+    "shopping_cart_id": 45942258,
+    "shopping_cart_hash": "GQAJKFW96EU8S3T32K6GOKQPON47CQKB",
+    "billing": {
+      "salutation_code": "m",
+      "first_name": "first_name",
+      "last_name": "last_name",
+      "email": "testing@example.com",
+      "is_company": false,
+      "company_name": "",
+      "invoice": false,
+      "address_line_1": "",
+      "address_line_2": "",
+      "city": "",
+      "postal_code": "",
+      "state": "",
+      "country_code": "HK",
+      "phone_number": "1234567890"
+    },
+    "traveler": {
+      "salutation_code": "",
+      "first_name": "first_name",
+      "last_name": "last_name",
+      "email": "testing@example.com",
+      "phone_number": "1234567890"
+    },
+    "status": "completed",
+    "bookings": [
+      {
+        "booking_id": 27896437,
+        "booking_hash": "LQ2D3WE3DPT2C1JMJA59BPIFGLMMBT1M",
+        "booking_status": "confirmed",
+        "shopping_cart_id": 45942258,
+        "shopping_cart_hash": "GQAJKFW96EU8S3T32K6GOKQPON47CQKB",
+        "bookable": {
+          "tour_id": 121665,
+          "option_id": 178119,
+          "datetime": "2018-03-10T08:00:00",
+          "datetime_utc": "2018-03-10T01:00:00Z",
+          "datetime_type": "datetime",
+          "price": 85.7,
+          "categories": [
+            {
+              "category_id": 488562,
+              "name": "Adults",
+              "number_of_participants": 1
+            }
+          ],
+          "booking_parameters": [
+            {
+              "name": "language",
+              "value_1": "language_live",
+              "value_2": "en"
+            }
+          ],
+          "valid_until": "2018-03-10T12:00:00",
+          "cancellation_policy_text": "Cancel your activity for free any time up until March 9, 2018 8:00 AM"
+        },
+        "ticket": {
+          "booking_reference": "GYG27896437",
+          "external_reference_id": "testing",
+          "supplier_booking_codes": [
+            {
+              "ticket_hash": "LQ2D3WE3DPT2C1JMJA59BPIFGLMMBT1M-1",
+              "label": "Ticket #1 (ADULT)",
+              "type": "qr_code",
+              "code": "LQ2D3WE3DPT2C1JMJA59BPIFGLMMBT1M-Z3XHS"
+            }
+          ],
+          "emergency_phone_number": "+84 0909498981",
+          "emergency_email": "booking@vietnamadventuretours.vn",
+          "ticket_url": "https://www-getyourguide-com.partner.gygtest.com/ticket.php?LQ2D3WE3DPT2C1JMJA59BPIFGLMMBT1M",
+          "ticket_hash": "LQ2D3WE3DPT2C1JMJA59BPIFGLMMBT1M"
+        }
+      }
+    ],
+    "payment_info": {
+      "payment_currency": "GBP",
+      "total_price": 85.7,
+      "precoupon_price": 85.7,
+      "payment_method": "mb",
+      "invoice_reference": "GCI-0045942258"
+    }
+  }
+}

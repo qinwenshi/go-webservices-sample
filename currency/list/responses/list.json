@@ -1,0 +1,1183 @@
+{
+  "limit": 168,
+  "total": 168,
+  "count": 168,
+  "data": [
+    {
+      "id": "5aec22ca28216c4a7c7dac46",
+      "name": "Angolan Kwanza",
+      "code": "AOA",
+      "created_at": "2018-05-04T09:07:22.028Z",
+      "updated_at": "2018-05-04T09:07:22.028Z"
+    },
+    {
+      "id": "5aec22cb28216c4a7c7dac48",
+      "name": "Mongolian Tugrik",
+      "code": "MNT",
+      "created_at": "2018-05-04T09:07:23.563Z",
+      "updated_at": "2018-05-04T09:07:23.563Z"
+    },
+    {
+      "id": "5aec22cb28216c4a7c7dac49",
+      "name": "Solomon Islands Dollar",
+      "code": "SBD",
+      "created_at": "2018-05-04T09:07:23.869Z",
+      "updated_at": "2018-05-04T09:07:23.869Z"
+    },
+    {
+      "id": "5aec22cc28216c4a7c7dac4a",
+      "name": "Indonesian Rupiah",
+      "code": "IDR",
+      "created_at": "2018-05-04T09:07:24.108Z",
+      "updated_at": "2018-05-04T09:07:24.108Z"
+    },
+    {
+      "id": "5aec22cc28216c4a7c7dac4b",
+      "name": "Norwegian Krone",
+      "code": "NOK",
+      "created_at": "2018-05-04T09:07:24.38Z",
+      "updated_at": "2018-05-04T09:07:24.38Z"
+    },
+    {
+      "id": "5aec22cc28216c4a7c7dac4c",
+      "name": "Peruvian Nuevo Sol",
+      "code": "PEN",
+      "created_at": "2018-05-04T09:07:24.688Z",
+      "updated_at": "2018-05-04T09:07:24.688Z"
+    },
+    {
+      "id": "5aec22cc28216c4a7c7dac4d",
+      "name": "Polish Zloty",
+      "code": "PLN",
+      "created_at": "2018-05-04T09:07:24.995Z",
+      "updated_at": "2018-05-04T09:07:24.995Z"
+    },
+    {
+      "id": "5aec22cd28216c4a7c7dac4f",
+      "name": "Jersey Pound",
+      "code": "JEP",
+      "created_at": "2018-05-04T09:07:25.531Z",
+      "updated_at": "2018-05-04T09:07:25.531Z"
+    },
+    {
+      "id": "5aec22ce28216c4a7c7dac51",
+      "name": "Albanian Lek",
+      "code": "ALL",
+      "created_at": "2018-05-04T09:07:26.02Z",
+      "updated_at": "2018-05-04T09:07:26.02Z"
+    },
+    {
+      "id": "5aec22ce28216c4a7c7dac54",
+      "name": "Congolese Franc",
+      "code": "CDF",
+      "created_at": "2018-05-04T09:07:26.84Z",
+      "updated_at": "2018-05-04T09:07:26.84Z"
+    },
+    {
+      "id": "5aec22cf28216c4a7c7dac55",
+      "name": "Algerian Dinar",
+      "code": "DZD",
+      "created_at": "2018-05-04T09:07:27.145Z",
+      "updated_at": "2018-05-04T09:07:27.145Z"
+    },
+    {
+      "id": "5aec22cf28216c4a7c7dac57",
+      "name": "Zimbabwean Dollar",
+      "code": "ZWL",
+      "created_at": "2018-05-04T09:07:27.759Z",
+      "updated_at": "2018-05-04T09:07:27.759Z"
+    },
+    {
+      "id": "5aec22d028216c4a7c7dac59",
+      "name": "Hungarian Forint",
+      "code": "HUF",
+      "created_at": "2018-05-04T09:07:28.272Z",
+      "updated_at": "2018-05-04T09:07:28.272Z"
+    },
+    {
+      "id": "5aec22d028216c4a7c7dac5a",
+      "name": "Israeli New Sheqel",
+      "code": "ILS",
+      "created_at": "2018-05-04T09:07:28.579Z",
+      "updated_at": "2018-05-04T09:07:28.579Z"
+    },
+    {
+      "id": "5aec22d128216c4a7c7dac5c",
+      "name": "Kenyan Shilling",
+      "code": "KES",
+      "created_at": "2018-05-04T09:07:29.126Z",
+      "updated_at": "2018-05-04T09:07:29.126Z"
+    },
+    {
+      "id": "5aec22d128216c4a7c7dac5e",
+      "name": "Costa Rican Colón",
+      "code": "CRC",
+      "created_at": "2018-05-04T09:07:29.642Z",
+      "updated_at": "2018-05-04T09:07:29.642Z"
+    },
+    {
+      "id": "5aec22d228216c4a7c7dac62",
+      "name": "Bulgarian Lev",
+      "code": "BGN",
+      "created_at": "2018-05-04T09:07:30.661Z",
+      "updated_at": "2018-05-04T09:07:30.661Z"
+    },
+    {
+      "id": "5aec22d328216c4a7c7dac64",
+      "name": "Czech Republic Koruna",
+      "code": "CZK",
+      "created_at": "2018-05-04T09:07:31.176Z",
+      "updated_at": "2018-05-04T09:07:31.176Z"
+    },
+    {
+      "id": "5aec22d328216c4a7c7dac66",
+      "name": "Gold (troy ounce)",
+      "code": "XAU",
+      "created_at": "2018-05-04T09:07:31.753Z",
+      "updated_at": "2018-05-04T09:07:31.753Z"
+    },
+    {
+      "id": "5aec22d428216c4a7c7dac68",
+      "name": "Egyptian Pound",
+      "code": "EGP",
+      "created_at": "2018-05-04T09:07:32.368Z",
+      "updated_at": "2018-05-04T09:07:32.368Z"
+    },
+    {
+      "id": "5aec22d428216c4a7c7dac6a",
+      "name": "Gibraltar Pound",
+      "code": "GIP",
+      "created_at": "2018-05-04T09:07:32.881Z",
+      "updated_at": "2018-05-04T09:07:32.881Z"
+    },
+    {
+      "id": "5aec22d528216c4a7c7dac6c",
+      "name": "Honduran Lempira",
+      "code": "HNL",
+      "created_at": "2018-05-04T09:07:33.494Z",
+      "updated_at": "2018-05-04T09:07:33.494Z"
+    },
+    {
+      "id": "5aec22d528216c4a7c7dac6d",
+      "name": "Mexican Peso",
+      "code": "MXN",
+      "created_at": "2018-05-04T09:07:33.8Z",
+      "updated_at": "2018-05-04T09:07:33.8Z"
+    },
+    {
+      "id": "5aec22d628216c4a7c7dac6f",
+      "name": "Swazi Lilangeni",
+      "code": "SZL",
+      "created_at": "2018-05-04T09:07:34.416Z",
+      "updated_at": "2018-05-04T09:07:34.416Z"
+    },
+    {
+      "id": "5aec22d728216c4a7c7dac71",
+      "name": "Ethiopian Birr",
+      "code": "ETB",
+      "created_at": "2018-05-04T09:07:35.03Z",
+      "updated_at": "2018-05-04T09:07:35.03Z"
+    },
+    {
+      "id": "5aec22d728216c4a7c7dac72",
+      "name": "Kyrgystani Som",
+      "code": "KGS",
+      "created_at": "2018-05-04T09:07:35.338Z",
+      "updated_at": "2018-05-04T09:07:35.338Z"
+    },
+    {
+      "id": "5aec22d728216c4a7c7dac74",
+      "name": "Mauritanian Ouguiya",
+      "code": "MRO",
+      "created_at": "2018-05-04T09:07:35.952Z",
+      "updated_at": "2018-05-04T09:07:35.952Z"
+    },
+    {
+      "id": "5aec22d828216c4a7c7dac75",
+      "name": "Moroccan Dirham",
+      "code": "MAD",
+      "created_at": "2018-05-04T09:07:36.26Z",
+      "updated_at": "2018-05-04T09:07:36.26Z"
+    },
+    {
+      "id": "5aec22d828216c4a7c7dac77",
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "created_at": "2018-05-04T09:07:36.874Z",
+      "updated_at": "2018-05-04T09:07:36.874Z"
+    },
+    {
+      "id": "5aec22d928216c4a7c7dac78",
+      "name": "Aruban Florin",
+      "code": "AWG",
+      "created_at": "2018-05-04T09:07:37.113Z",
+      "updated_at": "2018-05-04T09:07:37.113Z"
+    },
+    {
+      "id": "5aec22d928216c4a7c7dac7a",
+      "name": "Danish Krone",
+      "code": "DKK",
+      "created_at": "2018-05-04T09:07:37.626Z",
+      "updated_at": "2018-05-04T09:07:37.626Z"
+    },
+    {
+      "id": "5aec22d928216c4a7c7dac7b",
+      "name": "Hong Kong Dollar",
+      "code": "HKD",
+      "created_at": "2018-05-04T09:07:37.897Z",
+      "updated_at": "2018-05-04T09:07:37.897Z"
+    },
+    {
+      "id": "5aec22da28216c4a7c7dac7d",
+      "name": "Nigerian Naira",
+      "code": "NGN",
+      "created_at": "2018-05-04T09:07:38.41Z",
+      "updated_at": "2018-05-04T09:07:38.41Z"
+    },
+    {
+      "id": "5aec22db28216c4a7c7dac80",
+      "name": "Saudi Riyal",
+      "code": "SAR",
+      "created_at": "2018-05-04T09:07:39.23Z",
+      "updated_at": "2018-05-04T09:07:39.23Z"
+    },
+    {
+      "id": "5aec22dc28216c4a7c7dac84",
+      "name": "Kuwaiti Dinar",
+      "code": "KWD",
+      "created_at": "2018-05-04T09:07:40.326Z",
+      "updated_at": "2018-05-04T09:07:40.326Z"
+    },
+    {
+      "id": "5aec22dd28216c4a7c7dac87",
+      "name": "Guernsey Pound",
+      "code": "GGP",
+      "created_at": "2018-05-04T09:07:41.175Z",
+      "updated_at": "2018-05-04T09:07:41.175Z"
+    },
+    {
+      "id": "5aec22dd28216c4a7c7dac8a",
+      "name": "Serbian Dinar",
+      "code": "RSD",
+      "created_at": "2018-05-04T09:07:41.994Z",
+      "updated_at": "2018-05-04T09:07:41.994Z"
+    },
+    {
+      "id": "5aec22df28216c4a7c7dac8e",
+      "name": "South Korean Won",
+      "code": "KRW",
+      "created_at": "2018-05-04T09:07:43.223Z",
+      "updated_at": "2018-05-04T09:07:43.223Z"
+    },
+    {
+      "id": "5aec22df28216c4a7c7dac8f",
+      "name": "Pakistani Rupee",
+      "code": "PKR",
+      "created_at": "2018-05-04T09:07:43.53Z",
+      "updated_at": "2018-05-04T09:07:43.53Z"
+    },
+    {
+      "id": "5aec22e028216c4a7c7dac91",
+      "name": "South African Rand",
+      "code": "ZAR",
+      "created_at": "2018-05-04T09:07:44.146Z",
+      "updated_at": "2018-05-04T09:07:44.146Z"
+    },
+    {
+      "id": "5aec22e028216c4a7c7dac92",
+      "name": "Swiss Franc",
+      "code": "CHF",
+      "created_at": "2018-05-04T09:07:44.452Z",
+      "updated_at": "2018-05-04T09:07:44.452Z"
+    },
+    {
+      "id": "5aec22e128216c4a7c7dac95",
+      "name": "Saint Helena Pound",
+      "code": "SHP",
+      "created_at": "2018-05-04T09:07:45.372Z",
+      "updated_at": "2018-05-04T09:07:45.372Z"
+    },
+    {
+      "id": "5aec22e128216c4a7c7dac97",
+      "name": "Cape Verdean Escudo",
+      "code": "CVE",
+      "created_at": "2018-05-04T09:07:45.885Z",
+      "updated_at": "2018-05-04T09:07:45.885Z"
+    },
+    {
+      "id": "5aec22e228216c4a7c7dac99",
+      "name": "Haitian Gourde",
+      "code": "HTG",
+      "created_at": "2018-05-04T09:07:46.499Z",
+      "updated_at": "2018-05-04T09:07:46.499Z"
+    },
+    {
+      "id": "5aec22e328216c4a7c7dac9b",
+      "name": "Qatari Rial",
+      "code": "QAR",
+      "created_at": "2018-05-04T09:07:47.011Z",
+      "updated_at": "2018-05-04T09:07:47.011Z"
+    },
+    {
+      "id": "5aec22e328216c4a7c7dac9d",
+      "name": "New Zealand Dollar",
+      "code": "NZD",
+      "created_at": "2018-05-04T09:07:47.626Z",
+      "updated_at": "2018-05-04T09:07:47.626Z"
+    },
+    {
+      "id": "5aec22e428216c4a7c7dac9f",
+      "name": "Singapore Dollar",
+      "code": "SGD",
+      "created_at": "2018-05-04T09:07:48.242Z",
+      "updated_at": "2018-05-04T09:07:48.242Z"
+    },
+    {
+      "id": "5aec22e528216c4a7c7daca2",
+      "name": "Euro",
+      "code": "EUR",
+      "created_at": "2018-05-04T09:07:49.059Z",
+      "updated_at": "2018-05-04T09:07:49.059Z"
+    },
+    {
+      "id": "5aec22e528216c4a7c7daca4",
+      "name": "Japanese Yen",
+      "code": "JPY",
+      "created_at": "2018-05-04T09:07:49.674Z",
+      "updated_at": "2018-05-04T09:07:49.674Z"
+    },
+    {
+      "id": "5aec22e528216c4a7c7daca5",
+      "name": "Namibian Dollar",
+      "code": "NAD",
+      "created_at": "2018-05-04T09:07:49.981Z",
+      "updated_at": "2018-05-04T09:07:49.981Z"
+    },
+    {
+      "id": "5aec22e628216c4a7c7daca6",
+      "name": "East Caribbean Dollar",
+      "code": "XCD",
+      "created_at": "2018-05-04T09:07:50.289Z",
+      "updated_at": "2018-05-04T09:07:50.289Z"
+    },
+    {
+      "id": "5aec22e628216c4a7c7daca7",
+      "name": "Vanuatu Vatu",
+      "code": "VUV",
+      "created_at": "2018-05-04T09:07:50.595Z",
+      "updated_at": "2018-05-04T09:07:50.595Z"
+    },
+    {
+      "id": "5aec22e728216c4a7c7dacaa",
+      "name": "Latvian Lats",
+      "code": "LVL",
+      "created_at": "2018-05-04T09:07:51.517Z",
+      "updated_at": "2018-05-04T09:07:51.517Z"
+    },
+    {
+      "id": "5aec22e828216c4a7c7dacad",
+      "name": "Uzbekistan Som",
+      "code": "UZS",
+      "created_at": "2018-05-04T09:07:52.439Z",
+      "updated_at": "2018-05-04T09:07:52.439Z"
+    },
+    {
+      "id": "5aec22e828216c4a7c7dacae",
+      "name": "Ugandan Shilling",
+      "code": "UGX",
+      "created_at": "2018-05-04T09:07:52.747Z",
+      "updated_at": "2018-05-04T09:07:52.747Z"
+    },
+    {
+      "id": "5aec22e928216c4a7c7dacb0",
+      "name": "Bahraini Dinar",
+      "code": "BHD",
+      "created_at": "2018-05-04T09:07:53.36Z",
+      "updated_at": "2018-05-04T09:07:53.36Z"
+    },
+    {
+      "id": "5aec22e928216c4a7c7dacb2",
+      "name": "Moldovan Leu",
+      "code": "MDL",
+      "created_at": "2018-05-04T09:07:53.975Z",
+      "updated_at": "2018-05-04T09:07:53.975Z"
+    },
+    {
+      "id": "5aec22eb28216c4a7c7dacb6",
+      "name": "Silver (troy ounce)",
+      "code": "XAG",
+      "created_at": "2018-05-04T09:07:55.102Z",
+      "updated_at": "2018-05-04T09:07:55.102Z"
+    },
+    {
+      "id": "5aec22eb28216c4a7c7dacb9",
+      "name": "Armenian Dram",
+      "code": "AMD",
+      "created_at": "2018-05-04T09:07:55.921Z",
+      "updated_at": "2018-05-04T09:07:55.921Z"
+    },
+    {
+      "id": "5aec22ec28216c4a7c7dacbb",
+      "name": "Libyan Dinar",
+      "code": "LYD",
+      "created_at": "2018-05-04T09:07:56.535Z",
+      "updated_at": "2018-05-04T09:07:56.535Z"
+    },
+    {
+      "id": "5aec22ed28216c4a7c7dacbe",
+      "name": "Sierra Leonean Leone",
+      "code": "SLL",
+      "created_at": "2018-05-04T09:07:57.401Z",
+      "updated_at": "2018-05-04T09:07:57.401Z"
+    },
+    {
+      "id": "5aec22ed28216c4a7c7dacc0",
+      "name": "Bitcoin",
+      "code": "BTC",
+      "created_at": "2018-05-04T09:07:57.968Z",
+      "updated_at": "2018-05-04T09:07:57.968Z"
+    },
+    {
+      "id": "5aec22ee28216c4a7c7dacc2",
+      "name": "Sri Lankan Rupee",
+      "code": "LKR",
+      "created_at": "2018-05-04T09:07:58.522Z",
+      "updated_at": "2018-05-04T09:07:58.522Z"
+    },
+    {
+      "id": "5aec22ef28216c4a7c7dacc5",
+      "name": "CFA Franc BCEAO",
+      "code": "XOF",
+      "created_at": "2018-05-04T09:07:59.408Z",
+      "updated_at": "2018-05-04T09:07:59.408Z"
+    },
+    {
+      "id": "5aec22f028216c4a7c7dacc7",
+      "name": "Belize Dollar",
+      "code": "BZD",
+      "created_at": "2018-05-04T09:08:00.018Z",
+      "updated_at": "2018-05-04T09:08:00.018Z"
+    },
+    {
+      "id": "5aec22f128216c4a7c7daccb",
+      "name": "Special Drawing Rights",
+      "code": "XDR",
+      "created_at": "2018-05-04T09:08:01.247Z",
+      "updated_at": "2018-05-04T09:08:01.247Z"
+    },
+    {
+      "id": "5aec22f128216c4a7c7daccd",
+      "name": "Liberian Dollar",
+      "code": "LRD",
+      "created_at": "2018-05-04T09:08:01.757Z",
+      "updated_at": "2018-05-04T09:08:01.757Z"
+    },
+    {
+      "id": "5aec22f228216c4a7c7daccf",
+      "name": "Syrian Pound",
+      "code": "SYP",
+      "created_at": "2018-05-04T09:08:02.372Z",
+      "updated_at": "2018-05-04T09:08:02.372Z"
+    },
+    {
+      "id": "5aec22f228216c4a7c7dacd1",
+      "name": "Dominican Peso",
+      "code": "DOP",
+      "created_at": "2018-05-04T09:08:02.852Z",
+      "updated_at": "2018-05-04T09:08:02.852Z"
+    },
+    {
+      "id": "5aec22f328216c4a7c7dacd3",
+      "name": "Papua New Guinean Kina",
+      "code": "PGK",
+      "created_at": "2018-05-04T09:08:03.498Z",
+      "updated_at": "2018-05-04T09:08:03.498Z"
+    },
+    {
+      "id": "5aec22f428216c4a7c7dacd5",
+      "name": "Brazilian Real",
+      "code": "BRL",
+      "created_at": "2018-05-04T09:08:04Z",
+      "updated_at": "2018-05-04T09:08:04Z"
+    },
+    {
+      "id": "5aec22f428216c4a7c7dacd7",
+      "name": "Guinean Franc",
+      "code": "GNF",
+      "created_at": "2018-05-04T09:08:04.619Z",
+      "updated_at": "2018-05-04T09:08:04.619Z"
+    },
+    {
+      "id": "5aec22f528216c4a7c7dacd9",
+      "name": "Salvadoran Colón",
+      "code": "SVC",
+      "created_at": "2018-05-04T09:08:05.24Z",
+      "updated_at": "2018-05-04T09:08:05.24Z"
+    },
+    {
+      "id": "5aec22f528216c4a7c7dacdb",
+      "name": "United Arab Emirates Dirham",
+      "code": "AED",
+      "created_at": "2018-05-04T09:08:05.854Z",
+      "updated_at": "2018-05-04T09:08:05.854Z"
+    },
+    {
+      "id": "5aec22f628216c4a7c7dacdd",
+      "name": "Cuban Peso",
+      "code": "CUP",
+      "created_at": "2018-05-04T09:08:06.334Z",
+      "updated_at": "2018-05-04T09:08:06.334Z"
+    },
+    {
+      "id": "5aec22f728216c4a7c7dace0",
+      "name": "Bangladeshi Taka",
+      "code": "BDT",
+      "created_at": "2018-05-04T09:08:07.224Z",
+      "updated_at": "2018-05-04T09:08:07.224Z"
+    },
+    {
+      "id": "5aec22f728216c4a7c7dace2",
+      "name": "Canadian Dollar",
+      "code": "CAD",
+      "created_at": "2018-05-04T09:08:07.733Z",
+      "updated_at": "2018-05-04T09:08:07.733Z"
+    },
+    {
+      "id": "5aec22f828216c4a7c7dace4",
+      "name": "Kazakhstani Tenge",
+      "code": "KZT",
+      "created_at": "2018-05-04T09:08:08.212Z",
+      "updated_at": "2018-05-04T09:08:08.212Z"
+    },
+    {
+      "id": "5aec22f828216c4a7c7dace5",
+      "name": "Russian Ruble",
+      "code": "RUB",
+      "created_at": "2018-05-04T09:08:08.516Z",
+      "updated_at": "2018-05-04T09:08:08.516Z"
+    },
+    {
+      "id": "5aec22f928216c4a7c7dace7",
+      "name": "Zambian Kwacha",
+      "code": "ZMW",
+      "created_at": "2018-05-04T09:08:09.131Z",
+      "updated_at": "2018-05-04T09:08:09.131Z"
+    },
+    {
+      "id": "5aec22f928216c4a7c7dace9",
+      "name": "Manx pound",
+      "code": "IMP",
+      "created_at": "2018-05-04T09:08:09.745Z",
+      "updated_at": "2018-05-04T09:08:09.745Z"
+    },
+    {
+      "id": "5aec22fa28216c4a7c7dacec",
+      "name": "Lithuanian Litas",
+      "code": "LTL",
+      "created_at": "2018-05-04T09:08:10.599Z",
+      "updated_at": "2018-05-04T09:08:10.599Z"
+    },
+    {
+      "id": "5aec22cb28216c4a7c7dac47",
+      "name": "Georgian Lari",
+      "code": "GEL",
+      "created_at": "2018-05-04T09:07:23.254Z",
+      "updated_at": "2018-05-04T09:07:23.254Z"
+    },
+    {
+      "id": "5aec22cd28216c4a7c7dac4e",
+      "name": "Bolivian Boliviano",
+      "code": "BOB",
+      "created_at": "2018-05-04T09:07:25.291Z",
+      "updated_at": "2018-05-04T09:07:25.291Z"
+    },
+    {
+      "id": "5aec22cd28216c4a7c7dac50",
+      "name": "Turkmenistani Manat",
+      "code": "TMT",
+      "created_at": "2018-05-04T09:07:25.77Z",
+      "updated_at": "2018-05-04T09:07:25.77Z"
+    },
+    {
+      "id": "5aec22ce28216c4a7c7dac52",
+      "name": "Bermudan Dollar",
+      "code": "BMD",
+      "created_at": "2018-05-04T09:07:26.326Z",
+      "updated_at": "2018-05-04T09:07:26.326Z"
+    },
+    {
+      "id": "5aec22ce28216c4a7c7dac53",
+      "name": "Brunei Dollar",
+      "code": "BND",
+      "created_at": "2018-05-04T09:07:26.566Z",
+      "updated_at": "2018-05-04T09:07:26.566Z"
+    },
+    {
+      "id": "5aec22cf28216c4a7c7dac56",
+      "name": "Indian Rupee",
+      "code": "INR",
+      "created_at": "2018-05-04T09:07:27.452Z",
+      "updated_at": "2018-05-04T09:07:27.452Z"
+    },
+    {
+      "id": "5aec22cf28216c4a7c7dac58",
+      "name": "Afghan Afghani",
+      "code": "AFN",
+      "created_at": "2018-05-04T09:07:27.999Z",
+      "updated_at": "2018-05-04T09:07:27.999Z"
+    },
+    {
+      "id": "5aec22d028216c4a7c7dac5b",
+      "name": "Iranian Rial",
+      "code": "IRR",
+      "created_at": "2018-05-04T09:07:28.886Z",
+      "updated_at": "2018-05-04T09:07:28.886Z"
+    },
+    {
+      "id": "5aec22d128216c4a7c7dac5d",
+      "name": "Tunisian Dinar",
+      "code": "TND",
+      "created_at": "2018-05-04T09:07:29.401Z",
+      "updated_at": "2018-05-04T09:07:29.401Z"
+    },
+    {
+      "id": "5aec22d128216c4a7c7dac5f",
+      "name": "Lebanese Pound",
+      "code": "LBP",
+      "created_at": "2018-05-04T09:07:29.91Z",
+      "updated_at": "2018-05-04T09:07:29.91Z"
+    },
+    {
+      "id": "5aec22d228216c4a7c7dac60",
+      "name": "Omani Rial",
+      "code": "OMR",
+      "created_at": "2018-05-04T09:07:30.149Z",
+      "updated_at": "2018-05-04T09:07:30.149Z"
+    },
+    {
+      "id": "5aec22d228216c4a7c7dac61",
+      "name": "Bosnia-Herzegovina Convertible Mark",
+      "code": "BAM",
+      "created_at": "2018-05-04T09:07:30.422Z",
+      "updated_at": "2018-05-04T09:07:30.422Z"
+    },
+    {
+      "id": "5aec22d228216c4a7c7dac63",
+      "name": "Burundian Franc",
+      "code": "BIF",
+      "created_at": "2018-05-04T09:07:30.934Z",
+      "updated_at": "2018-05-04T09:07:30.934Z"
+    },
+    {
+      "id": "5aec22d328216c4a7c7dac65",
+      "name": "Vietnamese Dong",
+      "code": "VND",
+      "created_at": "2018-05-04T09:07:31.45Z",
+      "updated_at": "2018-05-04T09:07:31.45Z"
+    },
+    {
+      "id": "5aec22d428216c4a7c7dac67",
+      "name": "Bhutanese Ngultrum",
+      "code": "BTN",
+      "created_at": "2018-05-04T09:07:32.062Z",
+      "updated_at": "2018-05-04T09:07:32.062Z"
+    },
+    {
+      "id": "5aec22d428216c4a7c7dac69",
+      "name": "Ghanaian Cedi",
+      "code": "GHS",
+      "created_at": "2018-05-04T09:07:32.608Z",
+      "updated_at": "2018-05-04T09:07:32.608Z"
+    },
+    {
+      "id": "5aec22d528216c4a7c7dac6b",
+      "name": "Jamaican Dollar",
+      "code": "JMD",
+      "created_at": "2018-05-04T09:07:33.187Z",
+      "updated_at": "2018-05-04T09:07:33.187Z"
+    },
+    {
+      "id": "5aec22d628216c4a7c7dac6e",
+      "name": "São Tomé and Príncipe Dobra",
+      "code": "STD",
+      "created_at": "2018-05-04T09:07:34.108Z",
+      "updated_at": "2018-05-04T09:07:34.108Z"
+    },
+    {
+      "id": "5aec22d628216c4a7c7dac70",
+      "name": "Cuban Convertible Peso",
+      "code": "CUC",
+      "created_at": "2018-05-04T09:07:34.723Z",
+      "updated_at": "2018-05-04T09:07:34.723Z"
+    },
+    {
+      "id": "5aec22d728216c4a7c7dac73",
+      "name": "Macanese Pataca",
+      "code": "MOP",
+      "created_at": "2018-05-04T09:07:35.645Z",
+      "updated_at": "2018-05-04T09:07:35.645Z"
+    },
+    {
+      "id": "5aec22d828216c4a7c7dac76",
+      "name": "Macedonian Denar",
+      "code": "MKD",
+      "created_at": "2018-05-04T09:07:36.568Z",
+      "updated_at": "2018-05-04T09:07:36.568Z"
+    },
+    {
+      "id": "5aec22d928216c4a7c7dac79",
+      "name": "Chinese Yuan",
+      "code": "CNY",
+      "created_at": "2018-05-04T09:07:37.387Z",
+      "updated_at": "2018-05-04T09:07:37.387Z"
+    },
+    {
+      "id": "5aec22da28216c4a7c7dac7c",
+      "name": "Cayman Islands Dollar",
+      "code": "KYD",
+      "created_at": "2018-05-04T09:07:38.141Z",
+      "updated_at": "2018-05-04T09:07:38.141Z"
+    },
+    {
+      "id": "5aec22da28216c4a7c7dac7e",
+      "name": "Netherlands Antillean Guilder",
+      "code": "ANG",
+      "created_at": "2018-05-04T09:07:38.65Z",
+      "updated_at": "2018-05-04T09:07:38.65Z"
+    },
+    {
+      "id": "5aec22da28216c4a7c7dac7f",
+      "name": "British Pound Sterling",
+      "code": "GBP",
+      "created_at": "2018-05-04T09:07:38.922Z",
+      "updated_at": "2018-05-04T09:07:38.922Z"
+    },
+    {
+      "id": "5aec22db28216c4a7c7dac81",
+      "name": "Seychellois Rupee",
+      "code": "SCR",
+      "created_at": "2018-05-04T09:07:39.537Z",
+      "updated_at": "2018-05-04T09:07:39.537Z"
+    },
+    {
+      "id": "5aec22db28216c4a7c7dac82",
+      "name": "CFA Franc BEAC",
+      "code": "XAF",
+      "created_at": "2018-05-04T09:07:39.845Z",
+      "updated_at": "2018-05-04T09:07:39.845Z"
+    },
+    {
+      "id": "5aec22dc28216c4a7c7dac83",
+      "name": "Fijian Dollar",
+      "code": "FJD",
+      "created_at": "2018-05-04T09:07:40.084Z",
+      "updated_at": "2018-05-04T09:07:40.084Z"
+    },
+    {
+      "id": "5aec22dc28216c4a7c7dac85",
+      "name": "Malagasy Ariary",
+      "code": "MGA",
+      "created_at": "2018-05-04T09:07:40.663Z",
+      "updated_at": "2018-05-04T09:07:40.663Z"
+    },
+    {
+      "id": "5aec22dc28216c4a7c7dac86",
+      "name": "Tongan Paʻanga",
+      "code": "TOP",
+      "created_at": "2018-05-04T09:07:40.903Z",
+      "updated_at": "2018-05-04T09:07:40.903Z"
+    },
+    {
+      "id": "5aec22dd28216c4a7c7dac88",
+      "name": "Lesotho Loti",
+      "code": "LSL",
+      "created_at": "2018-05-04T09:07:41.414Z",
+      "updated_at": "2018-05-04T09:07:41.414Z"
+    },
+    {
+      "id": "5aec22dd28216c4a7c7dac89",
+      "name": "Romanian Leu",
+      "code": "RON",
+      "created_at": "2018-05-04T09:07:41.688Z",
+      "updated_at": "2018-05-04T09:07:41.688Z"
+    },
+    {
+      "id": "5aec22de28216c4a7c7dac8b",
+      "name": "Trinidad and Tobago Dollar",
+      "code": "TTD",
+      "created_at": "2018-05-04T09:07:42.302Z",
+      "updated_at": "2018-05-04T09:07:42.302Z"
+    },
+    {
+      "id": "5aec22de28216c4a7c7dac8c",
+      "name": "New Belarusian Ruble",
+      "code": "BYN",
+      "created_at": "2018-05-04T09:07:42.61Z",
+      "updated_at": "2018-05-04T09:07:42.61Z"
+    },
+    {
+      "id": "5aec22de28216c4a7c7dac8d",
+      "name": "Eritrean Nakfa",
+      "code": "ERN",
+      "created_at": "2018-05-04T09:07:42.917Z",
+      "updated_at": "2018-05-04T09:07:42.917Z"
+    },
+    {
+      "id": "5aec22df28216c4a7c7dac90",
+      "name": "Uruguayan Peso",
+      "code": "UYU",
+      "created_at": "2018-05-04T09:07:43.837Z",
+      "updated_at": "2018-05-04T09:07:43.837Z"
+    },
+    {
+      "id": "5aec22e028216c4a7c7dac93",
+      "name": "CFP Franc",
+      "code": "XPF",
+      "created_at": "2018-05-04T09:07:44.861Z",
+      "updated_at": "2018-05-04T09:07:44.861Z"
+    },
+    {
+      "id": "5aec22e128216c4a7c7dac94",
+      "name": "Yemeni Rial",
+      "code": "YER",
+      "created_at": "2018-05-04T09:07:45.101Z",
+      "updated_at": "2018-05-04T09:07:45.101Z"
+    },
+    {
+      "id": "5aec22e128216c4a7c7dac96",
+      "name": "Colombian Peso",
+      "code": "COP",
+      "created_at": "2018-05-04T09:07:45.614Z",
+      "updated_at": "2018-05-04T09:07:45.614Z"
+    },
+    {
+      "id": "5aec22e228216c4a7c7dac98",
+      "name": "Gambian Dalasi",
+      "code": "GMD",
+      "created_at": "2018-05-04T09:07:46.192Z",
+      "updated_at": "2018-05-04T09:07:46.192Z"
+    },
+    {
+      "id": "5aec22e228216c4a7c7dac9a",
+      "name": "Cambodian Riel",
+      "code": "KHR",
+      "created_at": "2018-05-04T09:07:46.739Z",
+      "updated_at": "2018-05-04T09:07:46.739Z"
+    },
+    {
+      "id": "5aec22e328216c4a7c7dac9c",
+      "name": "Guyanaese Dollar",
+      "code": "GYD",
+      "created_at": "2018-05-04T09:07:47.319Z",
+      "updated_at": "2018-05-04T09:07:47.319Z"
+    },
+    {
+      "id": "5aec22e328216c4a7c7dac9e",
+      "name": "Panamanian Balboa",
+      "code": "PAB",
+      "created_at": "2018-05-04T09:07:47.933Z",
+      "updated_at": "2018-05-04T09:07:47.933Z"
+    },
+    {
+      "id": "5aec22e428216c4a7c7daca0",
+      "name": "Turkish Lira",
+      "code": "TRY",
+      "created_at": "2018-05-04T09:07:48.498Z",
+      "updated_at": "2018-05-04T09:07:48.498Z"
+    },
+    {
+      "id": "5aec22e428216c4a7c7daca1",
+      "name": "Chilean Peso",
+      "code": "CLP",
+      "created_at": "2018-05-04T09:07:48.753Z",
+      "updated_at": "2018-05-04T09:07:48.753Z"
+    },
+    {
+      "id": "5aec22e528216c4a7c7daca3",
+      "name": "Ukrainian Hryvnia",
+      "code": "UAH",
+      "created_at": "2018-05-04T09:07:49.367Z",
+      "updated_at": "2018-05-04T09:07:49.367Z"
+    },
+    {
+      "id": "5aec22e628216c4a7c7daca8",
+      "name": "Djiboutian Franc",
+      "code": "DJF",
+      "created_at": "2018-05-04T09:07:50.906Z",
+      "updated_at": "2018-05-04T09:07:50.906Z"
+    },
+    {
+      "id": "5aec22e728216c4a7c7daca9",
+      "name": "Icelandic Króna",
+      "code": "ISK",
+      "created_at": "2018-05-04T09:07:51.21Z",
+      "updated_at": "2018-05-04T09:07:51.21Z"
+    },
+    {
+      "id": "5aec22e728216c4a7c7dacab",
+      "name": "Mozambican Metical",
+      "code": "MZN",
+      "created_at": "2018-05-04T09:07:51.824Z",
+      "updated_at": "2018-05-04T09:07:51.824Z"
+    },
+    {
+      "id": "5aec22e828216c4a7c7dacac",
+      "name": "Rwandan Franc",
+      "code": "RWF",
+      "created_at": "2018-05-04T09:07:52.131Z",
+      "updated_at": "2018-05-04T09:07:52.131Z"
+    },
+    {
+      "id": "5aec22e928216c4a7c7dacaf",
+      "name": "United States Dollar",
+      "code": "USD",
+      "created_at": "2018-05-04T09:07:53.049Z",
+      "updated_at": "2018-05-04T09:07:53.049Z"
+    },
+    {
+      "id": "5aec22e928216c4a7c7dacb1",
+      "name": "Guatemalan Quetzal",
+      "code": "GTQ",
+      "created_at": "2018-05-04T09:07:53.67Z",
+      "updated_at": "2018-05-04T09:07:53.67Z"
+    },
+    {
+      "id": "5aec22ea28216c4a7c7dacb3",
+      "name": "Mauritian Rupee",
+      "code": "MUR",
+      "created_at": "2018-05-04T09:07:54.285Z",
+      "updated_at": "2018-05-04T09:07:54.285Z"
+    },
+    {
+      "id": "5aec22ea28216c4a7c7dacb4",
+      "name": "Paraguayan Guarani",
+      "code": "PYG",
+      "created_at": "2018-05-04T09:07:54.539Z",
+      "updated_at": "2018-05-04T09:07:54.539Z"
+    },
+    {
+      "id": "5aec22ea28216c4a7c7dacb5",
+      "name": "Surinamese Dollar",
+      "code": "SRD",
+      "created_at": "2018-05-04T09:07:54.794Z",
+      "updated_at": "2018-05-04T09:07:54.794Z"
+    },
+    {
+      "id": "5aec22eb28216c4a7c7dacb7",
+      "name": "Tajikistani Somoni",
+      "code": "TJS",
+      "created_at": "2018-05-04T09:07:55.342Z",
+      "updated_at": "2018-05-04T09:07:55.342Z"
+    },
+    {
+      "id": "5aec22eb28216c4a7c7dacb8",
+      "name": "New Taiwan Dollar",
+      "code": "TWD",
+      "created_at": "2018-05-04T09:07:55.614Z",
+      "updated_at": "2018-05-04T09:07:55.614Z"
+    },
+    {
+      "id": "5aec22ec28216c4a7c7dacba",
+      "name": "Croatian Kuna",
+      "code": "HRK",
+      "created_at": "2018-05-04T09:07:56.228Z",
+      "updated_at": "2018-05-04T09:07:56.228Z"
+    },
+    {
+      "id": "5aec22ec28216c4a7c7dacbc",
+      "name": "Malaysian Ringgit",
+      "code": "MYR",
+      "created_at": "2018-05-04T09:07:56.842Z",
+      "updated_at": "2018-05-04T09:07:56.842Z"
+    },
+    {
+      "id": "5aec22ed28216c4a7c7dacbd",
+      "name": "Swedish Krona",
+      "code": "SEK",
+      "created_at": "2018-05-04T09:07:57.15Z",
+      "updated_at": "2018-05-04T09:07:57.15Z"
+    },
+    {
+      "id": "5aec22ed28216c4a7c7dacbf",
+      "name": "Azerbaijani Manat",
+      "code": "AZN",
+      "created_at": "2018-05-04T09:07:57.661Z",
+      "updated_at": "2018-05-04T09:07:57.661Z"
+    },
+    {
+      "id": "5aec22ee28216c4a7c7dacc1",
+      "name": "Chilean Unit of Account (UF)",
+      "code": "CLF",
+      "created_at": "2018-05-04T09:07:58.282Z",
+      "updated_at": "2018-05-04T09:07:58.282Z"
+    },
+    {
+      "id": "5aec22ee28216c4a7c7dacc3",
+      "name": "Sudanese Pound",
+      "code": "SDG",
+      "created_at": "2018-05-04T09:07:58.788Z",
+      "updated_at": "2018-05-04T09:07:58.788Z"
+    },
+    {
+      "id": "5aec22ef28216c4a7c7dacc4",
+      "name": "Thai Baht",
+      "code": "THB",
+      "created_at": "2018-05-04T09:07:59.095Z",
+      "updated_at": "2018-05-04T09:07:59.095Z"
+    },
+    {
+      "id": "5aec22ef28216c4a7c7dacc6",
+      "name": "Belarusian Ruble",
+      "code": "BYR",
+      "created_at": "2018-05-04T09:07:59.71Z",
+      "updated_at": "2018-05-04T09:07:59.71Z"
+    },
+    {
+      "id": "5aec22f028216c4a7c7dacc8",
+      "name": "Myanma Kyat",
+      "code": "MMK",
+      "created_at": "2018-05-04T09:08:00.324Z",
+      "updated_at": "2018-05-04T09:08:00.324Z"
+    },
+    {
+      "id": "5aec22f028216c4a7c7dacc9",
+      "name": "Nicaraguan Córdoba",
+      "code": "NIO",
+      "created_at": "2018-05-04T09:08:00.634Z",
+      "updated_at": "2018-05-04T09:08:00.634Z"
+    },
+    {
+      "id": "5aec22f028216c4a7c7dacca",
+      "name": "Nepalese Rupee",
+      "code": "NPR",
+      "created_at": "2018-05-04T09:08:00.938Z",
+      "updated_at": "2018-05-04T09:08:00.938Z"
+    },
+    {
+      "id": "5aec22f128216c4a7c7daccc",
+      "name": "Comorian Franc",
+      "code": "KMF",
+      "created_at": "2018-05-04T09:08:01.486Z",
+      "updated_at": "2018-05-04T09:08:01.486Z"
+    },
+    {
+      "id": "5aec22f228216c4a7c7dacce",
+      "name": "Malawian Kwacha",
+      "code": "MWK",
+      "created_at": "2018-05-04T09:08:02.065Z",
+      "updated_at": "2018-05-04T09:08:02.065Z"
+    },
+    {
+      "id": "5aec22f228216c4a7c7dacd0",
+      "name": "Botswanan Pula",
+      "code": "BWP",
+      "created_at": "2018-05-04T09:08:02.613Z",
+      "updated_at": "2018-05-04T09:08:02.613Z"
+    },
+    {
+      "id": "5aec22f328216c4a7c7dacd2",
+      "name": "Falkland Islands Pound",
+      "code": "FKP",
+      "created_at": "2018-05-04T09:08:03.19Z",
+      "updated_at": "2018-05-04T09:08:03.19Z"
+    },
+    {
+      "id": "5aec22f328216c4a7c7dacd4",
+      "name": "Somali Shilling",
+      "code": "SOS",
+      "created_at": "2018-05-04T09:08:03.76Z",
+      "updated_at": "2018-05-04T09:08:03.76Z"
+    },
+    {
+      "id": "5aec22f428216c4a7c7dacd6",
+      "name": "Philippine Peso",
+      "code": "PHP",
+      "created_at": "2018-05-04T09:08:04.318Z",
+      "updated_at": "2018-05-04T09:08:04.318Z"
+    },
+    {
+      "id": "5aec22f428216c4a7c7dacd8",
+      "name": "Laotian Kip",
+      "code": "LAK",
+      "created_at": "2018-05-04T09:08:04.932Z",
+      "updated_at": "2018-05-04T09:08:04.932Z"
+    },
+    {
+      "id": "5aec22f528216c4a7c7dacda",
+      "name": "Venezuelan Bolívar Fuerte",
+      "code": "VEF",
+      "created_at": "2018-05-04T09:08:05.547Z",
+      "updated_at": "2018-05-04T09:08:05.547Z"
+    },
+    {
+      "id": "5aec22f628216c4a7c7dacdc",
+      "name": "Barbadian Dollar",
+      "code": "BBD",
+      "created_at": "2018-05-04T09:08:06.093Z",
+      "updated_at": "2018-05-04T09:08:06.093Z"
+    },
+    {
+      "id": "5aec22f628216c4a7c7dacde",
+      "name": "Samoan Tala",
+      "code": "WST",
+      "created_at": "2018-05-04T09:08:06.673Z",
+      "updated_at": "2018-05-04T09:08:06.673Z"
+    },
+    {
+      "id": "5aec22f628216c4a7c7dacdf",
+      "name": "Tanzanian Shilling",
+      "code": "TZS",
+      "created_at": "2018-05-04T09:08:06.982Z",
+      "updated_at": "2018-05-04T09:08:06.982Z"
+    },
+    {
+      "id": "5aec22f728216c4a7c7dace1",
+      "name": "Bahamian Dollar",
+      "code": "BSD",
+      "created_at": "2018-05-04T09:08:07.492Z",
+      "updated_at": "2018-05-04T09:08:07.492Z"
+    },
+    {
+      "id": "5aec22f728216c4a7c7dace3",
+      "name": "Jordanian Dinar",
+      "code": "JOD",
+      "created_at": "2018-05-04T09:08:07.972Z",
+      "updated_at": "2018-05-04T09:08:07.972Z"
+    },
+    {
+      "id": "5aec22f828216c4a7c7dace6",
+      "name": "Zambian Kwacha (pre-2013)",
+      "code": "ZMK",
+      "created_at": "2018-05-04T09:08:08.824Z",
+      "updated_at": "2018-05-04T09:08:08.824Z"
+    },
+    {
+      "id": "5aec22f928216c4a7c7dace8",
+      "name": "Argentine Peso",
+      "code": "ARS",
+      "created_at": "2018-05-04T09:08:09.439Z",
+      "updated_at": "2018-05-04T09:08:09.439Z"
+    },
+    {
+      "id": "5aec22fa28216c4a7c7dacea",
+      "name": "Iraqi Dinar",
+      "code": "IQD",
+      "created_at": "2018-05-04T09:08:10.055Z",
+      "updated_at": "2018-05-04T09:08:10.055Z"
+    },
+    {
+      "id": "5aec22fa28216c4a7c7daceb",
+      "name": "North Korean Won",
+      "code": "KPW",
+      "created_at": "2018-05-04T09:08:10.359Z",
+      "updated_at": "2018-05-04T09:08:10.359Z"
+    },
+    {
+      "id": "5aec22fa28216c4a7c7daced",
+      "name": "Maldivian Rufiyaa",
+      "code": "MVR",
+      "created_at": "2018-05-04T09:08:10.873Z",
+      "updated_at": "2018-05-04T09:08:10.873Z"
+    }
+  ]
+}

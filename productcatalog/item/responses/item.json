@@ -1,0 +1,22 @@
+{
+  "id": "5b6aac59869ff10005bd4635",
+  "name": "Adult",
+  "is_primary": true,
+  "description": null,
+  "is_published": false,
+  "published_at": null,
+  "is_available": false,
+  "purchased_count": 0,
+  "provider": "bemyguest",
+  "reference_id": "Adult",
+  "product_id": "5b6aac55869ff10005bd4633",
+  "package_ids": [
+    "5b6aac58869ff10005bd4634",
+    "5b6aac7e869ff10005bd468f"
+  ],
+  "question": null,
+  "is_deleted": false,
+  "deleted_at": null,
+  "created_at": "2018-08-08T08:39:53.859Z",
+  "updated_at": "2018-08-08T08:40:31.316Z"
+}

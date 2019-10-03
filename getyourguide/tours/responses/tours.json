@@ -1,0 +1,293 @@
+{
+  "_metadata": {
+    "descriptor": "GetYourGuide AG",
+    "method": "getTourByQueryAction",
+    "date": "2018-03-07T06:46:09Z",
+    "status": "OK",
+    "query": "cnt_language=en&currency=USD&q=LON",
+    "availableLanguages": [
+      "en",
+      "vi",
+      "es",
+      "th",
+      "fr",
+      "de"
+    ],
+    "exchange": {
+      "rate": 0.807528317,
+      "currency": "USD"
+    },
+    "totalCount": 4,
+    "limit": 10,
+    "offset": 0
+  },
+  "data": {
+    "tours": [
+      {
+        "tour_id": 121665,
+        "tour_code": "China Town on Cyclo",
+        "cond_language": [
+          "en"
+        ],
+        "title": "Ho Chi Minh City: Half-Day Cyclo Private Tour",
+        "abstract": "The cyclo is a three-wheel bicycle taxi that appeared in Vietnam during the French colonial period after a failed attempt to introduce rickshaws. A double seat is supported by the two front wheels with the driver sitting behind.",
+        "bestseller": false,
+        "certified": true,
+        "overall_rating": 0,
+        "number_of_ratings": 0,
+        "pictures": [
+          {
+            "id": 835146,
+            "url": "https://img-getyourguide-com.partner.gygtest.com/img/tour_img-835146-[format_id].jpg",
+            "ssl_url": "https://img-getyourguide-com.partner.gygtest.com/img/tour_img-835146-[format_id].jpg",
+            "verified": false
+          }
+        ],
+        "coordinates": {
+          "lat": 10.7737135,
+          "long": 106.6971443
+        },
+        "price": {
+          "values": {
+            "amount": 89
+          },
+          "description": "individual"
+        },
+        "categories": [
+          {
+            "category_id": 21,
+            "name": "Local Flavor & Neighborhood Tours",
+            "parent_id": 18
+          }
+        ],
+        "locations": [
+          {
+            "location_id": 272,
+            "type": "CITY",
+            "name": "Ho Chi Minh City",
+            "english_name": "Ho Chi Minh City",
+            "city": "Ho Chi Minh City",
+            "country": "VN",
+            "coordinates": {
+              "lat": 10.75918,
+              "long": 106.662498
+            },
+            "viewport": {
+              "sw_lat": 10.73265,
+              "sw_long": 106.620651,
+              "ne_lat": 10.8422,
+              "ne_long": 106.725327
+            }
+          }
+        ],
+        "url": "https://www-getyourguide-com.partner.gygtest.com/ho-chi-minh-city-l272/ho-chi-minh-city-half-day-cyclo-private-tour-t121665/?partner_id=3P890C2&psrc=partner_api&currency=USD",
+        "durations": [
+          {
+            "duration": 4,
+            "unit": "hour"
+          }
+        ]
+      },
+      {
+        "tour_id": 60849,
+        "tour_code": "VAT.CYCLO",
+        "cond_language": [
+          "en",
+          "vi"
+        ],
+        "title": "War Remnant Museum, Central Post Office, Notre Dame on Cyclo",
+        "abstract": "The cyclo is a three-wheel bicycle taxi that appeared in Vietnam during the French colonial period after a failed attempt to introduce rickshaws. A double seat is supported by the two front wheels, with the driver sitting behind.",
+        "bestseller": false,
+        "certified": true,
+        "overall_rating": 0,
+        "number_of_ratings": 0,
+        "pictures": [
+          {
+            "id": 745378,
+            "url": "https://img-getyourguide-com.partner.gygtest.com/img/tour_img-745378-[format_id].jpg",
+            "ssl_url": "https://img-getyourguide-com.partner.gygtest.com/img/tour_img-745378-[format_id].jpg",
+            "verified": false
+          }
+        ],
+        "coordinates": {
+          "lat": 10.7737262,
+          "long": 106.6970146
+        },
+        "price": {
+          "values": {
+            "amount": 89
+          },
+          "description": "individual"
+        },
+        "categories": [
+          {
+            "category_id": 21,
+            "name": "Local Flavor & Neighborhood Tours",
+            "parent_id": 18
+          }
+        ],
+        "locations": [
+          {
+            "location_id": 272,
+            "type": "CITY",
+            "name": "Ho Chi Minh City",
+            "english_name": "Ho Chi Minh City",
+            "city": "Ho Chi Minh City",
+            "country": "VN",
+            "coordinates": {
+              "lat": 10.75918,
+              "long": 106.662498
+            },
+            "viewport": {
+              "sw_lat": 10.73265,
+              "sw_long": 106.620651,
+              "ne_lat": 10.8422,
+              "ne_long": 106.725327
+            }
+          }
+        ],
+        "url": "https://www-getyourguide-com.partner.gygtest.com/ho-chi-minh-city-l272/cyclo-tour-in-ho-chi-minh-city-t60849/?partner_id=3P890C2&psrc=partner_api&currency=USD",
+        "durations": [
+          {
+            "duration": 4,
+            "unit": "hour"
+          }
+        ]
+      },
+      {
+        "tour_id": 122822,
+        "tour_code": "ODCHE003",
+        "cond_language": [
+          "en"
+        ],
+        "title": "Perfume Pagoda Private Tour with Boat Ride and Lunch",
+        "abstract": "The Perfume Pagoda is a vast complex of Buddhist temples and shrines built into the limestone Huong Tich mountains. It's the site of a religious festival which draws large numbers of pilgrims from across Vietnam. Your tour includes a boat ride and lunch.",
+        "bestseller": false,
+        "certified": false,
+        "overall_rating": 0,
+        "number_of_ratings": 0,
+        "pictures": [
+          {
+            "id": 841811,
+            "url": "https://img-getyourguide-com.partner.gygtest.com/img/tour_img-841811-[format_id].jpg",
+            "ssl_url": "https://img-getyourguide-com.partner.gygtest.com/img/tour_img-841811-[format_id].jpg",
+            "verified": false
+          }
+        ],
+        "coordinates": {
+          "lat": 21.0338556,
+          "long": 105.8494386
+        },
+        "price": {
+          "values": {
+            "amount": 59
+          },
+          "description": "individual"
+        },
+        "categories": [
+          {
+            "category_id": 32,
+            "name": "Religious & Spiritual Tours",
+            "parent_id": 27
+          }
+        ],
+        "locations": [
+          {
+            "location_id": 205,
+            "type": "CITY",
+            "name": "Hanoi",
+            "english_name": "Hanoi",
+            "city": "Hanoi",
+            "country": "VN",
+            "coordinates": {
+              "lat": 21.03195,
+              "long": 105.819908
+            },
+            "viewport": {
+              "sw_lat": 20.97431,
+              "sw_long": 105.788963,
+              "ne_lat": 21.06872,
+              "ne_long": 105.878868
+            }
+          }
+        ],
+        "url": "https://www-getyourguide-com.partner.gygtest.com/hanoi-l205/perfume-pagoda-private-tour-with-boat-ride-and-lunch-t122822/?partner_id=3P890C2&psrc=partner_api&currency=USD",
+        "durations": [
+          {
+            "duration": 1,
+            "unit": "day"
+          }
+        ]
+      },
+      {
+        "tour_id": 74399,
+        "tour_code": "WLO-BKK-FM",
+        "cond_language": [
+          "en",
+          "es",
+          "th",
+          "fr",
+          "de"
+        ],
+        "title": "Bangkok: Floating Market Private Boat Tour with a Local",
+        "abstract": "Take a private tour around the original floating market of Bangkok and stroll through hundreds of flavorful food stalls. Hop on a boat for an off-the-beaten-track canal ride and enjoy a delicious local lunch with your personal host.",
+        "bestseller": false,
+        "certified": false,
+        "overall_rating": 0,
+        "number_of_ratings": 0,
+        "pictures": [
+          {
+            "id": 499686,
+            "url": "https://img-getyourguide-com.partner.gygtest.com/img/tour_img-499686-[format_id].jpg",
+            "ssl_url": "https://img-getyourguide-com.partner.gygtest.com/img/tour_img-499686-[format_id].jpg",
+            "verified": false
+          }
+        ],
+        "coordinates": {
+          "lat": 13.775975,
+          "long": 100.5422695
+        },
+        "price": {
+          "values": {
+            "amount": 25.26
+          },
+          "description": "individual"
+        },
+        "categories": [
+          {
+            "category_id": 21,
+            "name": "Local Flavor & Neighborhood Tours",
+            "parent_id": 18
+          }
+        ],
+        "locations": [
+          {
+            "location_id": 169,
+            "type": "CITY",
+            "name": "Bangkok",
+            "english_name": "Bangkok",
+            "city": "Bangkok",
+            "country": "TH",
+            "coordinates": {
+              "lat": 13.75333,
+              "long": 100.504822
+            },
+            "viewport": {
+              "sw_lat": 13.64914,
+              "sw_long": 100.40609,
+              "ne_lat": 13.95495,
+              "ne_long": 100.685783
+            }
+          }
+        ],
+        "url": "https://www-getyourguide-com.partner.gygtest.com/bangkok-l169/bangkok-private-floating-market-boat-tour-with-local-t74399/?partner_id=3P890C2&psrc=partner_api&currency=USD",
+        "durations": [
+          {
+            "duration": 4,
+            "unit": "hour"
+          }
+        ]
+      }
+    ]
+  }
+}

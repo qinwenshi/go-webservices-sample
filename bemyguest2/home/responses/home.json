@@ -1,0 +1,143 @@
+{
+  "name": "BeMyGuest Distribution API v2",
+  "baseUrl": "/v2",
+  "encoding": "UTF-8",
+  "contentTypes": [
+    "application/json"
+  ],
+  "resources": {
+    "config": {
+      "description": "Account info and configuration",
+      "actions": [
+        {
+          "method": "GET",
+          "endpoint": "/v2/config",
+          "description": "Account details & API config"
+        }
+      ]
+    },
+    "products": {
+      "description": "Get Products static content and their ProductTypes",
+      "actions": [
+        {
+          "method": "GET",
+          "endpoint": "/v2/products",
+          "description": "List of Products available for you in the API"
+        },
+        {
+          "method": "GET",
+          "endpoint": "/v2/products/:productUuid",
+          "description": "Single Product details",
+          "example": "/v2/products/46c68644-3327-59aa-a374-e855dd97a004"
+        },
+        {
+          "method": "GET",
+          "endpoint": "/v2/products/:productUuid/product-types",
+          "description": "List of ProductTypes of a single Product",
+          "example": "/v2/products/46c68644-3327-59aa-a374-e855dd97a004/product-types"
+        }
+      ]
+    },
+    "product-types": {
+      "description": "Get ProductTypes configuration, availability and pricing details",
+      "actions": [
+        {
+          "method": "GET",
+          "endpoint": "/v2/product-types/:productTypeUuid",
+          "description": "Single ProductType details",
+          "example": "/v2/product-types/7e6005db-f096-5ab5-a121-b453b6af68f0"
+        },
+        {
+          "method": "GET",
+          "endpoint": "/v2/product-types/:productTypeUuid/price-lists",
+          "description": "Single ProductType Price Lists - daily availability, pricing & booking options for given period (`today + 1 month` by default)",
+          "example": "/v2/product-types/7e6005db-f096-5ab5-a121-b453b6af68f0/price-lists"
+        },
+        {
+          "method": "GET",
+          "endpoint": "/v2/product-types/:productTypeUuid/price-lists/:date",
+          "description": "Confirm availability and price of a ProductType on provided date [YYYY-MM-DD]",
+          "example": "/v2/product-types/7e6005db-f096-5ab5-a121-b453b6af68f0/price-lists/2018-06-19"
+        }
+      ]
+    },
+    "product-type-bundles": {
+      "description": "Get ProductTypeBundles configuration, availability and pricing details",
+      "actions": [
+        {
+          "method": "GET",
+          "endpoint": "/v2/product-type-bundles",
+          "description": "List of ProductTypeBundles available for you in the API"
+        }
+      ]
+    },
+    "bookings": {
+      "description": "Make a booking, Get bookings & their vouchers",
+      "actions": [
+        {
+          "method": "GET",
+          "endpoint": "/v2/bookings",
+          "description": "List of your Bookings"
+        },
+        {
+          "method": "POST",
+          "endpoint": "/v2/bookings",
+          "description": "Create a Booking"
+        },
+        {
+          "method": "GET",
+          "endpoint": "/v2/bookings/:bookingUuid",
+          "description": "Single Booking details",
+          "example": "/v2/bookings/701a2bee-1701-46fe-8877-051f4ed4d9bc"
+        },
+        {
+          "method": "GET",
+          "endpoint": "/v2/bookings/:bookingUuid/vouchers",
+          "description": "List of vouchers/vouchers available for the Booking",
+          "example": "/v2/bookings/701a2bee-1701-46fe-8877-051f4ed4d9bc/vouchers"
+        },
+        {
+          "method": "PUT",
+          "endpoint": "/v2/bookings/:bookingUuid/confirm",
+          "description": "Confirm Booking with `reserved` status"
+        },
+        {
+          "method": "PUT",
+          "endpoint": "/v2/bookings/:bookingUuid/cancel",
+          "description": "Request Booking cancellation - subject to cancellation policy"
+        }
+      ]
+    },
+    "bulk-product-types": {
+      "description": "Get configuration and pricing of ProductTypes available for Bulk Booking Request",
+      "actions": [
+        {
+          "method": "GET",
+          "endpoint": "/v2/bulk-product-types",
+          "description": "List of ProductTypes available for Bulk Booking Request"
+        },
+        {
+          "method": "GET",
+          "endpoint": "/v2/bulk-product-types/:productTypeUuid",
+          "description": "Single ProductType available for Bulk Booking Request"
+        }
+      ]
+    },
+    "bulk-requests": {
+      "description": "Get a bulk booking request, Get bulk requests",
+      "actions": [
+        {
+          "method": "GET",
+          "endpoint": "/v2/bulk-requests",
+          "description": "List of your Bulk Booking Requests"
+        },
+        {
+          "method": "GET",
+          "endpoint": "/v2/bulk-requests/:bulkRequestUuid",
+          "description": "Single Bulk Request Details",
+          "example": null
+        }
+      ]
+    }
+  }
+}

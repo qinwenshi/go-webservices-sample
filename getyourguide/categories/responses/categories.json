@@ -1,0 +1,79 @@
+{
+  "_metadata": {
+    "descriptor": "GetYourGuide AG",
+    "method": "getAction",
+    "date": "2018-03-07T02:25:58Z",
+    "status": "OK",
+    "query": "cnt_language=en&currency=usd",
+    "availableLanguages": [],
+    "exchange": {
+      "rate": 0.807528317,
+      "currency": "usd"
+    },
+    "totalCount": 359,
+    "limit": 10,
+    "offset": 0
+  },
+  "data": {
+    "categories": [
+      {
+        "category_id": 1,
+        "name": "Tours",
+        "number_of_tours": 17424
+      },
+      {
+        "category_id": 2,
+        "name": "Sightseeing Tours",
+        "parent_id": 1,
+        "number_of_tours": 12066
+      },
+      {
+        "category_id": 27,
+        "name": "Culture & History Tours",
+        "parent_id": 1,
+        "number_of_tours": 7679
+      },
+      {
+        "category_id": 35,
+        "name": "Nature & Adventure Tours",
+        "parent_id": 1,
+        "number_of_tours": 5367
+      },
+      {
+        "category_id": 33,
+        "name": "History & Heritage Tours",
+        "parent_id": 27,
+        "number_of_tours": 5205
+      },
+      {
+        "category_id": 18,
+        "name": "Theme Tours",
+        "parent_id": 1,
+        "number_of_tours": 4644
+      },
+      {
+        "category_id": 3,
+        "name": "Walking Tours",
+        "parent_id": 2,
+        "number_of_tours": 4558
+      },
+      {
+        "category_id": 54,
+        "name": "Activities",
+        "number_of_tours": 4033
+      },
+      {
+        "category_id": 41,
+        "name": "Nature & Panoramic Tours",
+        "parent_id": 35,
+        "number_of_tours": 3846
+      },
+      {
+        "category_id": 4,
+        "name": "Bus & Minivan Tours",
+        "parent_id": 2,
+        "number_of_tours": 3542
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_metadata": {
+    "descriptor": "GetYourGuide AG",
+    "method": "getAvailabilitiesByTourIdAction",
+    "date": "2018-03-07T08:33:31Z",
+    "status": "OK",
+    "query": "cnt_language=en&currency=USD&date%5B%5D=2018-03-10T00%3A00%3A00&date%5B%5D=2018-03-12T00%3A00%3A00",
+    "availableLanguages": [],
+    "exchange": {
+      "rate": 0.807528317,
+      "currency": "USD"
+    },
+    "totalCount": 0,
+    "limit": 10,
+    "offset": 0
+  },
+  "data": {
+    "availabilities": [
+      {
+        "start_time": "2018-03-10T08:00:00",
+        "pricing_id": 260256,
+        "vacancies": 2
+      },
+      {
+        "start_time": "2018-03-10T14:00:00",
+        "pricing_id": 260256,
+        "vacancies": 2
+      },
+      {
+        "start_time": "2018-03-11T08:00:00",
+        "pricing_id": 260256,
+        "vacancies": 2
+      },
+      {
+        "start_time": "2018-03-11T14:00:00",
+        "pricing_id": 260256,
+        "vacancies": 2
+      }
+    ]
+  }
+}

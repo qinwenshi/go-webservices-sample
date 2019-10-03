@@ -1,0 +1,71 @@
+{
+  "_metadata": {
+    "descriptor": "GetYourGuide AG",
+    "method": "getAvailabilitiesByTourOptionIdAction",
+    "date": "2018-03-08T04:02:23Z",
+    "status": "OK",
+    "query": "cnt_language=en&currency=USD",
+    "availableLanguages": [],
+    "exchange": {
+      "rate": 0.807528317,
+      "currency": "USD"
+    },
+    "totalCount": 0,
+    "limit": 10,
+    "offset": 0
+  },
+  "data": {
+    "availabilities": [
+      {
+        "start_time": "2018-03-09T08:00:00",
+        "pricing_id": 260256,
+        "vacancies": 2
+      },
+      {
+        "start_time": "2018-03-09T14:00:00",
+        "pricing_id": 260256,
+        "vacancies": 2
+      },
+      {
+        "start_time": "2018-03-10T08:00:00",
+        "pricing_id": 260256,
+        "vacancies": 2
+      },
+      {
+        "start_time": "2018-03-10T14:00:00",
+        "pricing_id": 260256,
+        "vacancies": 2
+      },
+      {
+        "start_time": "2018-03-11T08:00:00",
+        "pricing_id": 260256,
+        "vacancies": 2
+      },
+      {
+        "start_time": "2018-03-11T14:00:00",
+        "pricing_id": 260256,
+        "vacancies": 2
+      },
+      {
+        "start_time": "2018-03-12T08:00:00",
+        "pricing_id": 260256,
+        "vacancies": 2
+      },
+      {
+        "start_time": "2018-03-12T14:00:00",
+        "pricing_id": 260256,
+        "vacancies": 2
+      },
+      {
+        "start_time": "2018-03-13T08:00:00",
+        "pricing_id": 260256,
+        "vacancies": 2
+      },
+      {
+        "start_time": "2018-03-13T14:00:00",
+        "pricing_id": 260256,
+        "vacancies": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "descriptor": "GetYourGuide AG",
+  "apiVersion": "1",
+  "method": "createBookingAction",
+  "date": "2018-03-08T06:51:17Z",
+  "status": "ERROR",
+  "errors": [
+    {
+      "errorCode": 307,
+      "errorMessage": "Date not available"
+    }
+  ],
+  "helpURL": "/doc"
+}

@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "GEN-WRONG-ARGS",
+    "http_code": 400,
+    "message": "Booking not found, UUID: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+  }
+}

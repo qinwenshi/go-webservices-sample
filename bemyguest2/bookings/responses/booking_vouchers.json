@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "uuid": "84caf968-b80d-457e-9bc4-8eda10232458",
+      "generatedAt": "2018-07-12 15:50:06",
+      "downloadedAt": "2018-07-12 15:50:23",
+      "links": [
+        {
+          "method": "GET",
+          "rel": "download",
+          "href": "/v2/bookings/f3359b1b-f718-4ec5-ab31-50f98373d6e7/download-voucher/84caf968-b80d-457e-9bc4-8eda10232458"
+        },
+        {
+          "method": "GET",
+          "rel": "booking",
+          "href": "/v2/bookings/f3359b1b-f718-4ec5-ab31-50f98373d6e7"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "total": 1,
+      "count": 1,
+      "per_page": 15,
+      "current_page": 1,
+      "total_pages": 1,
+      "links": []
+    }
+  }
+}

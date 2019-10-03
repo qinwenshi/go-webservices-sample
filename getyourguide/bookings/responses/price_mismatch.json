@@ -1,0 +1,14 @@
+{
+  "descriptor": "GetYourGuide AG",
+  "apiVersion": "1",
+  "method": "createBookingAction",
+  "date": "2018-03-08T06:52:03Z",
+  "status": "ERROR",
+  "errors": [
+    {
+      "errorCode": 305,
+      "errorMessage": "Price mismatch"
+    }
+  ],
+  "helpURL": "/doc"
+}

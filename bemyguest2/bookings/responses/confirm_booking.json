@@ -1,0 +1,64 @@
+{
+  "data": {
+    "uuid": "6b2964d7-e5cd-41d4-bb12-5a892562f2c0",
+    "code": "FZXU7ED",
+    "partnerReference": "testing-1",
+    "status": "waiting",
+    "productTypeTitle": "S.E.A. Aquarium E-Ticket with SGD 5 Meal Voucher and SGD 5 Retail Voucher",
+    "productTypeTitleTranslated": "S.E.A. Aquarium E-Ticket with SGD 5 Meal Voucher and SGD 5 Retail Voucher",
+    "productTypeUuid": "8f6ef765-4ccd-5e30-ab29-7270569646f1",
+    "currencyCode": "SGD",
+    "currencyUuid": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+    "totalAmount": 20,
+    "amountBreakdown": [
+      {
+        "name": "adult",
+        "quantity": 1,
+        "price": 20
+      }
+    ],
+    "arrivalDate": "2018-06-29",
+    "createdAt": "2018-06-19 23:20:45",
+    "updatedAt": "2018-06-19 23:40:14",
+    "salutation": "Mr.",
+    "firstName": "Michael",
+    "lastName": "Yin",
+    "email": "michael@example.com",
+    "phone": "+222333111",
+    "adults": 1,
+    "children": 0,
+    "seniors": 0,
+    "options": [
+      {
+        "uuid": "fe5f4edc-7d76-494d-a49b-e967afd7215a",
+        "label": "Preferred type of coat",
+        "value": "red",
+        "price": "0.000000"
+      }
+    ],
+    "completedAt": null,
+    "cancellationRequestAt": null,
+    "cancellationRequestStatus": "none",
+    "cancellationStatus": null,
+    "refundDate": null,
+    "refundAmount": null,
+    "refundTransaction": null,
+    "links": [
+      {
+        "method": "GET",
+        "rel": "self",
+        "href": "/v2/bookings/6b2964d7-e5cd-41d4-bb12-5a892562f2c0"
+      },
+      {
+        "method": "GET",
+        "rel": "productType",
+        "href": "/v2/product-types/8f6ef765-4ccd-5e30-ab29-7270569646f1"
+      },
+      {
+        "method": "GET",
+        "rel": "product",
+        "href": "/v2/products/fed7dcfb-25c0-5b7c-9da0-c657bf021a71"
+      }
+    ]
+  }
+}

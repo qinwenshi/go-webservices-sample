@@ -1,0 +1,4787 @@
+{
+  "data": {
+    "now": {
+      "date": "2018-06-19 14:28:21.289593",
+      "timezone_type": 3,
+      "timezone": "Asia/Singapore"
+    },
+    "version": 2,
+    "serverUrl": "",
+    "photosUrl": "https://s3.amazonaws.com/playground.bemyguest.com.sg",
+    "activitiesSorting": [
+      "date",
+      "-date",
+      "price",
+      "-price",
+      "distance",
+      "-distance"
+    ],
+    "user": {
+      "name": "",
+      "email": "",
+      "uuid": "d7b36f8c-87f1-4028-9d76-420cbedb3486",
+      "continueUrl": "",
+      "notifyUrl": "",
+      "defaultPagination": 50,
+      "defaultSortBy": "",
+      "defaultCurrencyUuid": "cd15153e-dfd1-5039-8aa3-115bec58e86e",
+      "defaultCurrencyCode": "SGD",
+      "defaultLanguageUuid": null,
+      "defaultLanguageCode": null,
+      "walletBalance": 99980,
+      "walletBlockedBalance": 0,
+      "walletAvailableBalance": 99980,
+      "walletAlertValue": 0
+    },
+    "languages": {
+      "data": [
+        {
+          "name": "chinese_simplified",
+          "code": "ZH-HANS",
+          "uuid": "d182fbd9-4520-5c66-a513-94fcd3d46d9b"
+        },
+        {
+          "name": "english",
+          "code": "EN",
+          "uuid": "790395c0-23b6-5dd9-8a6b-ca61b95dcfd4"
+        },
+        {
+          "name": "indonesian",
+          "code": "ID",
+          "uuid": "4aa13583-2d44-54da-b75a-85f39768afe0"
+        },
+        {
+          "name": "japanese",
+          "code": "JA",
+          "uuid": "15cad3bd-034e-57a2-a692-0dd526b8ee5c"
+        },
+        {
+          "name": "korean",
+          "code": "KO",
+          "uuid": "a01acd7e-2cc9-507c-8cdd-56a11e292680"
+        },
+        {
+          "name": "thai",
+          "code": "TH",
+          "uuid": "be018dec-e4e4-595a-88ed-6c186f36fa07"
+        },
+        {
+          "name": "vietnamese",
+          "code": "VI",
+          "uuid": "fa52f395-b143-511b-aa9a-5b35ef0e16e3"
+        }
+      ]
+    },
+    "currencies": {
+      "data": [
+        {
+          "name": "Singapore Dollars",
+          "code": "SGD",
+          "symbol": "S$",
+          "uuid": "cd15153e-dfd1-5039-8aa3-115bec58e86e"
+        }
+      ]
+    },
+    "types": {
+      "data": [
+        {
+          "name": "Activity",
+          "uuid": "922c8611-609d-5f36-bb8a-f92c25e376a7"
+        },
+        {
+          "name": "Attraction",
+          "uuid": "d3c54653-dd05-598f-b193-f6683d1064ab"
+        },
+        {
+          "name": "Day Tour",
+          "uuid": "5a5682b8-c8d6-5f15-97ef-de4c66ea5695"
+        },
+        {
+          "name": "Event",
+          "uuid": "ac0704a8-b933-5719-91ec-410105530a33"
+        },
+        {
+          "name": "Package",
+          "uuid": "fc8591bd-fa8b-54a8-9ba4-fa012f2fcee5"
+        },
+        {
+          "name": "Voluntourism",
+          "uuid": "19dd0e08-2fcb-5c66-8698-e92eaa0c7734"
+        }
+      ]
+    },
+    "categories": {
+      "data": [
+        {
+          "name": "Shopping",
+          "uuid": "9e637f20-1771-50b3-944d-900881e993ee"
+        },
+        {
+          "name": "Transport",
+          "uuid": "f3480020-2236-5547-834d-8fd59c2ea966",
+          "children": [
+            {
+              "name": "Water",
+              "uuid": "dbaff91a-1960-538b-9eba-e86a1971962f"
+            },
+            {
+              "name": "Land",
+              "uuid": "a46e7f5b-9af2-5784-9c1d-b24988971c5f"
+            },
+            {
+              "name": "Air",
+              "uuid": "cf181545-f754-58e5-8f57-eba44c384737"
+            },
+            {
+              "name": "Airport Lounge",
+              "uuid": "823d1bf7-283a-5699-837e-b67d890904cd"
+            },
+            {
+              "name": "Airport Fast Track",
+              "uuid": "6a67e471-a922-5f3a-843b-5d8a3f3e5675"
+            }
+          ]
+        },
+        {
+          "name": "Family Fun",
+          "uuid": "69e80c2c-2317-5968-8616-f456878416f6",
+          "children": [
+            {
+              "name": "Themeparks",
+              "uuid": "9384f408-a941-58ba-b958-4a814c23d1bc"
+            },
+            {
+              "name": "Zoo",
+              "uuid": "f3334db3-b5cf-550a-b701-b061e8cc8c0c"
+            },
+            {
+              "name": "Aquarium",
+              "uuid": "b29669a2-3b91-5f31-a262-4f0f43bf06b6"
+            },
+            {
+              "name": "Safari",
+              "uuid": "85e3bd25-ec37-5e6d-92a8-5b36c83e39b9"
+            },
+            {
+              "name": "Island hopping",
+              "uuid": "28f3ab30-8563-516b-8c19-abb3e5cdc1e5"
+            },
+            {
+              "name": "Other attractions",
+              "uuid": "8d059e9d-f5d5-5883-addb-882199861aef"
+            }
+          ]
+        },
+        {
+          "name": "Eat & Drink",
+          "uuid": "832d6e4b-4a4f-56a4-bbdb-4f8d8f853d82",
+          "children": [
+            {
+              "name": "Fine dining",
+              "uuid": "780c5fda-75dd-5c16-bae9-1404a6b20e9e"
+            },
+            {
+              "name": "Food tasting",
+              "uuid": "f38a888b-608e-53c9-8327-86b3b72903a1"
+            },
+            {
+              "name": "Street food",
+              "uuid": "188b0e0c-8dbf-52b9-b922-c7db5ac64109"
+            },
+            {
+              "name": "Drinks tasting",
+              "uuid": "4cf7b7db-6312-5ffb-9825-e2331a2c50fb"
+            },
+            {
+              "name": "Nightlife",
+              "uuid": "b678a4c1-ab1c-5cdc-8f30-ac13f9ddd27d"
+            },
+            {
+              "name": "Cooking class",
+              "uuid": "1b8fe9de-f662-5fdf-bdbc-4e24d2b125c5"
+            }
+          ]
+        },
+        {
+          "name": "Adventure",
+          "uuid": "e5b28a41-3cbd-5990-98f1-2cda5cd17560",
+          "children": [
+            {
+              "name": "Water",
+              "uuid": "def01318-f24e-5f85-8794-83093f7f26cb",
+              "children": [
+                {
+                  "name": "Canoeing",
+                  "uuid": "f9fca254-e286-5889-b398-ae81e5804246"
+                },
+                {
+                  "name": "Rafting",
+                  "uuid": "f1b4b564-e0d7-56cd-aca6-ff5a8952c8b6"
+                },
+                {
+                  "name": "Surfing",
+                  "uuid": "3cb9bcba-026a-5251-990a-0e409b79de1c"
+                },
+                {
+                  "name": "wakeboarding",
+                  "uuid": "3da3e8a1-1f3e-5a12-989e-5e9cb2536160"
+                },
+                {
+                  "name": "snorkelling",
+                  "uuid": "085a06a4-2b65-5447-9276-fb7edf687e92"
+                },
+                {
+                  "name": "diving",
+                  "uuid": "b7312fa4-eb07-5e20-8fa4-a3236c963947"
+                },
+                {
+                  "name": "fishing",
+                  "uuid": "5eafd1f4-b633-5a58-bc57-935262fbd048"
+                },
+                {
+                  "name": "island hopping",
+                  "uuid": "7dd6ddef-6fd1-52ec-9588-4cddcb375948"
+                },
+                {
+                  "name": "seawalking/underwater scooter/aqua nut",
+                  "uuid": "d7d2c890-19d1-5571-b45c-e425d398d41b"
+                },
+                {
+                  "name": "parasailing",
+                  "uuid": "80a69fc2-4f7f-54af-a7ab-0881f24edb28"
+                },
+                {
+                  "name": "jet ski/water rocket",
+                  "uuid": "a65a2c02-80d3-5997-9244-f9ba6106d200"
+                },
+                {
+                  "name": "flyfish/banana",
+                  "uuid": "16c42222-e200-52c0-b34d-f2a1720c8970"
+                }
+              ]
+            },
+            {
+              "name": "Land",
+              "uuid": "1815b91a-6248-5676-9628-5079a2e1ac6c",
+              "children": [
+                {
+                  "name": "Horseback riding",
+                  "uuid": "ac1945bc-27c7-5f4f-894d-3e249fd08722"
+                },
+                {
+                  "name": "Canyoning",
+                  "uuid": "522ad893-632b-52a4-8125-3cd0e81fe55e"
+                },
+                {
+                  "name": "Cycling",
+                  "uuid": "d1b65dd5-a709-5b36-9b33-76b25dbf3152"
+                },
+                {
+                  "name": "Trekking/Hiking",
+                  "uuid": "05e5d7d9-7191-54cd-907d-15ef1eabcb91"
+                },
+                {
+                  "name": "Golf",
+                  "uuid": "e0ad80b0-9294-517a-9906-38355da6a747"
+                },
+                {
+                  "name": "Skating",
+                  "uuid": "6c0dae5e-ae85-5ba4-9fe7-264f27e8c5f1"
+                },
+                {
+                  "name": "Motorbiking",
+                  "uuid": "cfbd86a0-4ce8-5e45-81cb-ca300d5c7fda"
+                },
+                {
+                  "name": "Supercar",
+                  "uuid": "6d4a0b81-8ab4-5d94-8359-5587dd046c22"
+                },
+                {
+                  "name": "Running Tours",
+                  "uuid": "1aaf3813-68d8-5433-9c27-94880d6fcac7"
+                }
+              ]
+            },
+            {
+              "name": "Mountains",
+              "uuid": "449fefdd-b519-543b-82c2-7c31e2553197",
+              "children": [
+                {
+                  "name": "Rock Climbing",
+                  "uuid": "16d4096a-4dc9-558a-bdc8-4fa0fdc3fc36"
+                },
+                {
+                  "name": "Mountaneering",
+                  "uuid": "402b999c-7846-560f-bd70-5e7219770288"
+                },
+                {
+                  "name": "Ski/snowboard",
+                  "uuid": "a5d47f55-f0ff-50cc-880e-54c2255f3213"
+                }
+              ]
+            },
+            {
+              "name": "Air",
+              "uuid": "8fd0f545-ae0c-5989-b26c-61c4dda074d0",
+              "children": [
+                {
+                  "name": "Balloon flight",
+                  "uuid": "46726b4f-1dd1-57c2-9592-bb167709d537"
+                },
+                {
+                  "name": "Helicopter flight",
+                  "uuid": "6e401012-67a0-54f6-9159-dadc1629a703"
+                },
+                {
+                  "name": "Paragliding",
+                  "uuid": "88348e99-0e1f-52e1-940b-1f0587f803f2"
+                },
+                {
+                  "name": "Seaplane/ultralight",
+                  "uuid": "e03fde92-b1c4-557f-a51f-d5f04a99a111"
+                }
+              ]
+            },
+            {
+              "name": "Extreme",
+              "uuid": "ac275323-b6e4-5cf7-ab54-f997d2ed1653",
+              "children": [
+                {
+                  "name": "Bungee-jumping",
+                  "uuid": "ecb1780a-31de-5334-9e49-0cbfc8cda016"
+                },
+                {
+                  "name": "Skydiving",
+                  "uuid": "2639f895-c414-5824-8387-7ba6a532e587"
+                },
+                {
+                  "name": "Zip-lining",
+                  "uuid": "8e893c55-c366-5745-bbfc-62897b5a9ea9"
+                },
+                {
+                  "name": "Space travel",
+                  "uuid": "ddf9eb59-5bee-5dfc-b66a-7c903362026e"
+                },
+                {
+                  "name": "Jet flight/ultralight",
+                  "uuid": "aeeb4277-29de-5c4a-a424-20b2cd19a86e"
+                },
+                {
+                  "name": "Zorb Ball",
+                  "uuid": "2899b2ac-4a4b-5650-8cab-2726a4db40e6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Culture",
+          "uuid": "036319cf-bff3-554f-adfc-97fc9639f767",
+          "children": [
+            {
+              "name": "Sightseeing",
+              "uuid": "798bc728-97e0-5924-badb-0bceafb825de",
+              "children": [
+                {
+                  "name": "Sightseeing tour",
+                  "uuid": "8bf1af4c-cf52-5219-beb1-fe09d0812044"
+                },
+                {
+                  "name": "Cultural tour",
+                  "uuid": "d2828fdb-a185-52db-b984-c8e35be6ead7"
+                },
+                {
+                  "name": "Cruising",
+                  "uuid": "0a5cc227-fdab-519f-a49f-4e564c9bdd80"
+                },
+                {
+                  "name": "City hop on-hop off",
+                  "uuid": "df8a68f2-c165-53e4-a7db-a09df6429070"
+                }
+              ]
+            },
+            {
+              "name": "Local performance",
+              "uuid": "467a0ad5-2d32-5df4-83d8-92d185343e2e",
+              "children": [
+                {
+                  "name": "Music performance",
+                  "uuid": "d2299705-8da4-52ce-937d-0142b6e5c306"
+                },
+                {
+                  "name": "Dance performance",
+                  "uuid": "f6a5b828-bec3-5c77-84aa-8f3bf326ce5c"
+                },
+                {
+                  "name": "Sport performance",
+                  "uuid": "0fb6fe35-2cb7-5bb0-afc6-0bedb8c727ee"
+                },
+                {
+                  "name": "Cooking show",
+                  "uuid": "a90ce1d8-e6de-5c8c-a06b-dae2df4e5f13"
+                },
+                {
+                  "name": "Other performance",
+                  "uuid": "fcd8d53a-b271-5993-9815-0468136988c5"
+                }
+              ]
+            },
+            {
+              "name": "Learning",
+              "uuid": "0a3aeecd-49af-585b-8290-81631d0203e0",
+              "children": [
+                {
+                  "name": "Cooking class",
+                  "uuid": "d7921b1d-9459-564d-97e2-adb8bb1a65d1"
+                },
+                {
+                  "name": "Local arts and crafts class",
+                  "uuid": "e566e6a1-f833-5879-aaeb-211c378eafc8"
+                },
+                {
+                  "name": "Local traditions and rituals class",
+                  "uuid": "3f14a8e9-cb4e-52ea-a2ee-1eb44828d151"
+                },
+                {
+                  "name": "Other Learning",
+                  "uuid": "651b9a5e-7fd9-5c7f-b245-52a78d6db907"
+                }
+              ]
+            },
+            {
+              "name": "Community-based Tourism",
+              "uuid": "9429f54c-dfcc-5f5f-b860-ed19db9424e9"
+            }
+          ]
+        },
+        {
+          "name": "Nature",
+          "uuid": "16160c37-7ec8-521b-903b-5543d523932b",
+          "children": [
+            {
+              "name": "Wildlife",
+              "uuid": "8dd83a91-779c-55c0-b2c7-1d7153df0d0b"
+            },
+            {
+              "name": "Nature parks and reserves",
+              "uuid": "41172dda-beab-513d-868e-5beca8dde63d"
+            },
+            {
+              "name": "Star Gazing",
+              "uuid": "8bce2437-5351-5889-8a00-af097828bb59"
+            }
+          ]
+        },
+        {
+          "name": "Wellness",
+          "uuid": "23e73bb0-2003-5683-8612-8d87a50d977d",
+          "children": [
+            {
+              "name": "Treatment",
+              "uuid": "9a0e30e8-8a33-55f6-8005-e08e85688c54"
+            },
+            {
+              "name": "Yoga",
+              "uuid": "d5ca42be-1a60-54f4-bc35-2bbe5a29c984"
+            },
+            {
+              "name": "Spiritual/Meditation",
+              "uuid": "4ca76bb4-114f-547a-aa17-70fd352852e4"
+            },
+            {
+              "name": "Detox",
+              "uuid": "0c5bd54c-6250-5011-ab7e-d18e92a75389"
+            }
+          ]
+        },
+        {
+          "name": "Events",
+          "uuid": "ce90f60f-f56a-5c5a-a515-25c621a68b39"
+        },
+        {
+          "name": "Once-in-a-lifetime",
+          "uuid": "911af720-6797-5b03-8ea1-af956a592cc9"
+        }
+      ]
+    },
+    "locations": {
+      "data": [
+        {
+          "continent": "Africa",
+          "code": "AF",
+          "uuid": "65e39e2e-e7e2-53ce-80bb-468cc534ddd8",
+          "countries": {
+            "data": [
+              {
+                "name": "Angola",
+                "code": "AO",
+                "uuid": "c251c659-435f-5377-965a-6a1ba92a59fa"
+              },
+              {
+                "name": "Burkina Faso",
+                "code": "BF",
+                "uuid": "b440c300-3ede-5e79-9346-24228c145a65"
+              },
+              {
+                "name": "Burundi",
+                "code": "BI",
+                "uuid": "bd1679a9-caa7-5c54-80ea-c600eb840793",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Bujumbura Mairie Province",
+                      "uuid": "5ddcb6cd-aa8f-54dc-a200-dca71c283576"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Benin",
+                "code": "BJ",
+                "uuid": "608cc29d-885b-50ee-823c-49ca42fa9603"
+              },
+              {
+                "name": "Botswana",
+                "code": "BW",
+                "uuid": "aa497df8-2e4d-5d68-ba93-a88a0a9469ff"
+              },
+              {
+                "name": "Congo",
+                "code": "CD",
+                "uuid": "380d898f-1775-5a25-9ba8-0fe4b1ab7cbe"
+              },
+              {
+                "name": "Central African Republic",
+                "code": "CF",
+                "uuid": "08065aea-6a93-5ab1-ada2-3d7ba69165ce"
+              },
+              {
+                "name": "Congo",
+                "code": "CG",
+                "uuid": "1f609756-3dc4-51f9-ae3f-5c7385a1841c"
+              },
+              {
+                "name": "Ivory Coast",
+                "code": "CI",
+                "uuid": "431686b0-545c-5f89-accc-5e45b30f2543",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Abidjan",
+                      "uuid": "b95edeef-9c59-597c-a054-7bb7ba889d7e"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Cameroon",
+                "code": "CM",
+                "uuid": "2ac43914-67c4-5cb7-95fd-c1d1a25e5144"
+              },
+              {
+                "name": "Cape Verde",
+                "code": "CV",
+                "uuid": "e8016b2d-1808-5d8e-901d-bf0448f0593b"
+              },
+              {
+                "name": "Djibouti",
+                "code": "DJ",
+                "uuid": "10ace31f-2f39-5a1f-9d15-a3d488bd70eb"
+              },
+              {
+                "name": "Algeria",
+                "code": "DZ",
+                "uuid": "d6419b19-54a0-53d6-b914-a27b40bdf0ad"
+              },
+              {
+                "name": "Egypt",
+                "code": "EG",
+                "uuid": "cfb3099e-71c8-58bf-b248-198f227a7cd3",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Cairo Governorate",
+                      "uuid": "ab47b181-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Luxor Governorate",
+                      "uuid": "ab6ba2fe-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Red Sea Governorate",
+                      "uuid": "ab7b77a3-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "South Sinai Governorate",
+                      "uuid": "ab84d367-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Aswan Governorate",
+                      "uuid": "70d4505f-1d69-59d8-a1e6-f969fbe4934e"
+                    },
+                    {
+                      "name": "Alexandria Governorate",
+                      "uuid": "3e67211b-f760-5874-a8e3-0274fd3eb484"
+                    },
+                    {
+                      "name": "Beheira Governorate",
+                      "uuid": "1805c1ab-7956-5f75-b932-412ad51aa941"
+                    },
+                    {
+                      "name": "Matrouh Governorate",
+                      "uuid": "7423bae0-0de8-5be4-b6e0-dd184439cd52"
+                    },
+                    {
+                      "name": "Faiyum Governorate",
+                      "uuid": "a865e40c-2138-56bd-81b5-7da3c0f4dae9"
+                    },
+                    {
+                      "name": "Giza Governorate",
+                      "uuid": "df8b54d0-a31a-5990-896a-7268fabba3c2"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Western Sahara",
+                "code": "EH",
+                "uuid": "102289a3-20a2-5c02-b5ed-3ef308402b7c"
+              },
+              {
+                "name": "Eritrea",
+                "code": "ER",
+                "uuid": "a696a203-2f7d-5180-9ded-4d068292625f"
+              },
+              {
+                "name": "Ethiopia",
+                "code": "ET",
+                "uuid": "2c6d6d77-ef73-54f3-82fd-8b96f11417f8",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Addis Ababa",
+                      "uuid": "ab32365e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Oromia",
+                      "uuid": "ab73ec93-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Gabon",
+                "code": "GA",
+                "uuid": "3bc865ce-60e8-5623-9431-30cf6e2b903e"
+              },
+              {
+                "name": "Ghana",
+                "code": "GH",
+                "uuid": "2b7acd7c-9c92-5e61-b1ba-8f8d43863202",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Ashanti",
+                      "uuid": "ab33a566-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Greater Accra",
+                      "uuid": "ab58f246-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Gambia",
+                "code": "GM",
+                "uuid": "5fb3c8ed-379b-5ea0-89ca-da481860ab5b"
+              },
+              {
+                "name": "Guinea",
+                "code": "GN",
+                "uuid": "abb5e3f1-16ae-5ca4-8bc2-74fb9bd2d65d"
+              },
+              {
+                "name": "Equatorial Guinea",
+                "code": "GQ",
+                "uuid": "86c2b124-ce27-5035-ab9f-5e95e5b0d55e"
+              },
+              {
+                "name": "Guinea-Bissau",
+                "code": "GW",
+                "uuid": "f0df62b5-94d0-55e3-9e81-489a4290fe87"
+              },
+              {
+                "name": "Kenya",
+                "code": "KE",
+                "uuid": "d372dad9-c46d-5cae-bec3-b9934cb39fa5",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Nairobi",
+                      "uuid": "ab710c7a-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Mombasa County",
+                      "uuid": "e3f0d204-8b62-59e6-b8f4-b150dc3cf987"
+                    },
+                    {
+                      "name": "Nakuru County",
+                      "uuid": "ca962d02-c8c0-5dd6-8527-164d868ea514"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Comoros",
+                "code": "KM",
+                "uuid": "d905e58f-467a-5119-be9c-cad4324f7c13"
+              },
+              {
+                "name": "Liberia",
+                "code": "LR",
+                "uuid": "a27ed905-f27b-5e48-a593-982b52d7b89e"
+              },
+              {
+                "name": "Lesotho",
+                "code": "LS",
+                "uuid": "f1d10759-c498-5cff-898b-ed8040a111ba"
+              },
+              {
+                "name": "Libya",
+                "code": "LY",
+                "uuid": "acc3f949-47d8-5e19-8889-d0e29272b67f"
+              },
+              {
+                "name": "Morocco",
+                "code": "MA",
+                "uuid": "91fd2125-ff94-59c8-a157-bd4b6a505501",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Marrakesh-Tensift-El Haouz",
+                      "uuid": "ab6d925a-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Meknes-Tafilalet",
+                      "uuid": "ab6dd8d1-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Souss-Massa-Draa",
+                      "uuid": "ab848861-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Tangier-Tetouan",
+                      "uuid": "ab863d64-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Casablanca-Settat",
+                      "uuid": "6e6cf778-fb15-586a-aed2-181cfe076040"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Madagascar",
+                "code": "MG",
+                "uuid": "8ada3500-e61f-535a-a55f-45d3aca526bf"
+              },
+              {
+                "name": "Mali",
+                "code": "ML",
+                "uuid": "36198be5-0a04-54fa-a47e-a9396a0c22ec"
+              },
+              {
+                "name": "Mauritania",
+                "code": "MR",
+                "uuid": "46adac91-d808-5191-afe5-bd3a816fdf26"
+              },
+              {
+                "name": "Mauritius",
+                "code": "MU",
+                "uuid": "aa501d3d-3062-5952-9fff-7cf016d5665f"
+              },
+              {
+                "name": "Malawi",
+                "code": "MW",
+                "uuid": "b2c1ffbb-ef21-58fa-8eb9-74355cb32216"
+              },
+              {
+                "name": "Mozambique",
+                "code": "MZ",
+                "uuid": "4ba4bae3-d9f0-541b-a136-705865b26058"
+              },
+              {
+                "name": "Namibia",
+                "code": "NA",
+                "uuid": "70149afa-3b90-5061-8e76-24943131b75a"
+              },
+              {
+                "name": "Niger",
+                "code": "NE",
+                "uuid": "3aa49bd8-a5bc-5d61-8182-14a449e14221"
+              },
+              {
+                "name": "Nigeria",
+                "code": "NG",
+                "uuid": "9db85f27-2776-5e3c-bb59-cee0a7dad15c"
+              },
+              {
+                "name": "Reunion",
+                "code": "RE",
+                "uuid": "bbf85c65-2c8d-5fdf-8f0c-52cd65cfb45c"
+              },
+              {
+                "name": "Rwanda",
+                "code": "RW",
+                "uuid": "00dd4758-9e2c-5ba1-8881-739fce6ade86",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Kigali",
+                      "uuid": "16b2cf98-8fd6-5a04-84a3-32f50cfe8650"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Seychelles",
+                "code": "SC",
+                "uuid": "7e35fda7-ea94-5b36-982a-093bd2b4b2a0"
+              },
+              {
+                "name": "Sudan",
+                "code": "SD",
+                "uuid": "05757558-b6a1-58e3-ae87-ad4b7ee239a3"
+              },
+              {
+                "name": "Saint Helena",
+                "code": "SH",
+                "uuid": "04d1e871-45c8-5059-8b20-90e4d618f28e"
+              },
+              {
+                "name": "Sierra Leone",
+                "code": "SL",
+                "uuid": "5d8f4675-29fc-58f0-a55c-b52b6598ca0d"
+              },
+              {
+                "name": "Senegal",
+                "code": "SN",
+                "uuid": "e596da32-2185-586d-ba0e-b170c3014799",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Dakar",
+                      "uuid": "ab55074e-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Somalia",
+                "code": "SO",
+                "uuid": "75871d59-20bf-5ad3-b25d-28037f166221"
+              },
+              {
+                "name": "South Sudan",
+                "code": "SS",
+                "uuid": "836f6f0e-c47a-51e6-911f-b8fc6a177757"
+              },
+              {
+                "name": "Sao Tome and Principe",
+                "code": "ST",
+                "uuid": "86693ce8-ed6d-550c-91c8-bc1331d7ca35"
+              },
+              {
+                "name": "Swaziland",
+                "code": "SZ",
+                "uuid": "07532774-c777-5507-9054-844a46102d86"
+              },
+              {
+                "name": "Chad",
+                "code": "TD",
+                "uuid": "2191cb2f-4810-5d86-b51d-eb7806d1b301"
+              },
+              {
+                "name": "Togo",
+                "code": "TG",
+                "uuid": "17d3f245-f2f7-5d41-9462-e3ba4a167142"
+              },
+              {
+                "name": "Tunisia",
+                "code": "TN",
+                "uuid": "c7792c79-a882-5ed5-9cfe-8fba16601cfe"
+              },
+              {
+                "name": "Tanzania",
+                "code": "TZ",
+                "uuid": "43b3df32-5a77-52f1-bafc-1feda8aa1974",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Arusha",
+                      "uuid": "ab339816-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Zanzibar",
+                      "uuid": "ab8ffb00-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Kilimanjaro Region",
+                      "uuid": "fff7c402-61d6-5cb8-b7a4-4025389692f1"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Uganda",
+                "code": "UG",
+                "uuid": "71ad5c77-226d-541b-b492-7ae5c6b838f9",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Kampala District",
+                      "uuid": "c6cca82d-254c-5f3e-9a69-739405bc9b7d"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Mayotte",
+                "code": "YT",
+                "uuid": "4d7fc4c3-b72b-56a1-8e20-2006fd289e68"
+              },
+              {
+                "name": "South Africa",
+                "code": "ZA",
+                "uuid": "a198affe-772a-5afc-836e-9a5cdc026b16",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Gauteng",
+                      "uuid": "ab58db23-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Mpumalanga",
+                      "uuid": "ab70e66c-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Western Cape",
+                      "uuid": "ab8acd52-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Zambia",
+                "code": "ZM",
+                "uuid": "d027a03e-6980-5a95-8ff3-1a9de56b4b29"
+              },
+              {
+                "name": "Zimbabwe",
+                "code": "ZW",
+                "uuid": "2c3a55ef-fa18-5bd1-aa89-241cd65bac7b"
+              }
+            ]
+          }
+        },
+        {
+          "continent": "Antarctica",
+          "code": "AN",
+          "uuid": "cf1d79c8-389d-5314-acab-76bac1391550",
+          "countries": {
+            "data": [
+              {
+                "name": "Antarctica",
+                "code": "AQ",
+                "uuid": "9212069d-f8f6-54b5-b25e-d218839dbb55"
+              },
+              {
+                "name": "Bouvet Island",
+                "code": "BV",
+                "uuid": "a7253bb5-6fd6-5f85-bd5b-4f1760f29238"
+              },
+              {
+                "name": "South Georgia and the South Sandwich Islands",
+                "code": "GS",
+                "uuid": "8ddb2d6d-a5a4-5239-8097-2d96edab030b"
+              },
+              {
+                "name": "Heard Island and McDonald Islands",
+                "code": "HM",
+                "uuid": "4e6cf93b-3eec-555a-83d4-2d19965cbee7"
+              },
+              {
+                "name": "French Southern Territories",
+                "code": "TF",
+                "uuid": "6eeba0a8-6936-59a1-a951-7089917c1ca0"
+              }
+            ]
+          }
+        },
+        {
+          "continent": "Asia",
+          "code": "AS",
+          "uuid": "20bfe039-602d-57d6-a06c-3fccfb916291",
+          "countries": {
+            "data": [
+              {
+                "name": "United Arab Emirates",
+                "code": "AE",
+                "uuid": "5a44ae49-3c11-5e57-b25d-276f098fc6f8",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Abu Dhabi",
+                      "uuid": "ab31f51a-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Abu Dhabi",
+                            "uuid": "8a7adf4a-91c1-5db4-b6fc-f8889e6b9542"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Dubai",
+                      "uuid": "ab560d69-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Dubai",
+                            "uuid": "06fff713-dc14-5417-999e-69cda6ca186b"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Fujairah",
+                      "uuid": "ab586ce2-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Sharjah",
+                      "uuid": "ab81e8b2-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Ras Al Khaimah",
+                      "uuid": "6497737f-d53b-56ce-9283-209b41ec936c"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Afghanistan",
+                "code": "AF",
+                "uuid": "8adc30bb-3e2c-510d-bcae-5eab32c25b62"
+              },
+              {
+                "name": "Armenia",
+                "code": "AM",
+                "uuid": "dbabb16b-d5e1-5a8d-9321-6d0880f4518a",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Yerevan",
+                      "uuid": "ab8ed64a-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Asia/Pacific Region",
+                "code": "AP",
+                "uuid": "e3fe8615-96d0-5bd2-a4a0-92ebd5ad4a0c"
+              },
+              {
+                "name": "Azerbaijan",
+                "code": "AZ",
+                "uuid": "bf7f9e4a-dbe6-5f40-963a-b199c8348304",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Baku",
+                      "uuid": "dec3d4b7-1251-504f-9228-145d3823615b"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Bangladesh",
+                "code": "BD",
+                "uuid": "feafe192-3156-5b23-9189-9aefbd76e2c2",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Dhaka District",
+                      "uuid": "28cd3096-5a0e-5ed6-8175-1b3096974db5"
+                    },
+                    {
+                      "name": "Bogra District",
+                      "uuid": "63e5b21b-7184-5b39-87e0-20e67a481943"
+                    },
+                    {
+                      "name": "Naogaon District",
+                      "uuid": "c7cd6f97-dad2-5d58-8469-c8bd46c613bd"
+                    },
+                    {
+                      "name": "Bandarban District",
+                      "uuid": "1ee84d50-a908-5338-b3b6-04c7ce9f455f"
+                    },
+                    {
+                      "name": "Chittagong District",
+                      "uuid": "5f090229-60e0-5b0b-bc5f-ffe9a947c1b7"
+                    },
+                    {
+                      "name": "Khulna District",
+                      "uuid": "f4e3cfc1-0606-5e1a-b220-d7a1612000c1"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Bahrain",
+                "code": "BH",
+                "uuid": "305f3155-8a55-59a8-8b86-88368a47674d"
+              },
+              {
+                "name": "Brunei",
+                "code": "BN",
+                "uuid": "369797d2-e1bc-589c-9849-97d10533462f",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Brunei-Muara",
+                      "uuid": "ab4641ec-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Bhutan",
+                "code": "BT",
+                "uuid": "e1c1d763-92b0-5d0f-a076-8e92bd2db8b6",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Chukha",
+                      "uuid": "ab502e2c-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Paro",
+                      "uuid": "ab74a999-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Thimphu",
+                      "uuid": "ab86c28c-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Cocos (Keeling) Islands",
+                "code": "CC",
+                "uuid": "842fd232-9c51-57d4-af6f-e6ecfe846c9c"
+              },
+              {
+                "name": "China",
+                "code": "CN",
+                "uuid": "84a724de-f637-5191-9273-89a57bf423e1",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Anhui",
+                      "uuid": "ab3320e4-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Beijing",
+                      "uuid": "ab41771f-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Chongqing",
+                      "uuid": "ab531552-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Fujian",
+                      "uuid": "ab586dbc-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Gansu",
+                      "uuid": "ab58ae51-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Guangdong",
+                      "uuid": "ab592613-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Guangxi",
+                      "uuid": "ab59aba7-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Guizhou",
+                      "uuid": "ab5a6aa0-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Hainan",
+                      "uuid": "ab5b52e9-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Hebei",
+                      "uuid": "ab5f9242-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Heilongjiang",
+                      "uuid": "ab5f9342-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Henan",
+                      "uuid": "ab5f9d55-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Hubei",
+                      "uuid": "ab6355aa-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Hunan",
+                      "uuid": "ab6402e6-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Inner Mongolia",
+                      "uuid": "ab645c06-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Jiangsu",
+                      "uuid": "ab659812-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Liaoning",
+                      "uuid": "ab6a8bee-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Ningxia",
+                      "uuid": "ab72b564-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Shaanxi",
+                      "uuid": "ab7f21c9-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Shandong",
+                      "uuid": "ab7fef43-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Shanghai",
+                      "uuid": "ab8012ad-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Shanxi",
+                      "uuid": "ab81de4e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Sichuan",
+                      "uuid": "ab8204b6-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Suzhou",
+                      "uuid": "ab859af7-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Tianjin",
+                      "uuid": "ab86d3f0-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Tibet",
+                      "uuid": "ab86d53e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Xinjiang",
+                      "uuid": "ab8c13e5-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Yunnan",
+                      "uuid": "ab8f9b50-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Zhejiang",
+                      "uuid": "ab900d6d-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Jiangxi",
+                      "uuid": "0782fa86-96eb-5e18-a30b-b880afbe6503"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Christmas Island",
+                "code": "CX",
+                "uuid": "b895c01c-9ddb-558e-882f-8cb486bb3dd2"
+              },
+              {
+                "name": "Cyprus",
+                "code": "CY",
+                "uuid": "685417cc-d5a4-5fb7-a0a4-ccca5cd5be8d",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Paphos District",
+                      "uuid": "dab8ba0c-0cd7-5f07-9cff-733bc95f570b"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Georgia",
+                "code": "GE",
+                "uuid": "91847174-99a1-50e7-aa90-a7234f517cc5",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Georgia",
+                      "uuid": "ab58e643-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Tbilisi",
+                      "uuid": "ab867b84-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Hong Kong",
+                "code": "HK",
+                "uuid": "e4e5cc6e-4f03-50e3-8227-73e998fdbd52",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Hong Kong Island",
+                      "uuid": "ab62f721-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Hong Kong",
+                            "uuid": "75854107-014c-5622-a459-17f5ebf49b69"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Kowloon",
+                      "uuid": "ab682db2-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "New Territories",
+                      "uuid": "ab7225d3-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Kowloon City District",
+                      "uuid": "de69d545-1217-56ea-b4d0-34b4019fd6dc"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Indonesia",
+                "code": "ID",
+                "uuid": "6d00a09f-f616-5c08-9007-edd20bfd11cc",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Bali",
+                      "uuid": "ab348622-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Bali",
+                            "uuid": "ccb6876e-0686-5db9-aa73-a3104a3d27a3"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Batam",
+                      "uuid": "ab416a20-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Central Borneo",
+                      "uuid": "ab49d8e0-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Central Java",
+                      "uuid": "ab49f6ae-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "East Java",
+                      "uuid": "ab568cca-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "East Kalimantan",
+                      "uuid": "ab56f371-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "East Nusa Tenggara",
+                      "uuid": "ab56f548-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Jakarta",
+                      "uuid": "ab64ed13-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Jawa Timur",
+                      "uuid": "ab65783a-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Kalimantan",
+                      "uuid": "ab66058e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Kepulauan Riau",
+                      "uuid": "ab673b45-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Komodo",
+                      "uuid": "ab682ce1-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Lombok",
+                      "uuid": "ab6acda6-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "North Sulawesi",
+                      "uuid": "ab735a05-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "North Sumatra",
+                      "uuid": "ab735abd-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Nusa Tenggara Barat",
+                      "uuid": "ab739804-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Papua",
+                      "uuid": "ab749f9b-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "South Borneo",
+                      "uuid": "ab84ad8d-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "South East Sulawesi",
+                      "uuid": "ab84aef4-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "South Sulawesi",
+                      "uuid": "ab84fff5-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Special Region of Yogyakarta",
+                      "uuid": "ab852d90-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Sulawesi",
+                      "uuid": "ab854b62-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "West Java",
+                      "uuid": "ab898f1f-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "West Nusa Tenggara",
+                      "uuid": "ab8a2dc9-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "West Papua",
+                      "uuid": "ab8a9e77-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "West Sumatera",
+                      "uuid": "ab8aa90e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Yogyakarta",
+                      "uuid": "ab8f1e93-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "South Kalimantan",
+                      "uuid": "cfe26be1-72ef-5230-a8ab-4d4672af178b"
+                    },
+                    {
+                      "name": "Riau",
+                      "uuid": "8eb5c251-f322-520e-97b6-c7ee5f2fb390"
+                    },
+                    {
+                      "name": "Bangka-Belitung",
+                      "uuid": "40879fdf-918c-5025-9c9b-765a2f311cfd"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Israel",
+                "code": "IL",
+                "uuid": "ec1b03c2-3c9b-5774-bb22-92f1ab76e2be",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Tel Aviv District",
+                      "uuid": "ab868f3f-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Southern District",
+                      "uuid": "4cf6e1bf-bd50-51a2-ae59-26ea581ce110"
+                    },
+                    {
+                      "name": "Jerusalem District",
+                      "uuid": "b2940f6d-4156-5252-9736-e4cb2afc31ae"
+                    },
+                    {
+                      "name": "Northern District",
+                      "uuid": "8d37c2f6-cd25-59a9-833d-c1bb88eec072"
+                    },
+                    {
+                      "name": "Haifa District",
+                      "uuid": "e252ec64-3f8e-5faf-b45d-1d19e1d07832"
+                    },
+                    {
+                      "name": "Central District",
+                      "uuid": "d37714e1-6700-506b-ac03-7fb603875334"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "India",
+                "code": "IN",
+                "uuid": "54772c03-270c-5b4a-8c50-c3b1a35164b4",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Delhi",
+                      "uuid": "ab555c0d-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Goa",
+                      "uuid": "ab58e761-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Himachal Pradesh",
+                      "uuid": "ab5fc6d4-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Jammu and Kashmir",
+                      "uuid": "ab656314-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Karnataka",
+                      "uuid": "ab668e85-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Kerala",
+                      "uuid": "ab674e84-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Madhya Pradesh",
+                      "uuid": "ab6bac7f-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Maharashtra",
+                      "uuid": "ab6bc988-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "New Delhi",
+                      "uuid": "ab71c3e6-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Odisha",
+                      "uuid": "ab73b46e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Punjab",
+                      "uuid": "ab78a7ed-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Rajasthan",
+                      "uuid": "ab7aca09-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Sikkim",
+                      "uuid": "ab83b56d-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Tamil Nadu",
+                      "uuid": "ab85f032-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Uttar Pradesh",
+                      "uuid": "ab885e6a-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Uttarakhand",
+                      "uuid": "ab8867fd-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "West Bengal",
+                      "uuid": "ab89791e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Andra Pradesh",
+                      "uuid": "7ecfc7cc-b092-5d61-ba16-860717d60e86"
+                    },
+                    {
+                      "name": "Gujarat",
+                      "uuid": "308c46c3-630d-5ba1-908a-6cad479620ab"
+                    },
+                    {
+                      "name": "Assam",
+                      "uuid": "cead4bdf-03b7-5c79-b10a-67458fcd4921"
+                    },
+                    {
+                      "name": "Nagaland",
+                      "uuid": "7069d583-1f50-5a02-86d6-29dfa0ee88f0"
+                    },
+                    {
+                      "name": "Puducherry",
+                      "uuid": null
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "British Indian Ocean Territory",
+                "code": "IO",
+                "uuid": "34098542-ce16-5e59-a7c2-1c5dff670c40"
+              },
+              {
+                "name": "Iraq",
+                "code": "IQ",
+                "uuid": "2a7412d2-1c4b-5b3c-8bc7-dd002a4d9f81"
+              },
+              {
+                "name": "Iran",
+                "code": "IR",
+                "uuid": "973b66cc-530f-5913-9775-c9592eebeecf",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Tehran",
+                      "uuid": "ab867c5a-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Jordan",
+                "code": "JO",
+                "uuid": "1b662b64-b358-5e4a-9a83-a477d3369350",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Ma'an Governorate",
+                      "uuid": "5881d511-24bc-5d2c-ab9f-655bfa5a4cb4"
+                    },
+                    {
+                      "name": "Aqaba Governorate",
+                      "uuid": "38bfcf16-b598-5460-9bd6-e001f644b9a0"
+                    },
+                    {
+                      "name": "Amman Governorate",
+                      "uuid": "0b5723b6-4ac2-5d57-9a12-9a37ea9129d1"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Japan",
+                "code": "JP",
+                "uuid": "9f427701-b500-53d5-86b3-b5898db0d40f",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Aichi",
+                      "uuid": "ab3256be-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Hokkaido",
+                      "uuid": "ab62a5ad-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Hyogo",
+                      "uuid": "ab640d60-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Iwate",
+                      "uuid": "ab64d771-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Kanagawa",
+                      "uuid": "ab6616dd-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Kyoto",
+                      "uuid": "ab691af6-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Mie",
+                      "uuid": "ab6fb2e9-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Nara",
+                      "uuid": "ab718d71-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Okayama",
+                      "uuid": "ab73b504-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Okinawa",
+                      "uuid": "ab73be45-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Osaka",
+                      "uuid": "ab73f536-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Saitama",
+                      "uuid": "ab7ca3e6-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Shizuoka",
+                      "uuid": "ab81f22b-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Tochigi",
+                      "uuid": "ab87078f-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Tokyo",
+                      "uuid": "ab8710ba-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Tokyo",
+                            "uuid": "b0444f29-59ec-5f56-ae8e-8000355d7ff2"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Fukuoka",
+                      "uuid": "1793bf1d-fa7a-5904-aecf-6979a07d94ca"
+                    },
+                    {
+                      "name": "Kumamoto",
+                      "uuid": "e1405cc3-4e29-5506-80f3-a97325319978"
+                    },
+                    {
+                      "name": "Oita",
+                      "uuid": "f730673a-93d1-5205-9e89-aebf9659a92c"
+                    },
+                    {
+                      "name": "Nagasaki",
+                      "uuid": "abbb24e7-14be-5fe5-abe6-1663215ff4cc"
+                    },
+                    {
+                      "name": "Nagano",
+                      "uuid": "58b22b4a-c819-5f4e-a958-bf695c5983f0"
+                    },
+                    {
+                      "name": "Hiroshima",
+                      "uuid": "65329b3d-1089-5716-a8bf-721350768db5"
+                    },
+                    {
+                      "name": "Gifu",
+                      "uuid": "7a5fac1d-6f29-5c3a-8dc9-61d3bc665329"
+                    },
+                    {
+                      "name": "Ishikawa",
+                      "uuid": "b76a776a-b3e2-51d9-8cbd-42ccd14c847d"
+                    },
+                    {
+                      "name": "Chiba",
+                      "uuid": "2f07507e-e137-5d0e-8ef6-a17cf176ce6c"
+                    },
+                    {
+                      "name": "Tokushima",
+                      "uuid": "f728f7f0-ce4c-5f82-bd3e-63e06e6903c2"
+                    },
+                    {
+                      "name": "Shiga",
+                      "uuid": "fcb0be16-2647-5508-a4a0-ec6feebb2143"
+                    },
+                    {
+                      "name": "Saga",
+                      "uuid": "188da95d-a821-58a8-9427-9bc58053ca77"
+                    },
+                    {
+                      "name": "Ibaraki",
+                      "uuid": "4f5d1a71-d051-508a-8776-072b19f7f337"
+                    },
+                    {
+                      "name": "Akita",
+                      "uuid": "68ec5c6f-4f3e-5a27-8884-0aa853746662"
+                    },
+                    {
+                      "name": "Fukui",
+                      "uuid": "89dc4c8d-f459-54f5-b67e-b932ac27e0b8"
+                    },
+                    {
+                      "name": "Yamanashi",
+                      "uuid": "ace51827-e864-5544-aa42-aee263d05b4a"
+                    },
+                    {
+                      "name": "Toyama",
+                      "uuid": "cfe4426f-19dc-5d91-8d65-1e7b2cabd0a6"
+                    },
+                    {
+                      "name": "Tohoku",
+                      "uuid": null
+                    },
+                    {
+                      "name": "Kagoshima",
+                      "uuid": null
+                    },
+                    {
+                      "name": "Kanto",
+                      "uuid": null
+                    },
+                    {
+                      "name": "Kansai",
+                      "uuid": null
+                    },
+                    {
+                      "name": "Honshu",
+                      "uuid": null
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Kyrgyzstan",
+                "code": "KG",
+                "uuid": "e0dc6290-e721-584b-a7cc-885bd8705ab7",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Chuy Province",
+                      "uuid": "2fbf8b4b-6b7d-5bf4-8a40-e2063679e8d3"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Cambodia",
+                "code": "KH",
+                "uuid": "fa6ea6f7-ce22-5c36-9774-8e31f0a7f84c",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Kampong Cham",
+                      "uuid": "ab660657-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Kampong Speu​",
+                      "uuid": "ab66103f-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Phnom Penh",
+                      "uuid": "ab763022-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Sihanoukville",
+                      "uuid": "ab789e11-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Siem Reap",
+                      "uuid": "ab8244a9-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Battambang",
+                      "uuid": "a82f9e5e-da92-5b3f-abf3-0c61750f67ff"
+                    },
+                    {
+                      "name": "Mondulkiri",
+                      "uuid": "49ce7cea-5247-53e0-bbc8-88175cffae85"
+                    },
+                    {
+                      "name": "Kampot",
+                      "uuid": "cd879274-77fe-51cf-aa3a-ef731a798332"
+                    },
+                    {
+                      "name": "Ratanakiri",
+                      "uuid": "853b44ed-6385-55b3-bbf6-599a49c1e021"
+                    },
+                    {
+                      "name": "Takeo",
+                      "uuid": "006f7828-e0ea-5701-8060-0dd147892061"
+                    },
+                    {
+                      "name": "Kratie",
+                      "uuid": "f966dba8-778f-5ede-aaef-5ae4e3b9ade2"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "North Korea",
+                "code": "KP",
+                "uuid": "b5f360c8-f5ed-5936-9fd3-688ea28abb1e",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Pyongyang",
+                      "uuid": "ab78dee2-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "South Korea",
+                "code": "KR",
+                "uuid": "0e8b8015-f33c-5b33-8c8f-c36d73240c0e",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Chungcheongbuk",
+                      "uuid": "ab5332e8-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Seoul",
+                      "uuid": "ab5a884b-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Seoul",
+                            "uuid": "37868358-29d9-5a41-8832-65c4439e901a"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Gyeongsangbuk",
+                      "uuid": "ab5a9289-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Incheon",
+                      "uuid": "ab645b30-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Jeju",
+                      "uuid": "ab65796a-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Jeju-do",
+                      "uuid": "ab658e54-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Ulsan",
+                      "uuid": "ab885db3-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Gyeonggi",
+                      "uuid": "9629a590-3b49-54e0-a87c-548aa2d4778c"
+                    },
+                    {
+                      "name": "Gangwon-do",
+                      "uuid": "1d7ade72-9d98-58b3-b30f-067fe07a2b3a"
+                    },
+                    {
+                      "name": "Busan",
+                      "uuid": "058c14e7-ec3d-5801-a768-23f267ffe84f"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Kuwait",
+                "code": "KW",
+                "uuid": "b95b0593-a62d-5065-8e36-38ec32e85c04"
+              },
+              {
+                "name": "Kazakhstan",
+                "code": "KZ",
+                "uuid": "f3f67354-4fc2-5cc9-a621-698b96a21c16",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Akmola Province",
+                      "uuid": "ab32a16a-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Almaty Province",
+                      "uuid": "ab32f1a2-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Jambyl Province",
+                      "uuid": "ab6558e4-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "South Kazakhstan",
+                      "uuid": "ab84c9ef-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Laos",
+                "code": "LA",
+                "uuid": "36ace8ed-1b7f-587b-a226-5e3fa329e500",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Champasak",
+                      "uuid": "ab501128-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Khammouane",
+                      "uuid": "ab67dcb1-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Luang Prabang",
+                      "uuid": "ab6b2ffa-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Luang Namtha",
+                      "uuid": "ab6b7581-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Oudomxay",
+                      "uuid": "ab746693-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Vientiane",
+                      "uuid": "ab88e74d-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Vientiane",
+                      "uuid": "ab891765-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Xiangkhouang",
+                      "uuid": "ab8c0a1a-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Phonsavan",
+                      "uuid": "eb87cda6-588f-5536-8d08-6c40b86829e7"
+                    },
+                    {
+                      "name": "Paksang",
+                      "uuid": "09f01bed-faf0-5f1a-81f4-c0e47cae1aae"
+                    },
+                    {
+                      "name": "Phongsali",
+                      "uuid": "44d760f3-9d61-5f42-b746-897dfafffe80"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Lebanon",
+                "code": "LB",
+                "uuid": "7b8bc394-390d-5eeb-a896-2aa1d9b02480"
+              },
+              {
+                "name": "Sri Lanka",
+                "code": "LK",
+                "uuid": "5a039250-7628-5b00-8dc1-febbd95cbda7",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Central Province",
+                      "uuid": "ab4acfee-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Eastern Province",
+                      "uuid": "ab570017-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Sabaragamuwa Province",
+                      "uuid": "ab7c6a99-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Southern Province",
+                      "uuid": "ab850907-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Western Province",
+                      "uuid": "ab8ad682-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Northern Province",
+                      "uuid": "c36ea8bf-243d-58b5-9429-fe7bea5e38b8"
+                    },
+                    {
+                      "name": "North Central Province",
+                      "uuid": "12ebfb80-63df-51b9-a7dd-c9d488a59a4d"
+                    },
+                    {
+                      "name": "North Western Province",
+                      "uuid": "68d64563-90d4-56e9-8ee7-35e7d563ae8d"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Myanmar",
+                "code": "MM",
+                "uuid": "4dc1cbfd-d99d-5a8c-b1b4-ffea4dae0361",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Ayeyarwady",
+                      "uuid": "ab33eb83-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Bago",
+                      "uuid": "ab3418aa-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Chin",
+                      "uuid": "ab52dd24-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Kayin",
+                      "uuid": "ab66ebab-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Magway",
+                      "uuid": "ab6bc8bf-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Mandalay",
+                      "uuid": "ab6c6b74-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Mon",
+                      "uuid": "ab70ae20-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Naypyidaw",
+                      "uuid": "ab718ee9-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Rakhine",
+                      "uuid": "ab7b2780-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Sagaing",
+                      "uuid": "ab7c9982-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Shan",
+                      "uuid": "ab7fa090-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Tanintharyi",
+                      "uuid": "ab864690-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Yangon",
+                      "uuid": "ab8cdbbd-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Mongolia",
+                "code": "MN",
+                "uuid": "58a9daca-3483-5a00-a7af-1348f4f968a5",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Ulaanbaatar",
+                      "uuid": "ab883932-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Macau",
+                "code": "MO",
+                "uuid": "e387b87a-cbed-56ac-ba03-13d1ec9d89b2",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Macau",
+                      "uuid": "d6f204e1-6cbd-5751-9ba0-9ac8fc381abe",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Macau",
+                            "uuid": "13bbfb66-d9cd-501a-9f0a-bb0f670ea2bb"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Maldives",
+                "code": "MV",
+                "uuid": "6fdf6595-c922-5468-8f47-1cc12e8941a7",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Male",
+                      "uuid": "ab6c366f-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "North Central Province",
+                      "uuid": "ab7346ed-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "South Central Province",
+                      "uuid": "ab84ae4d-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Faafu Atoll",
+                      "uuid": "a9168b74-07d2-55eb-9290-68db96d33e7e"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Malaysia",
+                "code": "MY",
+                "uuid": "57d665cd-1c86-59bf-a99a-19b10a5ae1ea",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Kuala Lumpur",
+                      "uuid": "ab574343-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Kuala Lumpur",
+                            "uuid": "93039b61-5798-5ff8-93f1-4af5ff22239c"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Putrajaya",
+                      "uuid": "ab583c74-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Johor",
+                      "uuid": "ab65dc4f-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Johor Bahru",
+                            "uuid": "91cb33dc-7dc6-5115-9cf4-e37126d915b4"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Kedah",
+                      "uuid": "ab66f593-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Kelantan",
+                      "uuid": "ab673a2b-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Melaka",
+                      "uuid": "ab6e380d-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Pahang",
+                      "uuid": "ab74674b-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Genting Highland",
+                            "uuid": "3c80670a-176e-50b4-9733-d2d5b23b770e"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Penang",
+                      "uuid": "ab751d10-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Georgetown",
+                            "uuid": "ab15d43c-27f9-5fbb-8308-2f8546fcdd5b"
+                          },
+                          {
+                            "name": "Penang",
+                            "uuid": "01068ead-0734-58f4-87d3-905b1fc814cc"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Perak",
+                      "uuid": "ab75b46a-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Ipoh",
+                            "uuid": "936c0577-6eb1-56e8-baef-06b76aff9c04"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Sabah",
+                      "uuid": "ab7bee36-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Sarawak",
+                      "uuid": "ab7d245c-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Selangor",
+                      "uuid": "ab7d7ed2-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Petaling Jaya",
+                            "uuid": "a2cd6eb3-c971-51e2-8060-5426b6b14964"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Terengganu",
+                      "uuid": "ab869909-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Negeri Sembilan",
+                      "uuid": "2929a615-6d18-5dc3-b20f-7b82e202297e"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Nepal",
+                "code": "NP",
+                "uuid": "16de3b75-6073-514e-a9a8-665db9f42bcf",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Central Region",
+                      "uuid": "ab4ada39-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Western Region",
+                      "uuid": "ab8b6161-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Oman",
+                "code": "OM",
+                "uuid": "14a1e388-2d7b-5436-ab08-2ce2e3a6403c",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Musandam Governorate",
+                      "uuid": "ab710173-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Muscat",
+                      "uuid": "68881811-54ba-5fe0-a204-13b8e34a1e39"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Philippines",
+                "code": "PH",
+                "uuid": "384fb0e9-afaa-58fb-b963-e6d1e9577127",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Metro Manila",
+                      "uuid": "ab34746d-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Bicol",
+                      "uuid": "ab457c80-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Cagayan Valley",
+                      "uuid": "ab471e3b-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Calabarzon",
+                      "uuid": "ab47d024-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Central Luzon",
+                      "uuid": "ab4a266c-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Central Visayas",
+                      "uuid": "ab4d5188-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Cordillera Administrative Region",
+                      "uuid": "ab533c32-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Davao Region",
+                      "uuid": "ab55084f-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Eastern Visayas",
+                      "uuid": "ab570a43-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Ilocos Region",
+                      "uuid": "ab643484-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "MIMAROPA",
+                      "uuid": "ab6fbc62-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Palawan",
+                            "uuid": "9ca10509-4425-59cb-84aa-51d6646675c3"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Northern Mindanao",
+                      "uuid": "ab737515-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Region XII",
+                      "uuid": "ab7b8129-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Siargao",
+                      "uuid": "ab81fb75-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Western Visayas",
+                      "uuid": "ab8b7dea-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Boracay",
+                            "uuid": "c5be0c70-4d7f-5ecd-8d10-e536138f6cd7"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Cavite",
+                      "uuid": "e72255c8-86f2-517c-bb56-012ffa4b1250"
+                    },
+                    {
+                      "name": "Ilocos Norte",
+                      "uuid": "6ee2e86a-cdb3-57a4-8f0a-6a4f885daae3"
+                    },
+                    {
+                      "name": "Ilocos Sur",
+                      "uuid": "7371aee5-66a7-5d0d-856a-8aba1ff7cb41"
+                    },
+                    {
+                      "name": "Pangasinan",
+                      "uuid": "cbfb44e3-0f9c-5e9b-ad04-07f4b6e91502"
+                    },
+                    {
+                      "name": "La Union",
+                      "uuid": "cbc579f3-3328-5b4a-8b35-8c307b1611cf"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Pakistan",
+                "code": "PK",
+                "uuid": "cd02d605-87d1-50f5-9bb8-804dd3aed6fc"
+              },
+              {
+                "name": "Palestinian Territory",
+                "code": "PS",
+                "uuid": "008c01b4-fa3a-5a75-85bb-431d3c463c38"
+              },
+              {
+                "name": "Qatar",
+                "code": "QA",
+                "uuid": "6fa9c9e6-db11-5c6d-a36f-83dc06b771a9",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Qatar",
+                      "uuid": "9cc91dc8-8d20-5cdd-ab47-d86b802ef6fe"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Saudi Arabia",
+                "code": "SA",
+                "uuid": "ed0b66c2-c4e5-5641-88d9-31d4ede9d614"
+              },
+              {
+                "name": "Singapore",
+                "code": "SG",
+                "uuid": "885e90a3-a83d-56d3-b5e8-040b4017c825",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Riau Islands",
+                      "uuid": "ab7b8d6c-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Sentosa",
+                      "uuid": "ab7d9ac9-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Sentosa",
+                            "uuid": "29ad1bd7-2000-5321-aff8-f71a6464142b"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Singapore",
+                      "uuid": "ab83bf00-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Singapore",
+                            "uuid": "ed424d44-267d-5c40-bb03-67bc5f0882c3"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Syria",
+                "code": "SY",
+                "uuid": "98d1d27a-f632-55fa-816b-2fd1fa1cf544"
+              },
+              {
+                "name": "Thailand",
+                "code": "TH",
+                "uuid": "aafb3806-298a-5ec0-92de-535fe5adffc4",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Buri Ram",
+                      "uuid": "ab471256-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Chiang Mai",
+                      "uuid": "ab5037ee-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Chiang Mai",
+                            "uuid": "d8ff0d24-e40d-5b1a-8c6d-175a01326e7e"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Chiang Rai",
+                      "uuid": "ab528f3b-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Chonburi",
+                      "uuid": "ab52e70c-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Pattaya",
+                            "uuid": "428b7677-9c37-5e86-894a-1bb3a16b6cd2"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Hua Hin",
+                      "uuid": "ab632642-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Kanchanaburi",
+                      "uuid": "ab666137-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Khao Yai",
+                      "uuid": "ab67f0db-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Koh Chang",
+                      "uuid": "ab6805e8-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Koh Pha-ngan",
+                      "uuid": "ab681076-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Koh Samui",
+                      "uuid": "ab68116a-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Koh Samui",
+                            "uuid": "5e0ea632-99b9-58d2-947e-1a88fd74c0ca"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Koh Tarutao",
+                      "uuid": "ab68226c-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Krabi",
+                      "uuid": "ab686c3e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Lamphun",
+                      "uuid": "ab69c0bf-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Mae Sa",
+                      "uuid": "ab6bbe97-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Nakhon Pathom",
+                      "uuid": "ab711d51-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Bangkok",
+                            "uuid": "13a674ac-14be-5a55-98b2-1bd09f78edfa"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Nakhon Ratchasima",
+                      "uuid": "ab717086-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Phang-nga",
+                      "uuid": "ab75c757-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Phra Nakhon Si Ayutthaya",
+                      "uuid": "ab774df5-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Phrae",
+                      "uuid": "ab775f73-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Phuket",
+                      "uuid": "ab778359-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Phuket",
+                            "uuid": "a0934383-c218-55b6-b205-2287a2f7247a"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Ratchaburi",
+                      "uuid": "ab7b7615-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Surat Thani",
+                      "uuid": "ab857f78-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Satun",
+                      "uuid": "62e79d92-5f2f-5d17-8f86-514be697321f"
+                    },
+                    {
+                      "name": "Lampang",
+                      "uuid": "6f981e1b-cc7a-5349-ae2e-1e076f6dbc76"
+                    },
+                    {
+                      "name": "Ranong",
+                      "uuid": "607fac50-6aa7-5e31-927c-475c5fab43bb"
+                    },
+                    {
+                      "name": "Phetchaburi",
+                      "uuid": "6f12b546-adcd-5d8d-bf57-9dae0973458c"
+                    },
+                    {
+                      "name": "Trang",
+                      "uuid": "c5d96476-d68f-50c6-b668-1f6dec7f0a83"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Tajikistan",
+                "code": "TJ",
+                "uuid": "0d47399f-ba40-5b08-996a-2ee4d29d1e4e"
+              },
+              {
+                "name": "Timor-Leste",
+                "code": "TL",
+                "uuid": "a2326185-4ae6-5853-a806-a0aeb30a5dfc",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Dili",
+                      "uuid": "276646f0-9eab-5117-85ad-643d8136cfdb"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Turkmenistan",
+                "code": "TM",
+                "uuid": "d5a13360-d8e6-5e22-bdc8-85b2236a27d1"
+              },
+              {
+                "name": "Turkey",
+                "code": "TR",
+                "uuid": "f44ee749-a012-5dc5-b748-cfebd0783f54",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Aydın",
+                      "uuid": "ab33ea31-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Cappadocia",
+                      "uuid": "ab49560b-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Denizli Province",
+                      "uuid": "ab55dd55-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Istanbul Province",
+                      "uuid": "ab64926e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Izmir",
+                      "uuid": "ab64d842-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Kusadasi",
+                      "uuid": "ab68e1cc-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Mycale",
+                      "uuid": "ab710b8f-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Nevsehir",
+                      "uuid": "ab71c27f-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Canakkale Province",
+                      "uuid": "b1977ff7-7389-50ea-b26b-f51c3f70a821"
+                    },
+                    {
+                      "name": "Antalya Province",
+                      "uuid": "ec28d26b-b887-5b2a-b2e2-559ec4fda815"
+                    },
+                    {
+                      "name": "Mugla Province",
+                      "uuid": "11abe912-2afc-56e1-9a61-8aeae1ac4008"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Taiwan",
+                "code": "TW",
+                "uuid": "6fa30622-5672-5149-a6cf-5e5e41cebe1c",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Chiayi",
+                      "uuid": "ab52d28d-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Kaohsiung",
+                      "uuid": "ab6683a5-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Nantou",
+                      "uuid": "ab718cb9-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Pingtung",
+                      "uuid": "ab783895-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Taichung",
+                      "uuid": "ab85ade0-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Tainan",
+                      "uuid": "ab85aef2-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Taipei",
+                      "uuid": "ab85afd4-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Hualien",
+                      "uuid": "cfcc6076-0217-5a6f-8795-6e3b41c3bc29"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Uzbekistan",
+                "code": "UZ",
+                "uuid": "ec12e947-bd72-54bb-a7ff-2e95b50b2e28",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Ferghana Province",
+                      "uuid": "ab58466d-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Khorezm Province",
+                      "uuid": "ab67fac7-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Republic of Karakalpakstan",
+                      "uuid": "ab7b8250-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Samarkand Province",
+                      "uuid": "ab7cb556-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Tashkent Province",
+                      "uuid": "c9f559bc-7b3a-5ef9-8bf2-4ff8bc88ef0e"
+                    },
+                    {
+                      "name": "Bukhara Province",
+                      "uuid": "a56d021f-4987-5539-ba0f-d92fa9bd5039"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Vietnam",
+                "code": "VN",
+                "uuid": "93b0ec8f-d8ca-533b-85df-5c5ea918ee50",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Bac Can ",
+                      "uuid": "ab33ecaa-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Da Lat",
+                      "uuid": "ab53cf27-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Da Nang",
+                      "uuid": "ab542abf-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Dien Bien Phu",
+                      "uuid": "ab55f8ee-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Dong Nai",
+                      "uuid": "ab560ca0-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Ha Giang",
+                      "uuid": "ab5aa29b-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Hai Phong",
+                      "uuid": "ab5b4928-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Hanoi",
+                      "uuid": "ab5b6f18-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Ho Chi Minh City",
+                      "uuid": "ab602d8d-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Ho Chi Minh City",
+                            "uuid": "bcf8ba19-2391-575c-934c-bdbf67ed66cc"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Hoa Binh",
+                      "uuid": "ab62206f-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Hue",
+                      "uuid": "ab6372ab-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Lao Cai",
+                      "uuid": "ab69d2b4-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Mekong Delta",
+                      "uuid": "ab6de270-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "My Tho",
+                            "uuid": "35caa3b2-debf-5397-8a62-e53688702248"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Moc Chau",
+                      "uuid": "ab70ad28-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Mui Ne",
+                      "uuid": "ab70efcf-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "My Son",
+                      "uuid": "ab710abd-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Nam Dinh",
+                      "uuid": "ab718337-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Nha Trang",
+                      "uuid": "ab726646-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Nha Trang",
+                            "uuid": "0c4f3df2-5e02-54c1-997b-a932be084071"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Ninh Binh ",
+                      "uuid": "ab72bed8-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Quang Binh",
+                      "uuid": "ab793ebd-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Quang Nam ",
+                      "uuid": "ab7950ea-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Quang Ninh ",
+                      "uuid": "ab7a0242-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Tien Giang",
+                      "uuid": "ab86fd89-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Vung Tau",
+                      "uuid": "ab894361-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Con Dao",
+                      "uuid": "850e7fbb-4d01-5166-938e-457442229c17"
+                    },
+                    {
+                      "name": "Dak Lak",
+                      "uuid": "0851e776-9c7e-52a1-88da-168fbc8315c1"
+                    },
+                    {
+                      "name": "Tay Ninh",
+                      "uuid": "bebafce4-c181-53c6-bb15-aa52a11cc802"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Yemen",
+                "code": "YE",
+                "uuid": "6b5ee6d3-fbd2-5e33-953a-2faf7e00f043"
+              }
+            ]
+          }
+        },
+        {
+          "continent": "Europe",
+          "code": "EU",
+          "uuid": "feda195c-2bcc-5a9c-b372-6c6c50b6ad67",
+          "countries": {
+            "data": [
+              {
+                "name": "Andorra",
+                "code": "AD",
+                "uuid": "e485b080-5b29-5f47-8adf-42830c8b524a"
+              },
+              {
+                "name": "Albania",
+                "code": "AL",
+                "uuid": "cafb1fe1-76df-5e87-9403-b02263ea7c83",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Tirana",
+                      "uuid": "5976a696-0733-591c-a335-9cd876bc6425"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Austria",
+                "code": "AT",
+                "uuid": "27d418c8-e9da-5e64-87ea-9d54f5f1d8e8",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Austria",
+                      "uuid": "ab33db0e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Salzburg",
+                      "uuid": "f530c62d-b7ac-50d3-8c75-20afb74256ca"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Aland Islands",
+                "code": "AX",
+                "uuid": "ba2840e6-5e43-50e7-969b-fce18132cb79"
+              },
+              {
+                "name": "Bosnia and Herzegovina",
+                "code": "BA",
+                "uuid": "dc09322d-4b0f-5a2f-ac9c-fad06b0b9848"
+              },
+              {
+                "name": "Belgium",
+                "code": "BE",
+                "uuid": "43efe617-b18b-5263-a0fe-1f0e29363656",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Brussels",
+                      "uuid": "ab464a24-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Flanders",
+                      "uuid": "ab5850d1-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Bulgaria",
+                "code": "BG",
+                "uuid": "bba4d4a1-e77d-561c-aa82-78e8692ec908",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Smolyan",
+                      "uuid": "ab846f5b-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Sofia-city",
+                      "uuid": "ab84791d-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Varna",
+                      "uuid": "ab887bab-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Belarus",
+                "code": "BY",
+                "uuid": "b1ef13ad-e030-5792-b4cd-34bb8062991b"
+              },
+              {
+                "name": "Switzerland",
+                "code": "CH",
+                "uuid": "065993ff-5c94-5f33-928e-5390704cc7fb",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Canton of Zurich",
+                      "uuid": "ab493806-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Grisons",
+                      "uuid": "ab590548-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Lucerne",
+                      "uuid": "ab6ba231-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Berne",
+                      "uuid": "d72c7250-7caa-58af-b023-9dff54187345"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Czech Republic",
+                "code": "CZ",
+                "uuid": "47010bbd-0ad1-5961-b145-30f0c50ed0e5",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Hlavni mesto Praha",
+                      "uuid": "ab5ff5fd-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "South Moravian Region",
+                      "uuid": "4937f897-2cf0-51b8-9257-6610bf348921"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Germany",
+                "code": "DE",
+                "uuid": "071f8477-ae49-50e0-99ba-f10e85484fcb",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Berlin",
+                      "uuid": "ab454cb9-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Hesse",
+                      "uuid": "ab5faa36-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Rhineland-Palatinate",
+                      "uuid": "ab7b8388-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Brandenburg",
+                      "uuid": "e8cebbb6-3054-5c98-9860-d4ff34e8dabd"
+                    },
+                    {
+                      "name": "Bavaria",
+                      "uuid": "98fc08d8-d943-530c-8555-4236ab5199ca"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Denmark",
+                "code": "DK",
+                "uuid": "ab932481-6281-5742-8849-880f43e428c4",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Denmark",
+                      "uuid": "ab55e73d-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Estonia",
+                "code": "EE",
+                "uuid": "79429b90-d18f-526c-9c64-7a4267757eda",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Harju",
+                      "uuid": "f64a9a66-7899-5b49-ab39-5c7903980477"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Spain",
+                "code": "ES",
+                "uuid": "e2778ec0-820a-5029-8418-f3542d613c73",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Andalucia",
+                      "uuid": "ab32fc7e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Basque Country",
+                      "uuid": "ab413549-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Catalonia",
+                      "uuid": "ab496a3d-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Madrid",
+                      "uuid": "ab533b47-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Madrid",
+                            "uuid": "2652e74f-49d9-5a3f-9b46-31309a5cbf23"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Gran Canaria",
+                      "uuid": "cb1b8109-24a0-521d-82cc-7c6375cf5326"
+                    },
+                    {
+                      "name": "Balearic Islands",
+                      "uuid": "20c7731b-7ee7-5937-9856-75666876955e"
+                    },
+                    {
+                      "name": "Cantabria",
+                      "uuid": "51474c96-f74e-5ff6-a486-ebf48b25ff2f"
+                    },
+                    {
+                      "name": "Biscay",
+                      "uuid": "b5685f76-e97d-5091-9e0c-79ac909f4d13"
+                    },
+                    {
+                      "name": "Barcelona",
+                      "uuid": null
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Europe",
+                "code": "EU",
+                "uuid": "374ba481-5fd5-53ab-9d27-51778ec3cd42"
+              },
+              {
+                "name": "Finland",
+                "code": "FI",
+                "uuid": "ad157ee4-47d8-5098-9a4e-7c56778f9501",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Lapland",
+                      "uuid": "ab6a2bb5-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Uusimaa",
+                      "uuid": "ab88723a-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Faroe Islands",
+                "code": "FO",
+                "uuid": "0bc47f7e-d1c0-582d-b7c8-c93538348ded"
+              },
+              {
+                "name": "France",
+                "code": "FR",
+                "uuid": "3e712025-e7d6-5975-8f11-9d530520d1c1",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Aquitaine",
+                      "uuid": "ab336cde-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Île-de-France",
+                      "uuid": "ab640ead-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Midi-Pyrénées",
+                      "uuid": "ab6fb23e-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "United Kingdom",
+                "code": "GB",
+                "uuid": "52c49d3b-8202-5def-9888-e77d3ef8224d",
+                "states": {
+                  "data": [
+                    {
+                      "name": "England",
+                      "uuid": "ab5715ac-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Scotland",
+                      "uuid": "b95b7a33-700a-5ce2-92db-1f79ab9923f6"
+                    },
+                    {
+                      "name": "Wales",
+                      "uuid": "543360c3-0613-516c-a639-dd7561696d3a"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Guernsey",
+                "code": "GG",
+                "uuid": "3337a5a3-8594-5ee7-a1bd-a024568dda85"
+              },
+              {
+                "name": "Gibraltar",
+                "code": "GI",
+                "uuid": "d908c222-4b02-5777-b402-76d1720a46f8"
+              },
+              {
+                "name": "Greece",
+                "code": "GR",
+                "uuid": "7f4cd243-5bdf-5c45-a49b-07e2bd1903e6",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Attica",
+                      "uuid": "ab33a749-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Crete",
+                      "uuid": "ab53b1de-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Egeo",
+                      "uuid": "ab570b1d-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Epirus",
+                      "uuid": "ab646eef-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Eastern Macedonia and Thrace",
+                      "uuid": "ab6c10a5-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Peloponnese",
+                      "uuid": "ab750c31-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "South Aegean",
+                      "uuid": "3b4fc837-520a-5bd2-8a2e-5838cf2adb2e"
+                    },
+                    {
+                      "name": "Magnesia",
+                      "uuid": "36b24756-8ad2-5ac7-a229-7282f6e37351"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Croatia",
+                "code": "HR",
+                "uuid": "4a72fed0-3d00-55c1-9a38-1bcc9d7ca98f",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Split-Dalmatia County",
+                      "uuid": "ab85368d-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Neretva County",
+                      "uuid": "3fa7a917-39d7-5043-833f-587482e235c8"
+                    },
+                    {
+                      "name": "Hrvace",
+                      "uuid": "7263e39c-8e2f-56d1-8509-cfee6ebb56ca"
+                    },
+                    {
+                      "name": "Bisevo",
+                      "uuid": "809ded19-a74b-5d66-b5c6-9b1b102c19ae"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Hungary",
+                "code": "HU",
+                "uuid": "8bb96a0b-b7f8-57ab-ba93-18e410cfdd42",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Budapest",
+                      "uuid": "ab46ae92-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Ireland",
+                "code": "IE",
+                "uuid": "047d1d4d-7a49-5161-ba4b-f5199204c0c1",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Dublin",
+                      "uuid": "ab568b52-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Isle of Man",
+                "code": "IM",
+                "uuid": "9cb20f7b-076c-5cfa-874a-1b6ce2bc48e3"
+              },
+              {
+                "name": "Iceland",
+                "code": "IS",
+                "uuid": "31097b4b-00ee-5d21-ba2d-6b32ae54bac9",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Reykjavik",
+                      "uuid": "9152027f-1543-5f08-a96e-6399d323c481"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Italy",
+                "code": "IT",
+                "uuid": "4421a77b-8d3b-5395-955b-43a9eea45616",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Abruzzo",
+                      "uuid": "ab31d95e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Campania",
+                      "uuid": "ab48c284-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Lazio",
+                      "uuid": "ab6a34bb-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Lombardy",
+                      "uuid": "ab6acc88-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Piedmont",
+                      "uuid": "ab7837bb-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Sicily",
+                      "uuid": "ab8243f1-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Tuscany",
+                      "uuid": "ab87f948-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Veneto",
+                      "uuid": "ab888ac0-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Emilia-Romagna",
+                      "uuid": "8f211d0e-955f-5945-8344-ddb16bbf0817"
+                    },
+                    {
+                      "name": "Umbria",
+                      "uuid": "40c46d81-8929-5552-a4e6-175106d363ae"
+                    },
+                    {
+                      "name": "Calabria",
+                      "uuid": "c0df7185-9691-5034-a2a6-88eb9b4c3914"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Jersey",
+                "code": "JE",
+                "uuid": "f39b7860-8344-5b5b-830c-3034469ab171"
+              },
+              {
+                "name": "Liechtenstein",
+                "code": "LI",
+                "uuid": "afd485da-d091-5fe2-8a56-6eb6ec7d5433"
+              },
+              {
+                "name": "Lithuania",
+                "code": "LT",
+                "uuid": "d690529e-7842-5ad0-bd88-4f1b3b4a1aa9",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Vilnius County",
+                      "uuid": "ab8941a8-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Luxembourg",
+                "code": "LU",
+                "uuid": "3c5e0023-3ef9-567d-810b-252731292083",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Luxembourg",
+                      "uuid": "34da4dbb-627b-5bc1-b3cf-f7f4b892c0bf"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Latvia",
+                "code": "LV",
+                "uuid": "ff6192df-330e-5c62-83ba-a1135959537e"
+              },
+              {
+                "name": "Monaco",
+                "code": "MC",
+                "uuid": "b9c73876-4462-5f20-9994-76cb664e31a5"
+              },
+              {
+                "name": "Moldova",
+                "code": "MD",
+                "uuid": "2e3daff2-e0ce-51a9-a2f3-3793099db56d"
+              },
+              {
+                "name": "Montenegro",
+                "code": "ME",
+                "uuid": "94732b29-867e-5c04-ac89-82700d774915"
+              },
+              {
+                "name": "Macedonia",
+                "code": "MK",
+                "uuid": "6afab102-1283-5c4d-b3d6-00cb547b537e"
+              },
+              {
+                "name": "Malta",
+                "code": "MT",
+                "uuid": "4c6d8912-d5ad-5fee-902a-f80bfc7422cd",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Gozo",
+                      "uuid": "ea227c08-c282-5bfa-ab07-a4ac12069fa1"
+                    },
+                    {
+                      "name": "Malta",
+                      "uuid": "a0a29ebf-d9e4-5e70-b6bd-762f94115f86"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Netherlands",
+                "code": "NL",
+                "uuid": "8dca87b0-9885-5c71-a061-7119cf5b73cb",
+                "states": {
+                  "data": [
+                    {
+                      "name": "FR",
+                      "uuid": "ab58656e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "GE",
+                      "uuid": "ab58e547-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "NH",
+                      "uuid": "ab725d12-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Noord-Brabant",
+                      "uuid": "ab73354d-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "North Holland",
+                      "uuid": "ab73503b-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Norway",
+                "code": "NO",
+                "uuid": "1d48a518-bcbe-533f-af7f-e2bb5a77af13",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Oslo",
+                      "uuid": "ab746485-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Svalbard",
+                      "uuid": "ab85a36f-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "More og Romsdal",
+                      "uuid": "23eb841f-c381-5dc5-88b5-0fc54460d777"
+                    },
+                    {
+                      "name": "Hordaland",
+                      "uuid": "8485406a-5ec5-5154-81a3-a6b62f8677fe"
+                    },
+                    {
+                      "name": "Rogaland",
+                      "uuid": "74036fbb-8265-566f-95b6-965f45afec94"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Poland",
+                "code": "PL",
+                "uuid": "96b54cef-1737-576e-93f1-3a862bbafba9",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Lesser Poland Voivodeship",
+                      "uuid": "ab6a7934-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Masovia",
+                      "uuid": "b23e331e-73b9-543d-8a03-45e15fc3bbc3"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Portugal",
+                "code": "PT",
+                "uuid": "50725829-d478-5999-8956-80310772b5a7",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Lisbon",
+                      "uuid": "ab6ac101-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Madeira",
+                      "uuid": "ab6ba38b-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Porto District",
+                      "uuid": "ab7841ce-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Sao Miguel",
+                      "uuid": "a6020e62-dcfb-5128-8c06-80291c414c37"
+                    },
+                    {
+                      "name": "Algarve",
+                      "uuid": "007f5307-3d03-55a7-a3b4-72a850aa2316"
+                    },
+                    {
+                      "name": "Aveiro District",
+                      "uuid": "007d5768-d5e8-5928-aaa6-e06457683585"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Romania",
+                "code": "RO",
+                "uuid": "ed4aa6a4-f6b1-5daa-89f0-4b7631a599d2",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Bucharest",
+                      "uuid": "ab46597e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Cluj County",
+                      "uuid": "ab533a17-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Județul Ilfov",
+                      "uuid": "ab65fb6e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Iași",
+                      "uuid": "97e8fd6d-a18f-5453-8538-50de6feedda1"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Serbia",
+                "code": "RS",
+                "uuid": "90f6619d-0797-5b3e-87e5-9be2f85a3c53"
+              },
+              {
+                "name": "Russia",
+                "code": "RU",
+                "uuid": "a50d058b-225a-50a2-b4cc-730babdbf56b",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Moscow",
+                      "uuid": "ab70d2b1-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Nizhny Novgorod Oblast",
+                      "uuid": "ab733478-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Novgorod Oblast",
+                      "uuid": "ab738efe-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Saint Petersburg",
+                      "uuid": "ab7c9a28-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Tatarstan",
+                      "uuid": "4cb73ea9-2112-50ad-85d6-239767e5b391"
+                    },
+                    {
+                      "name": "Novosibirsk Oblast",
+                      "uuid": "c19549f7-2ac9-5448-990a-1b309948ec52"
+                    },
+                    {
+                      "name": "Tomsk Oblast",
+                      "uuid": "42cedba2-0cb6-5ac5-baa5-f1ad87917d89"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Sweden",
+                "code": "SE",
+                "uuid": "75a45e30-b1d3-524f-9a80-6c2157068c4f",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Södermanland and Uppland",
+                      "uuid": "9a0a2c11-79fc-5310-84f2-053847c576d3"
+                    },
+                    {
+                      "name": "Vastergotland and Bohuslan",
+                      "uuid": "75579616-8131-5d68-aa6e-fcb8f5a5c841"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Slovenia",
+                "code": "SI",
+                "uuid": "20c61f3e-a4df-54b0-b235-65810039a52b",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Grosuplje",
+                      "uuid": "ab590609-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Ljubljana",
+                      "uuid": "ab6ac33a-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Svalbard and Jan Mayen",
+                "code": "SJ",
+                "uuid": "f2f25aae-c8dc-57e2-a150-b7c1ea2fd813"
+              },
+              {
+                "name": "Slovakia",
+                "code": "SK",
+                "uuid": "4e635dce-79b0-5949-9235-23785a0204b4",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Bratislava Region",
+                      "uuid": "ab46297f-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Trnava Region",
+                      "uuid": "ab87ef02-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "San Marino",
+                "code": "SM",
+                "uuid": "a8b86029-2371-59f7-bb0e-4b16dbb456d5"
+              },
+              {
+                "name": "Ukraine",
+                "code": "UA",
+                "uuid": "c27246c3-de39-588d-b3e8-c022dde38bc6",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Kyivs'ka oblast",
+                      "uuid": "ab6907e2-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Vatican City",
+                "code": "VA",
+                "uuid": "15ef13b4-c9f6-5221-bc70-0aba735d4517"
+              }
+            ]
+          }
+        },
+        {
+          "continent": "North America",
+          "code": "NA",
+          "uuid": "edd79c69-ad49-56d9-bd62-660e7e6c0d46",
+          "countries": {
+            "data": [
+              {
+                "name": "Antigua and Barbuda",
+                "code": "AG",
+                "uuid": "a7a38745-920b-5cff-aac3-3d72dafe312a"
+              },
+              {
+                "name": "Anguilla",
+                "code": "AI",
+                "uuid": "9e5d4625-4a91-5988-9f33-a72e76efdf36"
+              },
+              {
+                "name": "Aruba",
+                "code": "AW",
+                "uuid": "67fdb864-5579-5cce-bf5f-a7f985c88f3f",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Oranjestad",
+                      "uuid": "bc3b664c-8a6d-57df-a499-3bb153aa8a70"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Barbados",
+                "code": "BB",
+                "uuid": "fcfb3991-fc61-5680-b72d-71fdce92175f"
+              },
+              {
+                "name": "Saint Bartelemey",
+                "code": "BL",
+                "uuid": "42630ab4-5c63-5b74-b435-e5fcfa1970f5"
+              },
+              {
+                "name": "Bermuda",
+                "code": "BM",
+                "uuid": "8b240046-19b6-54b2-a9de-5d34f1624eac"
+              },
+              {
+                "name": "Bahamas",
+                "code": "BS",
+                "uuid": "ec562778-e13e-5414-922b-0bb7da758661"
+              },
+              {
+                "name": "Belize",
+                "code": "BZ",
+                "uuid": "13472609-0373-5d18-b606-76deb3e5d9ed"
+              },
+              {
+                "name": "Canada",
+                "code": "CA",
+                "uuid": "48913d52-598e-5bdf-b9c9-daa022eb6ece",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Ontario",
+                      "uuid": "ab73e2f4-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "British Columbia",
+                      "uuid": "530a08c6-15e0-5cf4-add8-8c278ee03a0c"
+                    },
+                    {
+                      "name": "Nova Scotia",
+                      "uuid": "994e1307-0f8a-5b2f-81c3-b6769b60092f"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Costa Rica",
+                "code": "CR",
+                "uuid": "8ee2d19d-f564-5060-b510-0db95bd3ac8b",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Alajuela",
+                      "uuid": "ab32c3a0-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Arenal",
+                      "uuid": "ab336ef9-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Cartago",
+                      "uuid": "ab4968c9-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Guanacaste",
+                      "uuid": "ab591017-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Heredia",
+                      "uuid": "ab5fa860-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Jaco",
+                      "uuid": "ab64e2c8-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Puntarenas",
+                      "uuid": "ab78b96a-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "san jose",
+                      "uuid": "ab7cd1d6-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Cuba",
+                "code": "CU",
+                "uuid": "e9172fad-e588-51fd-91fa-ea427beb6a78",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Havana",
+                      "uuid": "ab5f8694-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Dominica",
+                "code": "DM",
+                "uuid": "a5d46ae6-21c9-55dd-a564-ed8405caf66a"
+              },
+              {
+                "name": "Dominican Republic",
+                "code": "DO",
+                "uuid": "8253df57-f730-5183-84a0-b40f28b9ac80",
+                "states": {
+                  "data": [
+                    {
+                      "name": "La Altagracia Province",
+                      "uuid": "81f7faaa-51a7-5424-b9a8-a20eb31ba5c5"
+                    },
+                    {
+                      "name": "National District",
+                      "uuid": "e5338725-6a94-5e11-b952-daba553ddf49"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Grenada",
+                "code": "GD",
+                "uuid": "194ace6c-f8f5-570d-a4dd-ff4583b50463"
+              },
+              {
+                "name": "Greenland",
+                "code": "GL",
+                "uuid": "ff501cd5-20a3-538d-9067-568a3a68799a"
+              },
+              {
+                "name": "Guadeloupe",
+                "code": "GP",
+                "uuid": "3cd61257-0e3b-52c4-ae0f-51f6f18c1f1c"
+              },
+              {
+                "name": "Guatemala",
+                "code": "GT",
+                "uuid": "6444fc89-d58f-5553-96e3-95035cb6c858",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Sacatepequez",
+                      "uuid": "ab7c73fc-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Guatemala",
+                      "uuid": "696854ed-cfa6-5a29-a849-7b8f1ec37d4f"
+                    },
+                    {
+                      "name": "Peten",
+                      "uuid": "10211506-1dcd-5163-b050-83ce429760fb"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Honduras",
+                "code": "HN",
+                "uuid": "69c46178-c36a-56f9-b556-23013951f135"
+              },
+              {
+                "name": "Haiti",
+                "code": "HT",
+                "uuid": "5b0d8214-0238-58dd-a2a6-631baa521cb1"
+              },
+              {
+                "name": "Jamaica",
+                "code": "JM",
+                "uuid": "7ab85642-5076-5827-8550-26e19d7244a8",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Parish of Saint Ann",
+                      "uuid": "d25a41bf-c320-5fcc-b0cb-68f447cc48f3"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Saint Kitts and Nevis",
+                "code": "KN",
+                "uuid": "9081be47-6b7f-565f-9d1a-6aaae4798359"
+              },
+              {
+                "name": "Cayman Islands",
+                "code": "KY",
+                "uuid": "2be8f034-b79d-5ea6-9865-82a4a5d4b19c"
+              },
+              {
+                "name": "Saint Lucia",
+                "code": "LC",
+                "uuid": "7a2f818e-b40b-5b0a-8a7b-b70c7379cae8"
+              },
+              {
+                "name": "Saint Martin",
+                "code": "MF",
+                "uuid": "1c65cfe6-7495-51df-aa8f-8f4d81e3e427"
+              },
+              {
+                "name": "Martinique",
+                "code": "MQ",
+                "uuid": "64c7b3ad-b8f2-55fb-83c6-7f6957278372"
+              },
+              {
+                "name": "Montserrat",
+                "code": "MS",
+                "uuid": "cf89329b-5951-53fe-86dd-953a109a2455"
+              },
+              {
+                "name": "Mexico",
+                "code": "MX",
+                "uuid": "c4412b00-7306-5b33-999e-bcbf475e6d06",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Baja California",
+                      "uuid": "ab344f46-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Baja California Sur",
+                      "uuid": "ab346528-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Mexico DF",
+                      "uuid": "ab5730fc-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Quintana Roo",
+                      "uuid": "ab7a9ac2-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Yucatan",
+                      "uuid": "ab8f917d-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Nicaragua",
+                "code": "NI",
+                "uuid": "32c4d7ad-a2e1-56bb-b0bc-1c2d8d35eaaa"
+              },
+              {
+                "name": "Panama",
+                "code": "PA",
+                "uuid": "6d7614b1-edda-59c7-80a0-bad7322252e8",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Panama",
+                      "uuid": "ab749588-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Saint Pierre and Miquelon",
+                "code": "PM",
+                "uuid": "7375672e-1630-55b4-b29e-4351398001d6"
+              },
+              {
+                "name": "Puerto Rico",
+                "code": "PR",
+                "uuid": "d67343bc-754e-5b86-8074-5a8488cccd36"
+              },
+              {
+                "name": "El Salvador",
+                "code": "SV",
+                "uuid": "3552aff3-35d1-5097-aa5d-4ca8d36a3383"
+              },
+              {
+                "name": "Sint Maarten",
+                "code": "SX",
+                "uuid": "c663c462-bcd3-59b3-b0db-fd6ad4ec26cb"
+              },
+              {
+                "name": "Turks and Caicos Islands",
+                "code": "TC",
+                "uuid": "1fda400a-5b12-5b6b-a5ad-9ae66816907f"
+              },
+              {
+                "name": "Trinidad and Tobago",
+                "code": "TT",
+                "uuid": "a90a8583-f797-5264-a806-f5cc1d8ce434"
+              },
+              {
+                "name": "United States",
+                "code": "US",
+                "uuid": "200c6660-ea1f-5def-b79c-3db84d7a0ff5",
+                "states": {
+                  "data": [
+                    {
+                      "name": "California",
+                      "uuid": "ab485282-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "District of Columbia",
+                      "uuid": "ab560278-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Florida",
+                      "uuid": "ab585b79-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Hawaii",
+                      "uuid": "ab5f87f7-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Maryland",
+                      "uuid": "ab6dc5b9-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Massachusetts",
+                      "uuid": "ab6dcf65-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Michigan",
+                      "uuid": "ab6fb160-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "New York",
+                      "uuid": "ab725bab-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "North Carolina",
+                      "uuid": "ab733e1f-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Pennsylvania",
+                      "uuid": "ab759f4c-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "SC",
+                      "uuid": "ab7d7e1a-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Texas",
+                      "uuid": "ab86a749-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Wyoming",
+                      "uuid": "ab8c091a-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Louisiana",
+                      "uuid": "4f5c0b03-84ef-5897-b672-727efe09b276"
+                    },
+                    {
+                      "name": "Nevada",
+                      "uuid": "e6f5fccc-dfaa-53ce-82e3-08f5f7aef393"
+                    },
+                    {
+                      "name": "Colorado",
+                      "uuid": "6199d724-dc16-5b5f-91c5-835db4bcdb86"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Saint Vincent and the Grenadines",
+                "code": "VC",
+                "uuid": "db34bbd4-f230-5482-8002-c3959ba1d70b"
+              },
+              {
+                "name": "Virgin Islands, British",
+                "code": "VG",
+                "uuid": "07cce283-3f47-5926-8e2a-ceec726ee2b5"
+              },
+              {
+                "name": "Virgin Islands, U.S.",
+                "code": "VI",
+                "uuid": "ea71a994-2907-5fe1-b657-53c44a5134a9"
+              }
+            ]
+          }
+        },
+        {
+          "continent": "Oceania",
+          "code": "OC",
+          "uuid": "dbd664da-38a6-57bc-b050-608a3403901c",
+          "countries": {
+            "data": [
+              {
+                "name": "American Samoa",
+                "code": "AS",
+                "uuid": "94c90a99-8c85-5125-a2fa-3327688e304f"
+              },
+              {
+                "name": "Australia",
+                "code": "AU",
+                "uuid": "b4466b04-2d7f-555c-9d7d-dca2d6085598",
+                "states": {
+                  "data": [
+                    {
+                      "name": "New South Wales",
+                      "uuid": "ab71d60b-036d-11e5-a2a9-d07e352b4840",
+                      "cities": {
+                        "data": [
+                          {
+                            "name": "Sydney",
+                            "uuid": "4fc99538-c971-5c6a-b66d-34c71ee77691"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "name": "Queensland",
+                      "uuid": "ab7a6ce7-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "South Australia",
+                      "uuid": "ab84920e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Tasmania",
+                      "uuid": "ab86695c-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Victoria",
+                      "uuid": "ab888c8e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Western Australia",
+                      "uuid": "ab8ac337-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Northern Territory",
+                      "uuid": "61ace9ec-5658-5e86-a2de-52cb89b42ca9"
+                    },
+                    {
+                      "name": "Kuranda",
+                      "uuid": "4eec7030-8d9c-509c-8b0f-71ec7230388e"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Cook Islands",
+                "code": "CK",
+                "uuid": "7b22bd8f-4e42-5ca2-9f7f-71c03ec6f3f8"
+              },
+              {
+                "name": "Fiji",
+                "code": "FJ",
+                "uuid": "024f6dcc-2195-5bce-ac0a-ad5888cbc3a7",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Fiji",
+                      "uuid": "76143476-ca44-539b-906a-77249054885c"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Micronesia",
+                "code": "FM",
+                "uuid": "48f76433-80c7-5dfe-bade-4f604d9c56bb"
+              },
+              {
+                "name": "Guam",
+                "code": "GU",
+                "uuid": "cfc6f549-3cc8-54e9-8740-4ec4410c8f47"
+              },
+              {
+                "name": "Kiribati",
+                "code": "KI",
+                "uuid": "ef8ce4e2-cab6-5a77-aa87-37e2d17f7aee"
+              },
+              {
+                "name": "Marshall Islands",
+                "code": "MH",
+                "uuid": "2b726df2-6f2e-5372-ae16-5733f08639e9"
+              },
+              {
+                "name": "Northern Mariana Islands",
+                "code": "MP",
+                "uuid": "770a6875-4523-53a3-87f3-df4a07d06142"
+              },
+              {
+                "name": "New Caledonia",
+                "code": "NC",
+                "uuid": "96bfd2e5-b6b8-5397-8c44-4c4ae00efd93"
+              },
+              {
+                "name": "Norfolk Island",
+                "code": "NF",
+                "uuid": "4ca97659-d319-57a9-95db-9dad90f9ef65"
+              },
+              {
+                "name": "Nauru",
+                "code": "NR",
+                "uuid": "74413cd3-8f1c-5441-b8d4-64d7c131e64b"
+              },
+              {
+                "name": "Niue",
+                "code": "NU",
+                "uuid": "4666e650-6a83-51e0-bcc8-156b435646bd"
+              },
+              {
+                "name": "New Zealand",
+                "code": "NZ",
+                "uuid": "66b169e1-ec1d-52a4-af12-067592e03475",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Auckland",
+                      "uuid": "ab33ccc1-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Canterbury",
+                      "uuid": "ab4911ef-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Otago",
+                      "uuid": "ab746568-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Bay of Plenty",
+                      "uuid": "bc8be9e9-d4b7-5e1a-aa65-13819308602c"
+                    },
+                    {
+                      "name": "Waikato",
+                      "uuid": "aac812db-d8ea-5df1-aa51-f8eda922069d"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "French Polynesia",
+                "code": "PF",
+                "uuid": "334f611a-1eb5-54b0-bcbf-2f0e86a4e718"
+              },
+              {
+                "name": "Papua New Guinea",
+                "code": "PG",
+                "uuid": "8f4542af-ac16-5ebf-97dc-fb3b81f9fefc"
+              },
+              {
+                "name": "Pitcairn",
+                "code": "PN",
+                "uuid": "7ddf986a-b30b-54e1-ac76-fa45e21f0df0"
+              },
+              {
+                "name": "Palau",
+                "code": "PW",
+                "uuid": "dc83b7de-5430-5133-a76d-88565614a23a"
+              },
+              {
+                "name": "Solomon Islands",
+                "code": "SB",
+                "uuid": "cb7d7be2-8b26-5049-8b23-9953a362a877"
+              },
+              {
+                "name": "Tokelau",
+                "code": "TK",
+                "uuid": "fe9ac46d-85ed-53de-ad77-d1a1e8758b49"
+              },
+              {
+                "name": "Tonga",
+                "code": "TO",
+                "uuid": "eae31c36-2048-53b8-861e-28f9e8ce50cf"
+              },
+              {
+                "name": "Tuvalu",
+                "code": "TV",
+                "uuid": "19339169-4e07-5273-b556-f002543155e1"
+              },
+              {
+                "name": "United States Minor Outlying Islands",
+                "code": "UM",
+                "uuid": "b9fd84e8-0fc1-5269-a922-4ca78177533e"
+              },
+              {
+                "name": "Vanuatu",
+                "code": "VU",
+                "uuid": "b66339e7-c5a8-5b1b-900c-0d7f4076b025"
+              },
+              {
+                "name": "Wallis and Futuna",
+                "code": "WF",
+                "uuid": "e271e27c-9701-5956-98d9-baf96a436e41"
+              },
+              {
+                "name": "Samoa",
+                "code": "WS",
+                "uuid": "de28fb0b-fad4-5cce-a2f1-7888f2de03c0",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Tuamasaga",
+                      "uuid": "ab87efb6-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "continent": "South America",
+          "code": "SA",
+          "uuid": "74c269a9-0834-5afb-8551-823b7040b66a",
+          "countries": {
+            "data": [
+              {
+                "name": "Argentina",
+                "code": "AR",
+                "uuid": "35f8c3e7-f41b-5c6c-88f3-cd8e7df04d1d",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Buenos Aires Province",
+                      "uuid": "ab33dc46-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Cuyo",
+                      "uuid": "71489d48-23af-546c-bd25-1a30122eee23"
+                    },
+                    {
+                      "name": "Tierra del Fuego",
+                      "uuid": "22c5535f-855e-529e-a2e5-fd30aa0bd062"
+                    },
+                    {
+                      "name": "Misiones",
+                      "uuid": "dbc3b8c9-8b1b-56a0-8a36-f040218a6a00"
+                    },
+                    {
+                      "name": "Santa Cruz",
+                      "uuid": "2b9ccd1e-2089-54e1-964e-d06fbb8bb466"
+                    },
+                    {
+                      "name": "Rio Negro",
+                      "uuid": "2ff7653e-1ca1-5e56-a411-53802258043a"
+                    },
+                    {
+                      "name": "Salta",
+                      "uuid": "373fd1e5-189a-5ba8-a54f-f286278a1013"
+                    },
+                    {
+                      "name": "Chubut",
+                      "uuid": "b7db64e8-7dac-5d66-83c6-f45df8d0257e"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Bolivia",
+                "code": "BO",
+                "uuid": "bad359c6-4156-5710-bcd7-f8e253e87552",
+                "states": {
+                  "data": [
+                    {
+                      "name": "La Paz",
+                      "uuid": "ab69b55e-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Potosi",
+                      "uuid": "ab785c4d-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Santa Cruz",
+                      "uuid": "ab7cf5ab-036d-11e5-a2a9-d07e352b4840"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Bonaire, Saint Eustatius and Saba",
+                "code": "BQ",
+                "uuid": "708bf119-ed9c-5123-9972-da865b5786d3"
+              },
+              {
+                "name": "Brazil",
+                "code": "BR",
+                "uuid": "434b84ab-412e-5c1f-a2d7-2ffe16158e98",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Amazonas",
+                      "uuid": "ab32f7ea-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Parana",
+                      "uuid": "ab74a04f-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Rio de Janeiro",
+                      "uuid": "ab7bb986-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "São Paulo",
+                      "uuid": "ab851ad6-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Minas Gerais",
+                      "uuid": "1c5dc973-23b1-517d-bac9-05c46d88b816"
+                    },
+                    {
+                      "name": "Santa Catarina",
+                      "uuid": "ff8140ae-5bc3-5af3-96f2-c35b48305bef"
+                    },
+                    {
+                      "name": "Para",
+                      "uuid": "49aec340-8f28-56ad-bf6e-8750f088ee32"
+                    },
+                    {
+                      "name": "Ceara",
+                      "uuid": "ef70ec1d-1696-5511-9c22-c8b32497ecb3"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Chile",
+                "code": "CL",
+                "uuid": "429c3f65-e7a9-58c8-afc5-523f650d458f",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Antofagasta Region",
+                      "uuid": "ab335cbf-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Arica and Parinacota Region",
+                      "uuid": "ab3396c4-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Los Lagos",
+                      "uuid": "ab6b2f53-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Magallanes and Chilean Antarctica",
+                      "uuid": "ab6bc803-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Santiago Metropolitan Region",
+                      "uuid": "ab7cf685-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Valparaiso",
+                      "uuid": "c1682505-ca48-580d-a9a9-7747332cf2b4"
+                    },
+                    {
+                      "name": "Easter Island",
+                      "uuid": "2b7e6add-699e-5664-81ca-7e1b0a2c79a0"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Colombia",
+                "code": "CO",
+                "uuid": "4879ab23-f026-5ee0-8837-bdc5bbe2baaa",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Cundinamarca",
+                      "uuid": "ab460d48-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Caribbean",
+                      "uuid": "2badce39-65c0-5901-a47f-419c5ae4a391"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Curacao",
+                "code": "CW",
+                "uuid": "6d3c4584-0f62-5aef-82bb-62d8dbf600a2"
+              },
+              {
+                "name": "Ecuador",
+                "code": "EC",
+                "uuid": "c1c699ac-bcfa-54ec-852e-4a024e2fa0b8",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Cotopaxi",
+                      "uuid": "ab53a7e5-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Pichincha",
+                      "uuid": "ab781c9a-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Azuay Province",
+                      "uuid": "c4959916-edc7-5d4c-bab5-fd81dcb83071"
+                    },
+                    {
+                      "name": "Guayas Province",
+                      "uuid": "027ad982-a185-5704-bbdc-1b36391d4718"
+                    },
+                    {
+                      "name": "Galapagos Island",
+                      "uuid": "fea11ffb-276e-5f4e-82d1-40c62c4beae1"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Falkland Islands (Malvinas)",
+                "code": "FK",
+                "uuid": "efb60f12-3730-5625-a8d6-f67d867ee283"
+              },
+              {
+                "name": "French Guiana",
+                "code": "GF",
+                "uuid": "59a2e1bb-0c06-5f3f-8c53-2acb07de1285"
+              },
+              {
+                "name": "Guyana",
+                "code": "GY",
+                "uuid": "e62c80b3-0cca-56e8-a989-f64ec553b42b"
+              },
+              {
+                "name": "Peru",
+                "code": "PE",
+                "uuid": "597bd622-c518-5e2b-b17a-fe0fbf96ecb0",
+                "states": {
+                  "data": [
+                    {
+                      "name": "Arequipa",
+                      "uuid": "ab339487-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Cuzco",
+                      "uuid": "ab53bb93-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Lima",
+                      "uuid": "ab6aae76-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Loreto",
+                      "uuid": "ab6b2527-036d-11e5-a2a9-d07e352b4840"
+                    },
+                    {
+                      "name": "Puno Province",
+                      "uuid": "d08cd743-ae83-5ec0-9ccd-291a4f4d26ed"
+                    },
+                    {
+                      "name": "Lambayeque Region",
+                      "uuid": "49eb7228-dee7-58b1-b395-e79d03a2a46f"
+                    },
+                    {
+                      "name": "Ica Province",
+                      "uuid": "9bc052c4-b2a5-588d-aa28-c1ea703cf5bf"
+                    },
+                    {
+                      "name": "Pisco Province",
+                      "uuid": "dde7e0b8-eba0-5c43-a533-b75414e32737"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Paraguay",
+                "code": "PY",
+                "uuid": "78c120e6-d0cf-5c46-b039-4f988e6cd006"
+              },
+              {
+                "name": "Suriname",
+                "code": "SR",
+                "uuid": "cfe7aac1-6f47-555c-bf52-ba4f6f5ee22a"
+              },
+              {
+                "name": "Uruguay",
+                "code": "UY",
+                "uuid": "5a64e985-3a44-5fe3-9841-d3d2783e9d21"
+              },
+              {
+                "name": "Venezuela",
+                "code": "VE",
+                "uuid": "57ef2da9-4d1a-5d00-af29-9e40db1d1194"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "optionInputTypes": [
+      {
+        "1": "list",
+        "2": "list multiple",
+        "3": "number",
+        "4": "string",
+        "5": "boolean",
+        "6": "date",
+        "7": "file",
+        "8": "image",
+        "9": "address",
+        "10": "time",
+        "11": "datetime",
+        "12": "string: country",
+        "13": "string: phone",
+        "14": "string: flight no"
+      }
+    ],
+    "links": [
+      {
+        "method": "GET",
+        "rel": "self",
+        "href": "/v2/config"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_metadata": {
+    "descriptor": "GetYourGuide AG",
+    "method": "createBookingAction",
+    "date": "2018-03-08T06:11:20Z",
+    "status": "OK",
+    "query": "cnt_language=en&currency=USD",
+    "availableLanguages": [],
+    "exchange": {
+      "rate": 1.134106636,
+      "currency": "gbp"
+    },
+    "totalCount": 0,
+    "limit": 10,
+    "offset": 0
+  },
+  "data": {
+    "bookings": {
+      "shopping_cart_id": 45942237,
+      "shopping_cart_hash": "562JOI0VASR00QGCRNQ88W3EBW3HT1ER",
+      "booking_id": 27896429,
+      "booking_hash": "2YCKFHYQHKFDSYOCOOL1FU5BW5B1PU16",
+      "status": "temp",
+      "return_code": 0
+    }
+  }
+}

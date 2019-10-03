@@ -1,0 +1,27 @@
+{
+  "_metadata": {
+    "descriptor": "GetYourGuide AG",
+    "method": "getByIdAction",
+    "date": "2018-03-07T04:12:12Z",
+    "status": "OK",
+    "query": "cnt_language=en&currency=usd",
+    "availableLanguages": [],
+    "exchange": {
+      "rate": 0.807528317,
+      "currency": "usd"
+    },
+    "totalCount": 1,
+    "limit": 10,
+    "offset": 0
+  },
+  "data": {
+    "categories": [
+      {
+        "category_id": 2,
+        "name": "Sightseeing Tours",
+        "parent_id": 1,
+        "number_of_tours": 12176
+      }
+    ]
+  }
+}

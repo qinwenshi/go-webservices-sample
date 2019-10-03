@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "GEN-UNAUTHORIZED",
+    "message": "Unauthorized",
+    "http_code": 401
+  }
+}

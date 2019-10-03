@@ -1,0 +1,67 @@
+{
+  "_metadata": {
+    "descriptor": "GetYourGuide AG",
+    "method": "getTourOptionsByTourIdAction",
+    "date": "2018-03-07T08:41:26Z",
+    "status": "OK",
+    "query": "cnt_language=en&currency=USD",
+    "availableLanguages": [
+      "en"
+    ],
+    "exchange": {
+      "rate": 0.807528317,
+      "currency": "USD"
+    },
+    "totalCount": 1,
+    "limit": 10,
+    "offset": 0
+  },
+  "data": {
+    "tour_options": [
+      {
+        "option_id": 178119,
+        "tour_id": 121665,
+        "title": "Ho Chi Minh City: Half-Day Cyclo Private Tour",
+        "meeting_point": "123 Ly Tu Trong Street, District 1.",
+        "drop_off": "123 Ly Tu Trong Street, District 1.",
+        "duration": 4,
+        "duration_unit": "hour",
+        "cond_language": {
+          "language_audio": [],
+          "language_booklet": [],
+          "language_live": [
+            "en"
+          ]
+        },
+        "booking_parameter": [
+          {
+            "name": "language",
+            "mandatory": false
+          },
+          {
+            "name": "supplier_requested_question",
+            "description": "Please provide any relevant information.",
+            "mandatory": true
+          }
+        ],
+        "services": {
+          "prt": false,
+          "stl": false,
+          "wlc": false
+        },
+        "coordinate_type": "exact",
+        "coordinates": {
+          "lat": 10.7737135,
+          "long": 106.6971443
+        },
+        "price": {
+          "values": {
+            "amount": 89
+          },
+          "description": "individual"
+        },
+        "free_sale": true
+      }
+    ]
+  }
+}

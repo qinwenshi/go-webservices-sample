@@ -1,0 +1,14 @@
+{
+  "descriptor": "GetYourGuide AG",
+  "apiVersion": "1",
+  "method": "confirmShoppingCartAction",
+  "date": "2018-03-08T08:28:42Z",
+  "status": "ERROR",
+  "errors": [
+    {
+      "errorCode": 341,
+      "errorMessage": "Shopping cart is already processed"
+    }
+  ],
+  "helpURL": "/doc"
+}

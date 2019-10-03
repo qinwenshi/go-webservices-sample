@@ -1,0 +1,202 @@
+{
+  "_metadata": {
+    "descriptor": "GetYourGuide AG",
+    "method": "getByQueryAction",
+    "date": "2018-03-08T04:27:45Z",
+    "status": "OK",
+    "query": "cnt_language=en&currency=USD",
+    "availableLanguages": [],
+    "exchange": {
+      "rate": 0.807528317,
+      "currency": "USD"
+    },
+    "totalCount": 10868,
+    "limit": 10,
+    "offset": 0
+  },
+  "data": {
+    "locations": [
+      {
+        "location_id": 16,
+        "type": "CITY",
+        "name": "Paris",
+        "english_name": "Paris",
+        "city": "Paris",
+        "country": "FR",
+        "coordinates": {
+          "lat": 48.85693,
+          "long": 2.3412
+        },
+        "viewport": {
+          "sw_lat": 48.658291,
+          "sw_long": 2.08679,
+          "ne_lat": 49.04694,
+          "ne_long": 2.63791
+        }
+      },
+      {
+        "location_id": 862,
+        "type": "AREA",
+        "name": "Lazio",
+        "english_name": "Lazio",
+        "country": "IT",
+        "coordinates": {
+          "lat": 42.02174,
+          "long": 12.73821
+        },
+        "viewport": {
+          "sw_lat": 40.784828,
+          "sw_long": 11.44821,
+          "ne_lat": 42.839649,
+          "ne_long": 14.02821
+        }
+      },
+      {
+        "location_id": 33,
+        "type": "CITY",
+        "name": "Rome",
+        "english_name": "Rome",
+        "city": "Rome",
+        "country": "IT",
+        "coordinates": {
+          "lat": 41.903111,
+          "long": 12.49576
+        },
+        "parent_id": 862,
+        "viewport": {
+          "sw_lat": 41.80291,
+          "sw_long": 12.37942,
+          "ne_lat": 41.991852,
+          "ne_long": 12.61589
+        }
+      },
+      {
+        "location_id": 45,
+        "type": "CITY",
+        "name": "Barcelona",
+        "english_name": "Barcelona",
+        "city": "Barcelona",
+        "country": "ES",
+        "coordinates": {
+          "lat": 41.385578,
+          "long": 2.16874
+        },
+        "viewport": {
+          "sw_lat": 41.321049,
+          "sw_long": 2.07192,
+          "ne_lat": 41.471142,
+          "ne_long": 2.22684
+        }
+      },
+      {
+        "location_id": 36,
+        "type": "CITY",
+        "name": "Amsterdam",
+        "english_name": "Amsterdam",
+        "city": "Amsterdam",
+        "country": "NL",
+        "coordinates": {
+          "lat": 52.373119,
+          "long": 4.89319
+        },
+        "viewport": {
+          "sw_lat": 52.317768,
+          "sw_long": 4.75719,
+          "ne_lat": 52.428051,
+          "ne_long": 5.03198
+        }
+      },
+      {
+        "location_id": 173,
+        "type": "CITY",
+        "name": "Dubai",
+        "english_name": "Dubai",
+        "city": "Dubai",
+        "country": "AE",
+        "coordinates": {
+          "lat": 25.26944,
+          "long": 55.308651
+        },
+        "viewport": {
+          "sw_lat": 24.9188,
+          "sw_long": 55.028641,
+          "ne_lat": 25.32781,
+          "ne_long": 55.55286
+        }
+      },
+      {
+        "location_id": 524,
+        "type": "POI",
+        "name": "Vatican City",
+        "english_name": "Vatican City",
+        "city": "Rome",
+        "country": "IT",
+        "coordinates": {
+          "lat": 41.902916,
+          "long": 12.453389
+        },
+        "parent_id": 33,
+        "viewport": {
+          "sw_lat": 41.9001977,
+          "sw_long": 12.445687,
+          "ne_lat": 41.9075614,
+          "ne_long": 12.4584798
+        }
+      },
+      {
+        "location_id": 617,
+        "type": "AREA",
+        "name": "South East England",
+        "english_name": "South East England",
+        "country": "GB",
+        "coordinates": {
+          "lat": 51.519291,
+          "long": -0.25275
+        },
+        "viewport": {
+          "sw_lat": 50.574661,
+          "sw_long": -1.95728,
+          "ne_lat": 52.322971,
+          "ne_long": 1.45179
+        }
+      },
+      {
+        "location_id": 57,
+        "type": "CITY",
+        "name": "London",
+        "english_name": "London",
+        "city": "London",
+        "country": "GB",
+        "coordinates": {
+          "lat": 51.506321,
+          "long": -0.12714
+        },
+        "parent_id": 617,
+        "viewport": {
+          "sw_lat": 51.261318,
+          "sw_long": -0.563,
+          "ne_lat": 51.686031,
+          "ne_long": 0.28036
+        }
+      },
+      {
+        "location_id": 17,
+        "type": "CITY",
+        "name": "Berlin",
+        "english_name": "Berlin",
+        "city": "Berlin",
+        "country": "DE",
+        "coordinates": {
+          "lat": 52.516071,
+          "long": 13.37698
+        },
+        "viewport": {
+          "sw_lat": 52.330269,
+          "sw_long": 13.05355,
+          "ne_lat": 52.667511,
+          "ne_long": 13.72616
+        }
+      }
+    ]
+  }
+}

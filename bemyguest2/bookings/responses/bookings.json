@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "uuid": "6b2964d7-e5cd-41d4-bb12-5a892562f2c0",
+      "code": "FZXU7ED",
+      "partnerReference": "testing-1",
+      "status": "approved",
+      "createdAt": "2018-06-19 23:20:45",
+      "updatedAt": "2018-06-19 23:43:19",
+      "links": [
+        {
+          "method": "GET",
+          "rel": "self",
+          "href": "/v2/bookings/6b2964d7-e5cd-41d4-bb12-5a892562f2c0"
+        },
+        {
+          "method": "GET",
+          "rel": "productType",
+          "href": "/v2/product-types/8f6ef765-4ccd-5e30-ab29-7270569646f1"
+        },
+        {
+          "method": "GET",
+          "rel": "product",
+          "href": "/v2/products/fed7dcfb-25c0-5b7c-9da0-c657bf021a71"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "total": 5,
+      "count": 1,
+      "per_page": 1,
+      "current_page": 2,
+      "total_pages": 5,
+      "links": {
+        "previous": "/v2/bookings?per_page=1&page=1",
+        "next": "/v2/bookings?per_page=1&page=3"
+      }
+    }
+  }
+}

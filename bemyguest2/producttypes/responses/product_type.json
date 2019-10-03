@@ -1,0 +1,152 @@
+{
+  "data": {
+    "uuid": "0c7491a2-355f-5b4d-82c9-c1b86236653f",
+    "title": "One-hour Rental",
+    "titleTranslated": "One-hour Rental",
+    "description": "Rent a bi-pedal bicycle for an hour.",
+    "descriptionTranslated": "Rent a bi-pedal bicycle for an hour.",
+    "durationDays": 0,
+    "durationHours": 1,
+    "durationMinutes": 0,
+    "daysInAdvance": null,
+    "cutOffTime": null,
+    "isNonRefundable": true,
+    "minPax": 1,
+    "maxPax": 15,
+    "minAdultAge": 13,
+    "maxAdultAge": 80,
+    "hasChildPrice": true,
+    "allowChildren": true,
+    "minChildren": 0,
+    "maxChildren": 20,
+    "minChildAge": 7,
+    "maxChildAge": 12,
+    "allowSeniors": false,
+    "minSeniors": null,
+    "maxSeniors": null,
+    "minSeniorAge": null,
+    "maxSeniorAge": null,
+    "allowInfant": false,
+    "minInfantAge": null,
+    "maxInfantAge": null,
+    "maxGroup": null,
+    "minGroup": null,
+    "instantConfirmation": true,
+    "nonInstantVoucher": false,
+    "directAdmission": false,
+    "voucherUse": "You will receive a voucher by email. It contains all the information for this activity. You will need to present this voucher.\n\nYou will receive a voucher by email. It contains all the information for this activity. You will need to present this voucher.",
+    "voucherUseTranslated": "You will receive a voucher by email. It contains all the information for this activity. You will need to present this voucher.\n\nYou will receive a voucher by email. It contains all the information for this activity. You will need to present this voucher.",
+    "voucherRedemptionAddress": "Sentosa Ticketing Counters\n- Beach Station (09:00 to 21:00)\n- Fort Siloso (10:00 to 17:30)\n- Imbiah Forecourt (09:00 to 18:00)\n- Imbiah Lookout (10:00 to 19:00)\n- Merlion Plaza (09:00am to 20:00)\n- Sentosa Boardwalk (09:00 to 17:00)\n- Sentosa Station, VivoCity, Lobby L, Level 3 (09:00 to 21:00) \n- Sentosa Merlion (10:00 to 19:30)\n- Waterfront Station (09:00 to 16:00)\n\nSentosa Ticketing Counters\n- Beach Station (09:00 to 21:00)\n- Fort Siloso (10:00 to 17:30)\n- Imbiah Forecourt (09:00 to 18:00)\n- Imbiah Lookout (10:00 to 19:00)\n- Merlion Plaza (09:00am to 20:00)\n- Sentosa Boardwalk (09:00 to 17:00)\n- Sentosa Station, VivoCity, Lobby L, Level 3 (09:00 to 21:00) \n- Sentosa Merlion (10:00 to 19:30)\n- Waterfront Station (09:00 to 16:00)",
+    "voucherRedemptionAddressTranslated": "Sentosa Ticketing Counters\n- Beach Station (09:00 to 21:00)\n- Fort Siloso (10:00 to 17:30)\n- Imbiah Forecourt (09:00 to 18:00)\n- Imbiah Lookout (10:00 to 19:00)\n- Merlion Plaza (09:00am to 20:00)\n- Sentosa Boardwalk (09:00 to 17:00)\n- Sentosa Station, VivoCity, Lobby L, Level 3 (09:00 to 21:00) \n- Sentosa Merlion (10:00 to 19:30)\n- Waterfront Station (09:00 to 16:00)\n\nSentosa Ticketing Counters\n- Beach Station (09:00 to 21:00)\n- Fort Siloso (10:00 to 17:30)\n- Imbiah Forecourt (09:00 to 18:00)\n- Imbiah Lookout (10:00 to 19:00)\n- Merlion Plaza (09:00am to 20:00)\n- Sentosa Boardwalk (09:00 to 17:00)\n- Sentosa Station, VivoCity, Lobby L, Level 3 (09:00 to 21:00) \n- Sentosa Merlion (10:00 to 19:30)\n- Waterfront Station (09:00 to 16:00)",
+    "voucherRequiresPrinting": false,
+    "meetingTime": "10:00",
+    "meetingAddress": "Sentosa Ticketing Counters",
+    "meetingLocation": "Make your own way\nSentosa Ticketing Counters",
+    "meetingLocationTranslated": "Make your own way\nSentosa Ticketing Counters",
+    "cancellationPolicies": [],
+    "recommendedMarkup": 46.77,
+    "childRecommendedMarkup": null,
+    "seniorRecommendedMarkup": null,
+    "adultParityPrice": null,
+    "childParityPrice": null,
+    "seniorParityPrice": null,
+    "validity": {
+      "type": "only_visit_date",
+      "days": null,
+      "date": null
+    },
+    "timeslots": [],
+    "options": {
+      "perBooking": [],
+      "perPax": [
+        {
+          "uuid": "0082c3b6-e0d2-4ea8-bb6f-ba1d8acf4b0c",
+          "name": "Gender",
+          "description": null,
+          "required": true,
+          "formatRegex": null,
+          "inputType": 1,
+          "validFrom": null,
+          "validTo": null,
+          "items": [
+            {
+              "label": "Male",
+              "value": "Male"
+            },
+            {
+              "label": "Female",
+              "value": "Female"
+            }
+          ]
+        },
+        {
+          "uuid": "d1f293a3-9cef-4c19-aad4-f29373797c76",
+          "name": "Full name",
+          "description": "as shown on passport",
+          "required": true,
+          "formatRegex": null,
+          "inputType": 4,
+          "validFrom": null,
+          "validTo": null
+        },
+        {
+          "uuid": "606debd1-e857-43d6-814c-428f0430a7c7",
+          "name": "Nationality",
+          "description": "",
+          "required": true,
+          "formatRegex": null,
+          "inputType": 12,
+          "validFrom": null,
+          "validTo": null
+        },
+        {
+          "uuid": "9d94eebc-e22f-40bd-b4ad-433b5bf6acd8",
+          "name": "Date of birth",
+          "description": "",
+          "required": true,
+          "formatRegex": null,
+          "inputType": 6,
+          "validFrom": null,
+          "validTo": null
+        },
+        {
+          "uuid": "b0ec79cd-ddb9-4912-a36e-e4e2ff68fc0b",
+          "name": "Passport number",
+          "description": "",
+          "required": true,
+          "formatRegex": null,
+          "inputType": 4,
+          "validFrom": null,
+          "validTo": null
+        },
+        {
+          "uuid": "37d4537b-1284-4754-8c16-cc95f819369a",
+          "name": "Passport expiry date",
+          "description": "",
+          "required": true,
+          "formatRegex": null,
+          "inputType": 6,
+          "validFrom": null,
+          "validTo": null
+        }
+      ]
+    },
+    "links": [
+      {
+        "method": "GET",
+        "rel": "self",
+        "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f"
+      },
+      {
+        "method": "GET",
+        "rel": "product",
+        "href": "/v2/products/43096939-a213-560d-ab63-24825f7822ae"
+      },
+      {
+        "method": "GET",
+        "rel": "priceLists",
+        "href": "/v2/product-types/0c7491a2-355f-5b4d-82c9-c1b86236653f/price-lists"
+      }
+    ]
+  }
+}

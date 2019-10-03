@@ -1,0 +1,14 @@
+{
+  "error": {
+    "code": "not_found",
+    "message": "Listing was not found or expired, provided UUID: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "http_code": 404
+  },
+  "links": [
+    {
+      "method": "GET",
+      "rel": "docs",
+      "href": "https://bmglabsapi.docs.apiary.io/#reference/products/product"
+    }
+  ]
+}

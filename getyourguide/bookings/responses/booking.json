@@ -1,0 +1,50 @@
+{
+  "_metadata": {
+    "descriptor": "GetYourGuide AG",
+    "method": "getBookingByHashAction",
+    "date": "2018-03-13T07:29:07Z",
+    "status": "OK",
+    "query": "cnt_language=en&currency=USD",
+    "availableLanguages": [],
+    "exchange": {
+      "rate": 0.8108743429,
+      "currency": "USD"
+    },
+    "totalCount": 1,
+    "limit": 10,
+    "offset": 0
+  },
+  "data": {
+    "booking": {
+      "booking_id": 27896440,
+      "booking_hash": "A5YWS4TWQBORQ0FYQS4UYF4ECTHKKE8W",
+      "booking_status": "temp",
+      "shopping_cart_id": 45942262,
+      "shopping_cart_hash": "7TB1BFYC64QH5234QA980F58DBUMGJIH",
+      "bookable": {
+        "tour_id": 121665,
+        "option_id": 178119,
+        "datetime": "2018-03-14T08:00:00",
+        "datetime_utc": "2018-03-14T01:00:00Z",
+        "datetime_type": "datetime",
+        "price": 118,
+        "categories": [
+          {
+            "category_id": 488562,
+            "name": "Adults",
+            "number_of_participants": 1
+          }
+        ],
+        "booking_parameters": [
+          {
+            "name": "language",
+            "value_1": "language_live",
+            "value_2": "en"
+          }
+        ],
+        "valid_until": "2018-03-14T12:00:00",
+        "cancellation_policy_text": "Please note that your activity's cancellation and rescheduling deadline has passed."
+      }
+    }
+  }
+}
